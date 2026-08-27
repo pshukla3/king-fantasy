@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+site/
+.netlify/
+*.npy
+vaporai.html
+nfl_engine.html
+ui_data.json
+weekly_stats_long_history.csv
+weekly_stats_with_projections.csv
+depth_raw.csv
+sleeper_players.json

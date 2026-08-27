@@ -1,0 +1,101 @@
+team,player,pos,proj,kind
+VS,Caleb Williams,QB,18.94,skill
+VS,Omarion Hampton,RB,15.21,skill
+VS,Bhayshul Tuten,RB,11.16,skill
+VS,Jaxon Smith-Njigba,WR,19.67,skill
+VS,George Pickens,WR,15.13,skill
+VS,Kyle Pitts,TE,10.84,skill
+VS,Tee Higgins,WR,15.65,skill
+VS,Josh Downs,WR,12.55,skill
+VS,Butker,K,6.69,flat
+VS,SEA DST,DST,8.11,flat
+Raachit,Joe Burrow,QB,19.36,skill
+Raachit,Kyren Williams,RB,14.23,skill
+Raachit,Josh Jacobs,RB,13.09,skill
+Raachit,Amon-Ra St. Brown,WR,19.79,skill
+Raachit,A.J. Brown,WR,16.86,skill
+Raachit,George Kittle,TE,10.12,skill
+Raachit,David Montgomery,RB,14.22,skill
+Raachit,Jameson Williams,WR,13.91,skill
+Raachit,Smack,K,6.39,flat
+Raachit,DET DST,DST,7.78,flat
+Nemai,Dak Prescott,QB,18.10,skill
+Nemai,Kenneth Walker,RB,15.53,skill
+Nemai,Javonte Williams,RB,14.72,skill
+Nemai,Ja'Marr Chase,WR,19.78,skill
+Nemai,Chris Olave,WR,16.23,skill
+Nemai,Harold Fannin,TE,11.44,skill
+Nemai,Travis Etienne,RB,13.91,skill
+Nemai,Carnell Tate,WR,11.94,skill
+Nemai,Boswell,K,6.51,flat
+Nemai,JAX DST,DST,9.45,flat
+Bryson,Lamar Jackson,QB,20.23,skill
+Bryson,Ashton Jeanty,RB,12.61,skill
+Bryson,Cam Skattebo,RB,13.82,skill
+Bryson,Puka Nacua,WR,20.48,skill
+Bryson,Malik Nabers,WR,13.71,skill
+Bryson,Sam LaPorta,TE,12.04,skill
+Bryson,DJ Moore,WR,12.11,skill
+Bryson,Kyle Monangai,RB,8.42,skill
+Bryson,Mevis,K,7.25,flat
+Bryson,PHI DST,DST,8.07,flat
+Alex,Jaxson Dart,QB,18.61,skill
+Alex,Christian McCaffrey,RB,21.04,skill
+Alex,Jeremiyah Love,RB,13.22,skill
+Alex,Justin Jefferson,WR,16.75,skill
+Alex,Terry McLaurin,WR,13.59,skill
+Alex,Tyler Warren,TE,12.74,skill
+Alex,Breece Hall,RB,13.75,skill
+Alex,Chuba Hubbard,RB,10.26,skill
+Alex,Dicker,K,7.70,flat
+Alex,DEN DST,DST,6.58,flat
+Charlie,Josh Allen,QB,20.36,skill
+Charlie,James Cook,RB,17.03,skill
+Charlie,Saquon Barkley,RB,14.88,skill
+Charlie,Ladd McConkey,WR,13.30,skill
+Charlie,Davante Adams,WR,12.29,skill
+Charlie,Tucker Kraft,TE,10.88,skill
+Charlie,Bucky Irving,RB,12.18,skill
+Charlie,Brian Thomas,WR,10.50,skill
+Charlie,Fairbairn,K,7.09,flat
+Charlie,LAR DST,DST,6.99,flat
+Daichi,Jayden Daniels,QB,18.41,skill
+Daichi,Jonathan Taylor,RB,18.89,skill
+Daichi,Chase Brown,RB,16.72,skill
+Daichi,Rashee Rice,WR,14.46,skill
+Daichi,DeVonta Smith,WR,14.88,skill
+Daichi,Colston Loveland,TE,14.18,skill
+Daichi,Luther Burden,WR,12.70,skill
+Daichi,Quentin Johnston,WR,11.10,skill
+Daichi,Myers,K,7.32,flat
+Daichi,PIT DST,DST,7.84,flat
+Nabeel,Drake Maye,QB,18.12,skill
+Nabeel,De'Von Achane,RB,17.49,skill
+Nabeel,Rhamondre Stevenson,RB,11.28,skill
+Nabeel,CeeDee Lamb,WR,17.15,skill
+Nabeel,Zay Flowers,WR,15.58,skill
+Nabeel,Trey McBride,TE,15.61,skill
+Nabeel,D'Andre Swift,RB,12.70,skill
+Nabeel,Jayden Reed,WR,13.15,skill
+Nabeel,Loop,K,7.34,flat
+Nabeel,HOU DST,DST,6.42,flat
+Gurman,Jalen Hurts,QB,19.29,skill
+Gurman,Jahmyr Gibbs,RB,22.29,skill
+Gurman,Derrick Henry,RB,15.70,skill
+Gurman,Nico Collins,WR,17.40,skill
+Gurman,Garrett Wilson,WR,13.54,skill
+Gurman,Travis Kelce,TE,11.03,skill
+Gurman,Jaylen Waddle,WR,14.75,skill
+Gurman,Mike Evans,WR,12.75,skill
+Gurman,Little,K,6.93,flat
+Gurman,LAC DST,DST,8.61,flat
+Benji,Justin Herbert,QB,17.47,skill
+Benji,Bijan Robinson,RB,21.47,skill
+Benji,Quinshon Judkins,RB,12.22,skill
+Benji,Drake London,WR,15.83,skill
+Benji,Tetairoa McMillan,WR,13.95,skill
+Benji,Brock Bowers,TE,16.01,skill
+Benji,Emeka Egbuka,WR,11.66,skill
+Benji,Christian Watson,WR,13.68,skill
+Benji,Aubrey,K,7.32,flat
+Benji,BAL DST,DST,7.90,flat

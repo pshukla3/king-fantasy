@@ -1,0 +1,1454 @@
+gsis_id,weeks_out,weeks_doubtful,weeks_questionable,injury_risk_score,primary_injuries,name
+00-0023459,0,0,1,1.0,Wrist,Aaron Rodgers
+00-0023853,2,0,1,7.0,Quadricep,Matt Prater
+00-0026158,0,0,1,1.0,Shoulder,Joe Flacco
+00-0026190,0,0,0,0.0,,Calais Campbell
+00-0026498,0,0,0,0.0,,Matthew Stafford
+00-0026858,2,0,1,7.0,"Groin, Neck",Graham Gano
+00-0027114,0,0,0,0.0,,Thomas Morstead
+00-0027857,0,0,3,3.0,"Hamstring, Knee",
+00-0027865,1,0,0,3.0,Not injury related - other,Brandon Graham
+00-0027940,0,0,0,0.0,,Von Miller
+00-0027962,0,0,0,0.0,,Cameron Jordan
+00-0027969,0,0,1,1.0,Not injury related - resting player,Cameron Heyward
+00-0027973,0,0,1,1.0,Thumb,Andy Dalton
+00-0028118,2,0,2,8.0,"Groin, Knee",Tyrod Taylor
+00-0028292,1,0,0,3.0,Concussion,Nick Bellore
+00-0028845,0,0,2,2.0,Chest,Josh Harris
+00-0028872,0,0,0,0.0,,Johnny Hekker
+00-0029008,0,0,0,0.0,,
+00-0029255,0,0,1,1.0,Knee,Bobby Wagner
+00-0029263,0,0,0,0.0,,Russell Wilson
+00-0029316,0,0,5,5.0,"Groin, Knee, Not injury related - resting player",
+00-0029562,0,0,1,1.0,Knee,Lavonte David
+00-0029592,0,0,3,3.0,"Biceps, Groin, Not injury related - resting player",
+00-0029606,1,0,2,5.0,Illness,Harrison Smith
+00-0029607,0,0,1,1.0,Calf,Demario Davis
+00-0029685,0,0,0,0.0,,
+00-0029692,0,0,0,0.0,,Bryan Anger
+00-0029822,0,1,4,6.0,Quadricep,Brandon McManus
+00-0029892,0,0,0,0.0,,Kyle Juszczyk
+00-0030061,0,0,1,1.0,Shoulder,Zach Ertz
+00-0030062,1,0,1,4.0,Concussion,Darius Slay
+00-0030070,0,0,1,1.0,Illness,John Jenkins
+00-0030097,0,0,1,1.0,Groin,
+00-0030114,3,0,0,9.0,Hamstring,Jordan Poyer
+00-0030140,0,0,1,1.0,Back,Tress Way
+00-0030279,0,0,0,0.0,,Keenan Allen
+00-0030294,1,0,0,3.0,Hamstring,Tony Jefferson
+00-0030561,7,0,1,22.0,Foot,
+00-0030564,0,0,0,0.0,,DeAndre Hopkins
+00-0030565,2,0,0,6.0,"Ankle, Shoulder",Geno Smith
+00-0030615,0,0,0,0.0,,James Winchester
+00-0030725,1,0,0,3.0,Back,
+00-0031040,0,0,1,1.0,Elbow,Khalil Mack
+00-0031054,4,0,1,13.0,Calf,DaQuan Jones
+00-0031156,1,0,0,3.0,Illness,
+00-0031177,0,0,0,0.0,,Brent Urban
+00-0031203,1,0,2,5.0,Thigh,Cairo Santos
+00-0031236,1,0,0,3.0,Not injury related - personal matter,Brandin Cooks
+00-0031237,0,0,1,1.0,Illness,Teddy Bridgewater
+00-0031254,1,0,3,6.0,Knee,Denico Autry
+00-0031270,0,0,0,0.0,,Shelby Harris
+00-0031279,0,0,1,1.0,Ankle,
+00-0031330,0,0,1,1.0,Foot,
+00-0031345,0,0,1,1.0,Back,Jimmy Garoppolo
+00-0031360,1,0,1,4.0,Hamstring,Kyle Van Noy
+00-0031364,0,0,3,3.0,"Hamstring, Shoulder",Jadeveon Clowney
+00-0031381,0,2,4,8.0,"Hamstring, Knee, Oblique",Davante Adams
+00-0031408,4,0,2,14.0,"Collarbone, Hamstring",Mike Evans
+00-0031411,1,0,0,3.0,Quadricep,Demarcus Lawrence
+00-0031426,0,0,2,2.0,"Back, Knee",
+00-0031484,0,0,0,0.0,,Chris Manhertz
+00-0031550,2,0,4,10.0,"Hamstring, Neck",Shaq Thompson
+00-0031551,1,0,2,5.0,"Concussion, Illness",Eddie Goldman
+00-0031557,2,0,1,7.0,Ankle,Jordan Phillips
+00-0031583,2,0,2,8.0,Knee,Grady Jarrett
+00-0031588,0,0,1,1.0,Chest,Stefon Diggs
+00-0031608,0,0,0,0.0,,Quandre Diggs
+00-0031610,3,0,1,10.0,"Hip, Pectoral",Darren Waller
+00-0031622,1,0,1,4.0,Knee,
+00-0031687,0,0,2,2.0,"Ankle, Knee",Raheem Mostert
+00-0031740,0,0,0,0.0,,Neville Hewitt
+00-0031763,0,0,0,0.0,,DeAndre Carter
+00-0031898,1,0,0,3.0,Illness,Alex Singleton
+00-0031911,0,0,0,0.0,,
+00-0031933,0,0,0,0.0,,Leonard Williams
+00-0031957,3,4,1,18.0,"Ankle, Foot, Toe",Rakeem Nunez-Roches
+00-0032052,0,0,0,0.0,,Dante Fowler
+00-0032071,2,0,2,8.0,"Ankle, Not injury related - other",
+00-0032103,1,0,2,5.0,Ankle,Denzel Perryman
+00-0032104,0,0,0,0.0,,Ameer Abdullah
+00-0032146,0,0,3,3.0,"Back, Hamstring",Bud Dupree
+00-0032164,0,0,2,2.0,Hand,Arik Armstead
+00-0032203,1,0,0,3.0,Concussion,
+00-0032211,0,0,0,0.0,,Tyler Lockett
+00-0032228,0,0,0,0.0,,
+00-0032234,0,0,0,0.0,,
+00-0032242,2,2,1,11.0,Ankle,
+00-0032268,2,0,0,6.0,Hand,Marcus Mariota
+00-0032378,3,0,1,10.0,"Back, Neck",DeForest Buckner
+00-0032380,3,0,1,10.0,"Hamstring, Oblique",
+00-0032381,1,1,14,19.0,"Illness, Shoulder",
+00-0032383,4,0,1,13.0,Concussion,
+00-0032385,0,0,0,0.0,,Sterling Shepard
+00-0032387,1,0,1,4.0,Wrist,Jarran Reed
+00-0032391,0,0,0,0.0,,
+00-0032392,1,0,0,3.0,Concussion,Austin Hooper
+00-0032394,0,0,0,0.0,,Nick Vannett
+00-0032395,1,0,3,6.0,Knee,
+00-0032398,0,0,1,1.0,Illness,Chris Moore
+00-0032399,1,0,0,3.0,Knee,Miles Killebrew
+00-0032415,0,0,0,0.0,,Matt Judon
+00-0032424,0,0,1,1.0,Back,D.J. Reader
+00-0032442,0,0,0,0.0,,Elandon Roberts
+00-0032464,2,0,2,8.0,"Ankle, Neck",Kalif Raymond
+00-0032466,1,0,0,3.0,Knee,
+00-0032497,0,0,0,0.0,,
+00-0032569,0,0,0,0.0,,Wil Lutz
+00-0032580,1,0,2,5.0,"Hamstring, Rib",Jonathan Jones
+00-0032667,0,0,0,0.0,,Roy Robertson-Harris
+00-0032701,2,0,0,6.0,Hamstring,
+00-0032726,2,0,0,6.0,Quadricep,Ka'imi Fairbairn
+00-0032759,0,0,0,0.0,,Sheldon Rankins
+00-0032762,0,0,0,0.0,,Chris Jones
+00-0032889,0,0,0,0.0,,A'Shawn Robinson
+00-0032918,2,0,1,7.0,"Hand, Knee",C.J. Ham
+00-0032943,0,0,0,0.0,,Riley Dixon
+00-0032950,0,0,0,0.0,,Carson Wentz
+00-0032954,2,0,2,8.0,"Pectoral, Triceps",
+00-0032965,0,0,3,3.0,"Ankle, Knee",
+00-0033038,2,0,1,7.0,Neck,Eric Murray
+00-0033040,0,0,0,0.0,,Tyreek Hill
+00-0033046,0,0,0,0.0,,Jihad Ward
+00-0033050,0,0,0,0.0,,Xavien Howard
+00-0033051,0,0,2,2.0,Foot,David Onyemata
+00-0033055,0,0,1,1.0,Illness,Jalen Ramsey
+00-0033057,3,0,6,15.0,"Concussion, Elbow, Eye, Knee",
+00-0033063,0,0,0,0.0,,
+00-0033066,0,0,0,0.0,,Andrew Billings
+00-0033072,2,0,2,8.0,Hamstring,Leonard Floyd
+00-0033077,0,0,0,0.0,,Dak Prescott
+00-0033082,1,0,2,5.0,Calf,
+00-0033090,0,0,0,0.0,,Hunter Henry
+00-0033109,1,0,0,3.0,Thigh,Javon Hargrave
+00-0033110,0,1,2,4.0,"Ankle, Hip",Tyler Higbee
+00-0033120,0,0,0,0.0,,Kenny Clark
+00-0033131,0,0,1,1.0,Oblique,Maliek Collins
+00-0033132,0,0,0,0.0,,Kevin Byard
+00-0033156,1,0,1,4.0,Hamstring,Joey Bosa
+00-0033269,0,0,0,0.0,,Rigoberto Sanchez
+00-0033280,0,0,1,1.0,Calf,Christian McCaffrey
+00-0033281,2,0,1,7.0,"Calf, Finger, Illness",Marlon Humphrey
+00-0033282,2,0,2,8.0,"Elbow, Neck",Curtis Samuel
+00-0033284,1,0,2,5.0,"Elbow, Knee",
+00-0033288,0,0,2,2.0,Ankle,George Kittle
+00-0033290,0,1,2,4.0,"Back, Pectoral",
+00-0033293,1,0,2,5.0,"Hamstring, Hip, Shoulder",Aaron Jones
+00-0033294,0,0,1,1.0,Illness,Chuck Clark
+00-0033297,1,0,0,3.0,Ankle,D.J. Jones
+00-0033307,0,0,0,0.0,,Kendrick Bourne
+00-0033336,0,0,0,0.0,,Eric Wilson
+00-0033357,0,0,1,1.0,Knee,Taysom Hill
+00-0033375,1,0,0,3.0,Groin,Tim Patrick
+00-0033376,6,0,0,18.0,Calf,Patrick Ricard
+00-0033381,1,0,2,5.0,"Back, Biceps, Illness",Adam Butler
+00-0033393,3,0,1,10.0,Achilles,Kenny Moore
+00-0033512,0,0,0,0.0,,Damontae Kazee
+00-0033523,0,0,0,0.0,,Jonathan Allen
+00-0033526,1,1,0,5.0,Ankle,Samaje Perine
+00-0033537,3,0,0,9.0,Achilles,Deshaun Watson
+00-0033546,0,0,0,0.0,,Dalvin Tomlinson
+00-0033547,3,0,0,9.0,Hamstring,Zach Cunningham
+00-0033548,2,1,0,8.0,"Foot, Hamstring",Chidobe Awuzie
+00-0033551,0,1,2,4.0,Foot,Rasul Douglas
+00-0033553,0,0,0,0.0,,James Conner
+00-0033555,1,0,1,4.0,Abdomen,Mack Hollins
+00-0033557,0,0,1,1.0,Back,Jalen Reeves-Maybin
+00-0033571,3,0,2,11.0,Pectoral,Matt Milano
+00-0033572,2,0,1,7.0,"Foot, Groin",Jamal Agnew
+00-0033576,1,0,1,4.0,Calf,Eric Saubert
+00-0033579,3,0,2,11.0,"Ankle, Hamstring",Xavier Woods
+00-0033589,0,0,3,3.0,Elbow,David Moore
+00-0033591,5,0,1,16.0,Groin,Noah Brown
+00-0033595,1,0,0,3.0,Knee,Pat O'Connor
+00-0033697,0,0,0,0.0,,Michael Davis
+00-0033699,0,0,0,0.0,,Austin Ekeler
+00-0033702,1,0,0,3.0,Not injury related - other,Younghoe Koo
+00-0033752,3,0,0,9.0,Foot,
+00-0033783,0,0,0,0.0,,Ahkello Witherspoon
+00-0033793,0,0,1,1.0,Neck,
+00-0033857,0,0,0,0.0,,JuJu Smith-Schuster
+00-0033858,0,0,1,1.0,Not injury related - resting player,Jonnu Smith
+00-0033860,0,0,0,0.0,,Davon Godchaux
+00-0033863,0,0,1,1.0,Back,
+00-0033868,0,0,0,0.0,,Myles Garrett
+00-0033869,0,0,0,0.0,,Mitchell Trubisky
+00-0033870,1,0,0,3.0,Calf,Solomon Thomas
+00-0033872,0,0,1,1.0,Knee,Jamal Adams
+00-0033873,0,0,0,0.0,,Patrick Mahomes
+00-0033874,0,0,0,0.0,,Marshon Lattimore
+00-0033875,4,0,1,13.0,Ankle,Haason Reddick
+00-0033876,0,0,0,0.0,,Derek Barnett
+00-0033877,1,0,2,5.0,"Back, Toe",Malik Hooker
+00-0033878,1,1,0,5.0,"Concussion, Groin",Adoree Jackson
+00-0033881,1,0,0,3.0,Back,Evan Engram
+00-0033883,2,0,0,6.0,Quadricep,Jabrill Peppers
+00-0033884,0,1,1,3.0,Groin,Tre'Davious White
+00-0033885,5,0,1,16.0,Knee,David Njoku
+00-0033886,3,0,0,9.0,Lung,T.J. Watt
+00-0033889,0,0,0,0.0,,
+00-0033890,1,0,0,3.0,Concussion,Budda Baker
+00-0033891,1,0,2,5.0,"Concussion, Knee",Zay Jones
+00-0033901,0,0,0,0.0,,
+00-0033904,1,0,0,3.0,Concussion,
+00-0033906,6,0,4,22.0,"Ankle, Knee",Alvin Kamara
+00-0033908,0,0,2,2.0,"Hamstring, Heel",Cooper Kupp
+00-0033910,0,0,0,0.0,,
+00-0033914,1,0,0,3.0,Concussion,Alex Anzalone
+00-0033921,8,0,2,26.0,"Ankle, Fibula",Chris Godwin
+00-0033923,0,0,0,0.0,,Kareem Hunt
+00-0033928,3,0,1,10.0,"Foot, Neck",Jourdan Lewis
+00-0033935,4,1,2,16.0,Hip,Trey Hendrickson
+00-0033941,0,0,0,0.0,,Rayshawn Jenkins
+00-0033943,3,0,0,9.0,"Hamstring, Hip",Josh Reynolds
+00-0033945,3,0,0,9.0,Knee,Samson Ebukam
+00-0033947,0,0,1,1.0,Knee,Deatrich Wise
+00-0033952,0,0,1,1.0,Foot,Grover Stewart
+00-0033955,0,0,0,0.0,,Jeremy McNichols
+00-0033964,0,0,2,2.0,Knee,Al-Quadin Muhammad
+00-0034051,0,0,1,1.0,Knee,Christian Kuntz
+00-0034116,0,0,0,0.0,,J.T. Gray
+00-0034158,1,0,5,8.0,"Heel, Knee",
+00-0034159,2,0,2,8.0,"Illness, Knee",Will Dissly
+00-0034173,2,0,0,6.0,Hamstring,Eddy Pineiro
+00-0034203,0,2,0,4.0,"Shoulder, Tibia",Darious Williams
+00-0034234,0,0,2,2.0,Calf,Poona Ford
+00-0034248,2,1,2,10.0,"Ankle, Quadricep",Elijah Campbell
+00-0034251,0,0,0,0.0,,Daniel Ekuale
+00-0034261,0,0,1,1.0,Knee,
+00-0034272,0,0,0,0.0,,Marquez Valdes-Scantling
+00-0034275,1,0,0,3.0,Shoulder,Foley Fatukasi
+00-0034277,2,0,1,7.0,"Knee, Not injury related - resting player",DeShon Elliott
+00-0034278,0,0,0,0.0,,Tremon Smith
+00-0034281,0,0,2,2.0,"Back, Concussion",
+00-0034285,0,0,0,0.0,,Zach Sieler
+00-0034302,0,0,0,0.0,,Frankie Luvu
+00-0034333,1,0,1,4.0,"Back, Toe",Da'Ron Payne
+00-0034342,0,0,0,0.0,,
+00-0034344,3,0,2,11.0,"Chest, Shoulder",Marcus Davenport
+00-0034346,2,0,8,14.0,"Ankle, Hip, Knee",
+00-0034347,0,0,1,1.0,Ankle,
+00-0034350,1,0,0,3.0,Knee,Uchenna Nwosu
+00-0034351,2,0,0,6.0,Knee,Dallas Goedert
+00-0034356,0,0,0,0.0,,Donte Jackson
+00-0034359,4,0,1,13.0,"Ankle, Groin, Oblique",Tyquan Lewis
+00-0034361,1,0,1,4.0,Knee,Justin Reid
+00-0034365,0,0,1,1.0,Calf,Ian Thomas
+00-0034371,1,0,1,4.0,Groin,Da'Shawn Hand
+00-0034373,0,0,1,1.0,Hamstring,Dorance Armstrong
+00-0034376,0,0,5,5.0,"Groin, Quadricep",Taron Johnson
+00-0034377,3,0,1,10.0,"Back, Hamstring",Avonte Maddox
+00-0034381,0,0,2,2.0,Ankle,Josh Sweat
+00-0034383,0,0,1,1.0,Knee,Dalton Schultz
+00-0034384,1,0,2,5.0,"Hamstring, Knee",D.J. Reed
+00-0034386,2,0,2,8.0,"Calf, Concussion",Justin Watson
+00-0034387,1,0,2,5.0,"Knee, Neck, Not injury related - personal matter",Bilal Nichols
+00-0034391,0,0,0,0.0,,Siran Neal
+00-0034397,0,0,0,0.0,,Tim Settle
+00-0034399,2,0,2,8.0,Calf,
+00-0034407,1,0,0,3.0,Not injury related - other,Ray-Ray McCloud
+00-0034413,0,0,0,0.0,,Foyesade Oluokun
+00-0034418,1,0,0,3.0,Knee,Cedrick Wilson
+00-0034419,2,0,0,6.0,Hamstring,Braxton Berrios
+00-0034431,0,0,0,0.0,,Zaire Franklin
+00-0034437,0,0,0,0.0,,Logan Cooke
+00-0034473,0,0,0,0.0,,Dennis Gardeck
+00-0034487,0,0,0,0.0,,Trent Sherfield
+00-0034495,5,1,1,18.0,"Ankle, Hamstring, Not injury related - personal matter",
+00-0034521,1,0,1,4.0,"Neck, Not injury related - personal matter",Allen Lazard
+00-0034573,2,0,1,7.0,Concussion,Charvarius Ward
+00-0034613,1,0,0,3.0,Concussion,Tanner Hudson
+00-0034639,0,0,1,1.0,Groin,Mike Ford
+00-0034668,0,0,0,0.0,,
+00-0034673,1,0,1,4.0,Groin,Tremaine Edmunds
+00-0034675,0,0,1,1.0,Knee,Jessie Bates
+00-0034720,3,0,2,11.0,"Ankle, Foot",Robert Spillane
+00-0034721,0,0,0,0.0,,Corey Bojorquez
+00-0034728,1,0,0,3.0,Knee,Jaire Alexander
+00-0034729,1,0,0,3.0,Ankle,
+00-0034753,0,0,0,0.0,,Mark Andrews
+00-0034754,0,0,1,1.0,Groin,Oren Burks
+00-0034759,3,0,0,9.0,Ankle,
+00-0034760,1,0,1,4.0,Ankle,Nathan Shepherd
+00-0034768,0,0,1,1.0,Hand,
+00-0034773,0,0,2,2.0,Foot,Vita Vea
+00-0034775,4,0,1,13.0,"Hamstring, Illness",Christian Kirk
+00-0034778,0,0,2,2.0,"Hip, Illness",Carlton Davis
+00-0034779,1,0,0,3.0,Illness,Ronnie Harrison
+00-0034780,2,0,1,7.0,Hamstring,Isaac Yiadom
+00-0034782,0,0,3,3.0,Foot,Harrison Phillips
+00-0034789,3,0,0,9.0,Calf,Minkah Fitzpatrick
+00-0034790,0,0,0,0.0,,Derwin James
+00-0034791,0,0,2,2.0,Ribs,Nick Chubb
+00-0034794,3,0,0,9.0,Hip,Jason Sanders
+00-0034796,3,1,0,11.0,"Back, Hamstring",Lamar Jackson
+00-0034797,0,0,0,0.0,,Jerome Baker
+00-0034798,0,0,1,1.0,Calf,Durham Smythe
+00-0034800,0,0,3,3.0,Ankle,B.J. Hill
+00-0034801,4,0,0,12.0,"Hamstring, Not injury related - personal matter",Josh Woods
+00-0034803,0,0,0,0.0,,
+00-0034805,0,0,1,1.0,Hip,John Franklin-Myers
+00-0034810,0,0,0,0.0,,Sebastian Joseph-Day
+00-0034815,2,0,0,6.0,Ankle,Fred Warner
+00-0034818,1,0,1,4.0,Illness,Derrick Nnadi
+00-0034825,4,0,3,15.0,"Hip, Illness, Quadricep",Arden Key
+00-0034827,0,0,1,1.0,Illness,D.J. Moore
+00-0034828,3,0,7,16.0,"Ankle, Knee",Harold Landry
+00-0034829,1,0,0,3.0,Pectoral,Mike Gesicki
+00-0034832,0,0,2,2.0,"Foot, Shoulder",Bradley Chubb
+00-0034836,1,0,0,3.0,Concussion,
+00-0034837,3,0,2,11.0,"Hamstring, Knee",Calvin Ridley
+00-0034842,2,0,1,7.0,Knee,Taven Bryan
+00-0034843,2,0,2,8.0,"Ankle, Neck",Mike Hughes
+00-0034844,0,0,0,0.0,,Saquon Barkley
+00-0034847,0,0,1,1.0,Shoulder,
+00-0034854,2,0,0,6.0,"Groin, Shoulder",KhaDarel Hodge
+00-0034855,0,0,2,2.0,"Biceps, Shoulder",Baker Mayfield
+00-0034856,2,0,0,6.0,Calf,Denzel Ward
+00-0034857,0,0,0,0.0,,Josh Allen
+00-0034869,0,0,1,1.0,Oblique,Sam Darnold
+00-0034874,2,0,0,6.0,Hamstring,Roquan Smith
+00-0034941,0,0,0,0.0,,Mitch Wishnowsky
+00-0034951,0,0,0,0.0,,
+00-0034957,1,0,0,3.0,Knee,
+00-0034960,0,0,1,1.0,Knee,Jakobi Meyers
+00-0034973,1,0,1,4.0,Knee,Maxx Crosby
+00-0034974,2,2,1,11.0,Hamstring,Julian Love
+00-0034975,2,0,0,6.0,"Neck, Toe",Justice Hill
+00-0034978,2,0,1,7.0,Biceps,
+00-0034981,0,0,1,1.0,Knee,Foster Moreau
+00-0034982,5,0,1,16.0,"Hamstring, Quadricep",Dre Greenlaw
+00-0034983,0,0,0,0.0,,Hunter Renfrow
+00-0034987,0,0,1,1.0,Knee,E.J. Speed
+00-0034989,1,0,0,3.0,Concussion,
+00-0034993,1,0,1,4.0,"Concussion, Shoulder",Marcus Epps
+00-0034999,0,0,0,0.0,,Ty Summers
+00-0035000,0,0,1,1.0,Illness,Quinton Bell
+00-0035020,4,1,3,17.0,"Calf, Hamstring, Illness, Neck",Demetrius Flannigan-Fowles
+00-0035021,1,0,0,3.0,Chest,Ashton Dulin
+00-0035026,1,0,1,4.0,Pectoral,Kevin Givens
+00-0035042,0,1,0,2.0,Knee,Jamie Gillan
+00-0035112,3,0,0,9.0,"Back, Concussion",
+00-0035125,0,0,0,0.0,,Alec Ingold
+00-0035127,0,0,0,0.0,,
+00-0035133,0,0,2,2.0,"Illness, Neck",Keisean Nixon
+00-0035140,1,0,1,4.0,Calf,Mecole Hardman
+00-0035144,2,0,1,7.0,"Ankle, Ribs",Mack Wilson
+00-0035166,0,0,1,1.0,Ankle,Azeez Al-Shaair
+00-0035190,0,0,1,1.0,Ankle,A.J. Cole
+00-0035192,1,0,0,3.0,Calf,Joey Slye
+00-0035202,0,0,2,2.0,"Hamstring, Toe",Del'Shawn Phillips
+00-0035208,0,0,1,1.0,Illness,Olamide Zaccheaus
+00-0035227,1,0,1,4.0,Neck,P.J. Locke
+00-0035228,0,0,3,3.0,"Foot, Illness",Kyler Murray
+00-0035229,2,0,0,6.0,Shoulder,T.J. Hockenson
+00-0035230,3,0,2,11.0,"Ankle, Biceps",Ed Oliver
+00-0035234,1,0,0,3.0,Concussion,
+00-0035237,2,1,0,8.0,"Elbow, Triceps",
+00-0035240,1,0,1,4.0,"Calf, Not injury related - personal matter",Jahlani Tavai
+00-0035243,1,0,1,4.0,Knee,Miles Sanders
+00-0035244,1,0,1,4.0,Fibula,Lonnie Johnson
+00-0035245,1,0,0,3.0,Knee,
+00-0035248,0,0,0,0.0,,Zach Allen
+00-0035249,2,0,0,6.0,Foot,Josh Oliver
+00-0035253,1,0,1,4.0,"Concussion, Knee",Chauncey Gardner-Johnson
+00-0035254,2,0,1,7.0,"Knee, Ribs",Anthony Nelson
+00-0035258,0,0,1,1.0,Elbow,
+00-0035261,0,0,0,0.0,,Tony Pollard
+00-0035262,0,0,0,0.0,,Drue Tranquill
+00-0035266,0,0,0,0.0,,
+00-0035269,1,0,0,3.0,Back,Matt Gay
+00-0035272,5,0,2,17.0,"Concussion, Neck",Andrew Van Ginkel
+00-0035276,0,0,1,1.0,Hamstring,Blake Cashman
+00-0035277,0,0,1,1.0,Ribs,Michael Jackson
+00-0035279,0,0,0,0.0,,Charles Omenihu
+00-0035282,0,0,0,0.0,,Easton Stick
+00-0035286,2,0,1,7.0,Illness,Cole Holcomb
+00-0035298,3,0,0,9.0,Finger,Scotty Miller
+00-0035301,2,0,0,6.0,Elbow,Donovan Wilson
+00-0035316,0,0,0,0.0,,Kaden Elliss
+00-0035352,1,0,2,5.0,"Chest, Concussion",Tyrel Dodson
+00-0035355,4,0,0,12.0,Shoulder,
+00-0035357,0,0,3,3.0,"Calf, Hamstring, Shoulder",Cam Lewis
+00-0035358,0,0,0,0.0,Illness,Chase McLaughlin
+00-0035378,1,0,0,3.0,Concussion,Andrew Wingard
+00-0035386,6,1,1,21.0,"Glute, Hamstring, Hand",T.J. Edwards
+00-0035409,2,0,0,6.0,Concussion,Shy Tuttle
+00-0035413,0,0,4,4.0,"Hamstring, Hip, Quadricep",Luke Gifford
+00-0035500,1,0,1,4.0,"Chest, Collarbone",Greg Dortch
+00-0035525,0,0,1,1.0,Foot,Devin Bush
+00-0035526,0,0,0,0.0,,
+00-0035535,3,0,0,9.0,Hamstring,Darius Slayton
+00-0035537,0,0,2,2.0,Ankle,Ty Johnson
+00-0035544,0,0,1,1.0,Abdomen,Tom Kennedy
+00-0035567,1,0,1,4.0,Hamstring,Craig Reynolds
+00-0035588,0,0,1,1.0,Illness,
+00-0035594,2,0,2,8.0,"Ankle, Calf, Hamstring",Travis Homer
+00-0035602,2,0,1,7.0,"Ankle, Thumb",Alex Bachman
+00-0035629,1,0,0,3.0,Shoulder,
+00-0035630,0,0,4,4.0,Foot,
+00-0035631,0,0,0,0.0,,Drew Sample
+00-0035632,0,1,0,2.0,Ankle,Amani Hooker
+00-0035636,1,0,2,5.0,Knee,L.J. Collier
+00-0035640,0,0,0,0.0,,DK Metcalf
+00-0035642,0,0,0,0.0,,Josh Hines-Allen
+00-0035643,2,0,1,7.0,Hamstring,Jeffery Simmons
+00-0035644,2,0,1,7.0,"Ankle, Concussion",Noah Fant
+00-0035645,0,0,2,2.0,"Back, Concussion",Gunner Olszewski
+00-0035655,1,0,1,4.0,Ankle,Will Harris
+00-0035659,7,0,0,21.0,Quadricep,Terry McLaurin
+00-0035662,1,0,0,3.0,Not injury related - personal matter,Marquise Brown
+00-0035663,1,0,0,3.0,Knee,Taylor Rapp
+00-0035667,0,0,0,0.0,,Greg Gaines
+00-0035669,0,0,1,1.0,Groin,Nick Scott
+00-0035672,0,0,0,0.0,,Cody Barton
+00-0035674,0,0,1,1.0,Not injury related - personal matter,Jerry Tillery
+00-0035676,1,0,0,3.0,Hamstring,A.J. Brown
+00-0035678,0,0,1,1.0,Knee,Dre'Mont Jones
+00-0035679,0,0,0,0.0,,
+00-0035680,0,0,1,1.0,Shoulder,Quincy Williams
+00-0035681,0,0,0,0.0,,Mike Edwards
+00-0035683,0,0,2,2.0,"Hamstring, Illness",Dexter Lawrence
+00-0035685,0,0,1,1.0,Illness,David Montgomery
+00-0035687,0,0,1,1.0,Shoulder,Bobby Okereke
+00-0035688,2,1,2,10.0,"Ankle, Knee",
+00-0035689,0,0,1,1.0,Knee,Dawson Knox
+00-0035697,0,0,0,0.0,,Germaine Pratt
+00-0035698,1,0,0,3.0,Calf,
+00-0035699,3,0,1,10.0,"Hip, Shoulder",Jamel Dean
+00-0035700,0,0,4,4.0,"Illness, Knee",Josh Jacobs
+00-0035702,0,0,1,1.0,Illness,
+00-0035704,0,0,0,0.0,,Drew Lock
+00-0035705,2,0,1,7.0,Hamstring,Jalen Thompson
+00-0035710,0,0,0,0.0,,Daniel Jones
+00-0035713,0,0,1,1.0,Hip,Brian Burns
+00-0035717,0,0,0,0.0,,Nick Bosa
+00-0035718,0,0,2,2.0,"Concussion, Neck",Quinnen Williams
+00-0035719,1,0,2,5.0,"Heel, Illness",Deebo Samuel
+00-0035726,2,0,1,7.0,Hamstring,Jakob Johnson
+00-0035743,0,0,1,1.0,Concussion,
+00-0035763,1,0,1,4.0,Calf,Malcolm Roach
+00-0035795,3,0,0,9.0,Calf,James Pierre
+00-0035827,0,0,0,0.0,,
+00-0035841,2,0,2,8.0,"Ankle, Back, Oblique",Benito Jones
+00-0035859,1,0,1,4.0,Back,Blake Gillikin
+00-0035890,6,0,4,22.0,"Hamstring, Toe",Tershawn Wharton
+00-0035891,0,0,0,0.0,,Cody White
+00-0035895,0,0,0,0.0,,Joe Bachie
+00-0035942,2,0,0,6.0,Hip,Christian Rozeboom
+00-0035944,0,0,1,1.0,Shoulder,Jonah Williams
+00-0035961,0,0,1,1.0,Back,Krys Barnes
+00-0035992,1,0,2,5.0,Wrist,
+00-0036037,0,0,0,0.0,,Sam Franklin
+00-0036040,0,0,1,1.0,Ankle,Juwan Johnson
+00-0036081,1,0,0,3.0,Ankle,Broderick Washington
+00-0036082,0,0,1,1.0,Illness,
+00-0036087,0,0,0,0.0,,Myles Bryant
+00-0036124,1,0,2,5.0,"Concussion, Illness, Wrist",Khalil Dorsey
+00-0036130,2,0,0,6.0,Neck,Nnamdi Madubuike
+00-0036132,2,0,1,7.0,Hamstring,
+00-0036139,0,0,0,0.0,,Rico Dowdle
+00-0036151,2,0,0,6.0,Hamstring,Bryce Huff
+00-0036157,1,0,1,4.0,"Ankle, Concussion",Kristian Welch
+00-0036158,2,0,0,6.0,Foot,J.K. Dobbins
+00-0036159,0,0,0,0.0,,Josh Uche
+00-0036162,1,0,0,3.0,Hip,Tyler Bass
+00-0036171,0,0,4,4.0,"Ankle, Neck, Pectoral",
+00-0036181,0,0,2,2.0,"Groin, Shin",Teair Tart
+00-0036187,0,0,0,0.0,,Reggie Gilliam
+00-0036192,1,0,1,4.0,"Concussion, Pectoral",A.J. Epenesa
+00-0036193,1,0,0,3.0,Ankle,Anfernee Jennings
+00-0036195,0,0,0,0.0,,
+00-0036198,0,0,1,1.0,Shoulder,
+00-0036204,1,0,1,4.0,"Shoulder, Triceps",LaCale London
+00-0036212,0,0,0,0.0,,Tua Tagovailoa
+00-0036215,0,0,0,0.0,,
+00-0036220,0,0,0,0.0,,Derrick Brown
+00-0036221,0,0,0,0.0,,Brandon Jones
+00-0036222,0,0,0,0.0,,Isaiah Rodgers
+00-0036224,1,0,2,5.0,Shoulder,Jonathan Greenard
+00-0036231,1,0,1,4.0,"Hand, Knee",Kyle Dugger
+00-0036232,1,0,2,5.0,"Neck, Shoulder",Harrison Bryant
+00-0036244,0,1,3,5.0,"Concussion, Shoulder",Colby Parkinson
+00-0036246,0,0,0,0.0,,
+00-0036248,2,0,2,8.0,"Back, Toe",
+00-0036252,0,0,0,0.0,,Michael Pittman
+00-0036253,1,0,0,3.0,Shoulder,Julian Blackmon
+00-0036256,0,0,0,0.0,,
+00-0036258,0,0,0,0.0,,
+00-0036259,1,0,4,7.0,"Ankle, Shoulder",Jauan Jennings
+00-0036260,0,0,0,0.0,,Javon Kinlaw
+00-0036262,0,0,0,0.0,,Davon Hamilton
+00-0036264,1,0,0,3.0,Shoulder,Jordan Love
+00-0036266,0,0,1,1.0,Ankle,Jordan Elliott
+00-0036272,0,0,2,2.0,Ankle,
+00-0036274,3,0,0,9.0,Concussion,Jeff Okudah
+00-0036275,1,0,6,9.0,"Groin, Hip, Quadricep",D'Andre Swift
+00-0036280,0,0,3,3.0,Knee,Malik Harrison
+00-0036282,0,0,0,0.0,,Grant Delpit
+00-0036284,1,0,4,7.0,"Concussion, Illness, Knee",
+00-0036285,2,0,1,7.0,"Hamstring, Illness",A.J. Terrell
+00-0036286,1,0,1,4.0,Knee,K'Lavon Chaisson
+00-0036288,5,0,1,16.0,"Hamstring, Knee",Yetur Gross-Matos
+00-0036290,1,0,1,4.0,"Ankle, Back",Cole Kmet
+00-0036292,1,0,4,7.0,"Calf, Groin",Jaylon Johnson
+00-0036293,0,0,2,2.0,Back,Jeremy Chinn
+00-0036294,0,1,0,2.0,Calf,Logan Wilson
+00-0036298,0,0,1,1.0,Elbow,Akeem Davis-Gaither
+00-0036302,1,0,1,4.0,Hamstring,Jaylinn Hawkins
+00-0036306,2,0,1,7.0,Forearm,Daniel Thomas
+00-0036309,1,0,3,6.0,"Hamstring, Knee, Shoulder",Darnell Mooney
+00-0036310,0,0,1,1.0,Illness,
+00-0036321,5,0,0,15.0,Calf,Chase Young
+00-0036322,0,0,0,0.0,,Justin Jefferson
+00-0036323,0,0,0,0.0,,Patrick Queen
+00-0036325,0,0,3,3.0,Biceps,
+00-0036327,1,0,1,4.0,"Ankle, Knee",
+00-0036328,1,0,0,3.0,Knee,Antonio Gibson
+00-0036329,0,1,2,4.0,"Knee, Quadricep",Ashtyn Davis
+00-0036331,0,0,0,0.0,,Devin Duvernay
+00-0036333,3,1,0,11.0,"Ankle, Pectoral",Alex Highsmith
+00-0036335,1,0,1,4.0,Hip,D.J. Wonnum
+00-0036337,0,0,1,1.0,Shoulder,James Lynch
+00-0036338,0,0,3,3.0,"Hip, Thumb",Troy Dye
+00-0036339,3,0,0,9.0,Ankle,
+00-0036347,0,0,0,0.0,,
+00-0036348,0,0,2,2.0,"Foot, Knee",Josh Metellus
+00-0036355,0,0,1,1.0,Hand,Justin Herbert
+00-0036358,3,0,0,9.0,Ankle,CeeDee Lamb
+00-0036359,1,0,0,3.0,Ankle,Damon Arnette
+00-0036361,3,0,3,12.0,"Concussion, Knee",Trevon Diggs
+00-0036363,4,0,3,15.0,"Ankle, Knee",
+00-0036366,0,0,0,0.0,,Neville Gallimore
+00-0036369,0,0,0,0.0,,
+00-0036371,0,0,0,0.0,,Leki Fotu
+00-0036374,0,0,2,2.0,"Back, Knee",L'Jarius Sneed
+00-0036375,0,0,3,3.0,"Hamstring, Hand",Amik Robertson
+00-0036378,1,1,0,5.0,Quadricep,Michael Danna
+00-0036386,1,2,1,8.0,"Foot, Hamstring",
+00-0036388,0,0,0,0.0,,Xavier McKinney
+00-0036391,2,0,1,7.0,Foot,
+00-0036394,0,0,1,1.0,Illness,Darnay Holmes
+00-0036406,4,0,2,14.0,"Knee, Oblique, Toe",
+00-0036407,0,0,0,0.0,,Jerry Jeudy
+00-0036408,3,0,0,9.0,Ankle,
+00-0036409,0,0,2,2.0,"Foot, Hamstring",Jordyn Brooks
+00-0036410,2,0,1,7.0,Concussion,Tee Higgins
+00-0036411,0,0,0,0.0,,Antoine Winfield
+00-0036413,1,0,2,5.0,Ankle,Darrell Taylor
+00-0036415,1,0,2,5.0,"Ankle, Back, Forearm",Van Jefferson
+00-0036416,1,0,2,5.0,Ankle,Kristian Fulton
+00-0036417,0,0,2,2.0,"Oblique, Shoulder",
+00-0036418,0,0,0,0.0,,Zack Baun
+00-0036422,0,0,0,0.0,,Adam Trautman
+00-0036428,1,0,0,3.0,Foot,Justin Strnad
+00-0036429,0,0,0,0.0,,Charlie Woerner
+00-0036431,2,0,1,7.0,Knee,Jordan Fuller
+00-0036441,0,0,1,1.0,Knee,Kenneth Murray
+00-0036442,2,0,0,6.0,Toe,Joe Burrow
+00-0036479,0,0,0,0.0,,Kwity Paye
+00-0036483,0,0,0,0.0,,
+00-0036501,3,0,2,11.0,"Concussion, Shoulder",Michael Carter
+00-0036502,0,0,0,0.0,,Jason Pinnock
+00-0036504,1,0,0,3.0,Groin,Brandin Echols
+00-0036534,1,0,1,4.0,Knee,Shane Zylstra
+00-0036550,2,0,2,8.0,"Ankle, Illness",Rashod Bateman
+00-0036551,0,1,3,5.0,"Ankle, Groin, Neck",
+00-0036552,1,0,1,4.0,Hamstring,Azeez Ojulari
+00-0036554,2,0,0,6.0,Concussion,Nico Collins
+00-0036555,2,0,1,7.0,Calf,Chuba Hubbard
+00-0036557,1,0,3,6.0,"Illness, Knee",
+00-0036563,0,0,2,2.0,"Calf, Quadricep",Deommodore Lenoir
+00-0036564,0,0,0,0.0,,Talanoa Hufanga
+00-0036587,1,0,1,4.0,Achilles,Ar'Darius Washington
+00-0036589,2,0,1,7.0,"Groin, Illness",Nick McCloud
+00-0036590,2,0,0,6.0,Groin,Quintin Morris
+00-0036603,0,0,2,2.0,Knee,
+00-0036604,0,0,4,4.0,"Ankle, Foot",
+00-0036613,0,0,2,2.0,"Ribs, Shoulder",Jaylen Waddle
+00-0036616,2,0,7,13.0,Knee,
+00-0036618,2,0,1,7.0,Knee,
+00-0036619,2,0,2,8.0,"Knee, Toe",
+00-0036620,1,1,3,8.0,"Concussion, Shoulder, Toe",Dee Eskridge
+00-0036621,0,0,1,1.0,Illness,Nick Bolton
+00-0036622,0,0,0,0.0,,
+00-0036623,0,0,0,0.0,,
+00-0036624,3,0,2,11.0,"Abdomen, Knee",Alim McNeill
+00-0036625,1,0,2,5.0,"Groin, Shoulder",Benjamin St-Juste
+00-0036626,0,0,1,1.0,Shoulder,Dyami Brown
+00-0036628,2,0,1,7.0,"Ankle, Calf, Groin",John Bates
+00-0036637,1,0,0,3.0,Concussion,Noah Gray
+00-0036643,0,0,0,0.0,,K.J. Britt
+00-0036646,0,0,0,0.0,,Simi Fehoko
+00-0036648,2,0,1,7.0,Pectoral,Nick Niemann
+00-0036649,0,0,0,0.0,,Quinton Bohanna
+00-0036655,0,0,2,2.0,"Knee, Shoulder",
+00-0036660,3,2,1,14.0,"Ankle, Back",
+00-0036672,0,0,1,1.0,Foot,Grant Stuard
+00-0036677,0,0,2,2.0,Knee,Zayne Anderson
+00-0036704,0,0,0,0.0,,Caleb Johnson
+00-0036705,0,0,2,2.0,Elbow,Sam Kamara
+00-0036716,2,0,3,9.0,"Concussion, Hamstring, Knee",Amen Ogbongbemiga
+00-0036728,0,0,0,0.0,,Curtis Robinson
+00-0036736,1,0,2,5.0,"Foot, Illness",
+00-0036741,0,0,1,1.0,Ankle,Jack Stoll
+00-0036754,2,0,1,7.0,"Ankle, Neck",Brock Wright
+00-0036813,1,0,1,4.0,Hip,Christian Elliss
+00-0036825,0,0,2,2.0,"Calf, Foot",Feleipe Franks
+00-0036842,5,0,1,16.0,"Concussion, Hamstring",Kene Nwangwu
+00-0036843,0,0,1,1.0,Ankle,Isaiahh Loudermilk
+00-0036844,0,0,1,1.0,Hamstring,Garret Wallow
+00-0036849,0,0,2,2.0,Hamstring,Tutu Atwell
+00-0036850,1,1,1,6.0,"Knee, Oblique",Cameron Sample
+00-0036862,0,0,0,0.0,,Ben Skowronek
+00-0036867,0,0,0,0.0,,Chris Rumph
+00-0036869,0,0,3,3.0,"Illness, Knee, Neck",
+00-0036870,0,0,1,1.0,Illness,Buddy Johnson
+00-0036871,3,0,6,15.0,"Concussion, Knee",Nate Hobbs
+00-0036874,3,0,0,9.0,Pectoral,Patrick Surtain II
+00-0036875,2,0,2,8.0,Toe,Rhamondre Stevenson
+00-0036876,0,0,0,0.0,,Kylen Granson
+00-0036880,1,0,4,7.0,"Ankle, Shoulder",
+00-0036881,4,0,0,12.0,"Foot, Illness, Knee",Jay Tufele
+00-0036884,0,2,0,4.0,Hamstring,Marco Wilson
+00-0036888,2,0,1,7.0,Pectoral,Damar Hamlin
+00-0036893,0,0,0,0.0,,Najee Harris
+00-0036894,0,0,0,0.0,,Pat Freiermuth
+00-0036896,2,0,2,8.0,"Knee, Pectoral, Shoulder",Victor Dimukeje
+00-0036898,0,0,1,1.0,Not injury related - personal matter,Davis Mills
+00-0036900,0,0,1,1.0,Illness,Ja'Marr Chase
+00-0036901,0,0,1,1.0,Knee,Eric Stokes
+00-0036902,3,0,0,9.0,Ankle,Joseph Ossai
+00-0036903,0,0,0,0.0,,Bobby Brown
+00-0036904,1,0,0,3.0,Concussion,Robert Rochell
+00-0036905,0,0,1,1.0,Illness,
+00-0036906,0,0,2,2.0,Groin,Khalil Herbert
+00-0036909,3,0,1,10.0,"Chest, Foot",Khyiris Tonga
+00-0036912,0,0,0,0.0,,DeVonta Smith
+00-0036914,0,0,0,0.0,,Gregory Rousseau
+00-0036916,1,0,2,5.0,"Ankle, Illness",Milton Williams
+00-0036926,1,0,2,5.0,Ribs,Payton Turner
+00-0036932,0,0,2,2.0,Back,Micah Parsons
+00-0036934,1,0,0,3.0,Ankle,Jaelan Phillips
+00-0036937,4,0,1,13.0,Knee,Paulson Adebo
+00-0036940,0,0,1,1.0,Eye,Odafe Oweh
+00-0036941,0,0,0,0.0,,Andre Cisco
+00-0036942,0,0,0,0.0,,Osa Odighizuwa
+00-0036944,1,0,0,3.0,Concussion,Jaycee Horn
+00-0036945,3,0,1,10.0,"Concussion, Knee",Justin Fields
+00-0036948,1,0,1,4.0,Calf,Ta'Quon Graham
+00-0036952,0,0,0,0.0,,Jonathon Cooper
+00-0036953,0,0,0,0.0,Concussion,
+00-0036956,1,0,1,4.0,"Ankle, Concussion",Darren Hall
+00-0036957,0,0,0,0.0,,
+00-0036962,0,0,0,0.0,,Trevon Moehrig
+00-0036963,0,0,3,3.0,"Ankle, Knee",Amon-Ra St. Brown
+00-0036964,0,0,0,0.0,,Derrick Barnes
+00-0036967,2,0,2,8.0,"Concussion, Hip, Not injury related - personal matter",Joe Tryon
+00-0036968,0,0,0,0.0,,
+00-0036970,0,0,2,2.0,Knee,Kyle Pitts
+00-0036971,0,0,0,0.0,,Trevor Lawrence
+00-0036972,0,0,2,2.0,Knee,Mac Jones
+00-0036973,0,0,0,0.0,,Travis Etienne
+00-0036974,0,0,0,0.0,,Tyson Campbell
+00-0036975,1,0,1,4.0,Concussion,
+00-0036976,1,0,3,6.0,"Calf, Shoulder",
+00-0036977,0,0,0,0.0,,
+00-0036979,1,0,0,3.0,Triceps,
+00-0036980,0,0,0,0.0,,Elijah Moore
+00-0036981,0,0,1,1.0,Knee,Christian Barmore
+00-0036982,6,0,1,19.0,"Ankle, Neck",Chauncey Golston
+00-0036985,0,1,1,3.0,"Groin, Hamstring",
+00-0036986,0,0,1,1.0,Hamstring,Nahshon Wright
+00-0036987,1,0,1,4.0,Neck,Brandon Stephens
+00-0036988,3,1,3,14.0,"Ankle, Knee",Joshua Palmer
+00-0036990,1,0,0,3.0,Forearm,Divine Deablo
+00-0036992,2,3,5,17.0,"Hamstring, Knee, Thumb",Elijah Molden
+00-0036993,1,0,3,6.0,"Calf, Thumb",Ifeatu Melifonwu
+00-0036994,0,1,1,3.0,Knee,Ernest Jones
+00-0036995,2,0,0,6.0,Concussion,Baron Browning
+00-0036996,0,0,1,1.0,Hamstring,Greg Newsome
+00-0036997,1,0,0,3.0,Shoulder,Javonte Williams
+00-0036998,1,1,2,7.0,Knee,Jevon Holland
+00-0037001,0,0,0,0.0,,
+00-0037002,1,0,1,4.0,Ankle,
+00-0037003,2,0,0,6.0,Ankle,Chazz Surratt
+00-0037004,3,0,0,9.0,Hip,Hunter Long
+00-0037007,3,0,0,9.0,"Back, Hamstring",Patrick Jones
+00-0037013,0,0,1,1.0,Illness,Zach Wilson
+00-0037034,1,0,0,3.0,Concussion,Dee Alford
+00-0037073,0,0,0,0.0,,Jordan Davis
+00-0037074,0,1,2,4.0,"Calf, Neck",Quay Walker
+00-0037075,3,0,1,10.0,"Ankle, Knee",Devonte Wyatt
+00-0037076,0,0,1,1.0,Knee,
+00-0037079,1,0,0,3.0,Concussion,Tariq Woolen
+00-0037081,1,0,1,4.0,Knee,
+00-0037082,3,0,0,9.0,"Ankle, Concussion",Dominique Robinson
+00-0037083,0,0,1,1.0,Illness,Kingsley Enagbare
+00-0037085,0,0,0,0.0,,Tyler Badie
+00-0037086,2,0,0,6.0,Oblique,Grant Calcaterra
+00-0037091,1,0,1,4.0,"Illness, Shoulder",Bo Melton
+00-0037092,0,0,1,1.0,Illness,
+00-0037093,5,0,0,15.0,"Hamstring, Quadricep",Dareke Young
+00-0037106,1,0,0,3.0,Hamstring,Jaylon Jones
+00-0037109,2,0,0,6.0,"Concussion, Groin",Jack Sanborn
+00-0037120,3,0,3,12.0,"Ankle, Elbow, Groin",Tyler Goodson
+00-0037129,1,0,2,5.0,"Concussion, Groin, Illness",Josh Blackwell
+00-0037130,0,0,0,0.0,,Reed Blankenship
+00-0037137,1,0,0,3.0,Concussion,Josh Jobe
+00-0037155,0,1,1,3.0,"Groin, Hip",Tony Adams
+00-0037157,0,0,2,2.0,"Ankle, Knee",Bam Knight
+00-0037190,5,0,0,15.0,"Calf, Concussion",Sauce Gardner
+00-0037191,1,0,1,4.0,Knee,Trent McDuffie
+00-0037192,0,0,2,2.0,"Illness, Not injury related - resting player",George Karlaftis
+00-0037193,0,0,0,0.0,,Bryan Cook
+00-0037194,0,0,1,1.0,Neck,
+00-0037195,0,0,0,0.0,,Jaylen Watson
+00-0037196,0,0,1,1.0,Quadricep,
+00-0037197,3,0,1,10.0,"Knee, Not injury related - resting player",Isiah Pacheco
+00-0037198,1,0,0,3.0,Shoulder,Nazeeh Johnson
+00-0037203,0,0,1,1.0,Ankle,LaBryan Ray
+00-0037205,1,0,0,3.0,Ankle,Brenden Schooler
+00-0037208,0,0,0,0.0,,Jack Cochrane
+00-0037228,0,0,1,1.0,Not injury related - resting player,Jaylen Warren
+00-0037229,0,1,2,4.0,"Illness, Knee",
+00-0037235,2,0,2,8.0,"Knee, Wrist",Travon Walker
+00-0037236,0,0,0,0.0,,Aidan Hutchinson
+00-0037237,0,0,2,2.0,Oblique,Derek Stingley Jr.
+00-0037238,4,0,5,17.0,"Hip, Illness, Knee",Drake London
+00-0037239,1,0,3,6.0,"Back, Illness",Chris Olave
+00-0037241,2,0,2,8.0,"Ankle, Toe",
+00-0037243,0,0,2,2.0,Knee,
+00-0037244,1,0,1,4.0,Calf,Devin Lloyd
+00-0037246,3,0,0,9.0,Concussion,Jalen Pitre
+00-0037247,0,0,0,0.0,,George Pickens
+00-0037248,0,0,0,0.0,,James Cook
+00-0037249,0,0,0,0.0,,Nik Bonitto
+00-0037251,3,0,0,9.0,Quadricep,Alex Wright
+00-0037253,0,0,1,1.0,Knee,Marcus Jones
+00-0037254,4,0,3,15.0,"Ankle, Calf, Elbow",Terrel Bernard
+00-0037255,1,0,1,4.0,"Back, Illness",
+00-0037258,0,0,0,0.0,,Dameon Pierce
+00-0037259,0,0,0,0.0,,Micah McFadden
+00-0037260,1,0,2,5.0,"Ankle, Illness, Neck",D.J. Davidson
+00-0037261,0,0,0,0.0,,Khalil Shakir
+00-0037262,0,0,0,0.0,,Thomas Booker
+00-0037263,0,0,1,1.0,Hip,Tyler Allgeier
+00-0037267,0,0,1,1.0,Hamstring,Jerome Ford
+00-0037268,1,0,0,3.0,Thumb,Zyon McCollum
+00-0037270,0,0,2,2.0,Elbow,Otito Ogbonnia
+00-0037271,0,0,1,1.0,Hamstring,D'Marco Jackson
+00-0037275,3,0,1,10.0,"Foot, Shoulder",DaRon Bland
+00-0037276,1,0,2,5.0,Knee,Ty Chandler
+00-0037277,0,0,0,0.0,,Teagan Quitoriano
+00-0037278,1,0,1,4.0,Shoulder,
+00-0037283,3,0,1,10.0,"Illness, Shoulder",John Ridgeway
+00-0037287,0,0,0,0.0,,
+00-0037288,0,0,2,2.0,"Groin, Toe",Christian Benford
+00-0037289,3,0,0,9.0,Knee,Malcolm Rodriguez
+00-0037291,0,0,0,0.0,,Jalen Nailor
+00-0037292,1,0,0,3.0,Neck,Drew Ogletree
+00-0037295,1,1,3,8.0,"Hamstring, Knee",
+00-0037297,3,0,0,9.0,Ankle,
+00-0037298,3,0,0,9.0,Knee,Sam Roberts
+00-0037301,1,0,2,5.0,"Concussion, Neck",Theo Jackson
+00-0037302,0,0,2,2.0,"Ankle, Oblique",
+00-0037304,0,0,0,0.0,,Connor Heyward
+00-0037306,0,0,0,0.0,,John FitzPatrick
+00-0037307,0,0,0,0.0,,Ja'Sir Taylor
+00-0037310,0,0,0,0.0,,James Houston
+00-0037311,0,0,0,0.0,,Ko Kieft
+00-0037313,1,1,0,5.0,Ankle,Montaric Brown
+00-0037315,0,0,0,0.0,,Cameron Goode
+00-0037320,0,0,2,2.0,Knee,Deane Leonard
+00-0037322,0,0,1,1.0,Knee,
+00-0037327,0,0,1,1.0,Hamstring,Skylar Thompson
+00-0037340,1,0,1,4.0,Knee,Zaire Mitchell-Paden
+00-0037364,0,0,0,0.0,,Arron Mosby
+00-0037412,0,0,0,0.0,,
+00-0037457,0,0,0,0.0,,Jake Hansen
+00-0037475,1,0,0,3.0,Quadricep,Stone Smartt
+00-0037493,1,0,0,3.0,Knee,Mike Brown
+00-0037512,0,0,1,1.0,Hip,Isaiah Pola-Mao
+00-0037525,1,0,0,3.0,Ankle,Jordan Mason
+00-0037526,1,0,2,5.0,Hamstring,Marcelino McCrary-Ball
+00-0037539,3,0,0,9.0,Foot,Lucas Krull
+00-0037545,0,0,1,1.0,Hip,Rashid Shaheed
+00-0037547,0,0,0,0.0,,Daniel Whelan
+00-0037549,0,0,1,1.0,Knee,Darrell Baker
+00-0037563,1,0,0,3.0,Calf,Malik Davis
+00-0037578,0,0,3,3.0,Illness,Juanyeh Thomas
+00-0037587,0,0,0,0.0,,Nate Landman
+00-0037594,0,0,0,0.0,,Julius Chestnut
+00-0037596,0,0,0,0.0,,Jack Gibbens
+00-0037601,1,0,3,6.0,"Ankle, Knee",
+00-0037602,2,0,1,7.0,Ankle,Sam Okuayinonu
+00-0037611,5,0,0,15.0,Shoulder,Kayvon Thibodeaux
+00-0037612,4,0,0,12.0,"Hamstring, Neck",
+00-0037615,3,0,1,10.0,"Hamstring, Knee",Nakobe Dean
+00-0037616,0,0,0,0.0,,Nick Cross
+00-0037617,2,0,3,9.0,"Chest, Concussion, Hamstring",Hassan Haskins
+00-0037654,1,0,2,5.0,"Ankle, Toe",Tucker Fisk
+00-0037663,2,0,1,7.0,Ankle,Jermaine Johnson
+00-0037664,2,0,0,6.0,Concussion,Alec Pierce
+00-0037665,0,0,0,0.0,,Sam Williams
+00-0037667,9,0,4,31.0,Knee,Kerby Joseph
+00-0037740,2,1,1,9.0,Knee,Garrett Wilson
+00-0037741,0,0,0,0.0,,Jahan Dotson
+00-0037742,1,0,0,3.0,Finger,Treylon Burks
+00-0037743,0,0,0,0.0,,Daxton Hill
+00-0037745,0,0,0,0.0,,Velus Jones
+00-0037753,1,1,0,5.0,"Foot, Hamstring",Cam Taylor-Britt
+00-0037755,1,0,0,3.0,Hamstring,Jelani Woods
+00-0037756,0,0,1,1.0,Knee,Travis Jones
+00-0037757,1,0,0,3.0,Elbow,
+00-0037758,2,0,1,7.0,"Concussion, Knee",Cordale Flott
+00-0037799,0,0,0,0.0,,Dondrea Tillman
+00-0037801,2,0,0,6.0,Foot,KaVontae Turpin
+00-0037807,0,0,3,3.0,Calf,
+00-0037808,0,0,0,0.0,,DeAngelo Malone
+00-0037809,0,0,1,1.0,Foot,Chigoziem Okonkwo
+00-0037812,0,0,0,0.0,,
+00-0037816,0,0,0,0.0,,Romeo Doubs
+00-0037817,1,0,9,12.0,"Back, Oblique",
+00-0037819,1,0,0,3.0,Shoulder,Leo Chenal
+00-0037821,3,0,0,9.0,Hamstring,
+00-0037823,1,0,0,3.0,Shin,Christian Harris
+00-0037825,0,0,0,0.0,,
+00-0037826,4,0,0,12.0,"Groin, Knee",Drake Jackson
+00-0037829,1,0,2,5.0,Knee,
+00-0037832,0,0,2,2.0,"Ankle, Hand",Kalia Davis
+00-0037834,5,0,3,18.0,"Shoulder, Toe",Brock Purdy
+00-0037835,0,0,2,2.0,Foot,
+00-0037837,2,0,0,6.0,"Hamstring, Shoulder",Calvin Austin III
+00-0037838,3,0,1,10.0,Foot,Isaiah Likely
+00-0037840,0,0,1,1.0,Ankle,Kyren Williams
+00-0037841,1,0,0,3.0,Elbow,Quentin Lake
+00-0038038,0,0,2,2.0,"Ankle, Groin",Kyle Hamilton
+00-0038039,0,0,0,0.0,,Jack Jones
+00-0038040,0,0,1,1.0,Illness,Zamir White
+00-0038041,0,0,1,1.0,Calf,Jake Ferguson
+00-0038046,0,0,0,0.0,,Charlie Kolar
+00-0038090,0,0,0,0.0,,Skyy Moore
+00-0038096,4,0,0,12.0,Back,Josh Paschal
+00-0038099,1,0,1,4.0,Shoulder,Phidarian Mathis
+00-0038100,1,0,0,3.0,Hip,Percy Butler
+00-0038101,1,0,0,3.0,Hamstring,Akayleb Evans
+00-0038102,0,0,0,0.0,,Kenny Pickett
+00-0038104,1,0,0,3.0,Concussion,Tyquan Thornton
+00-0038105,1,0,0,3.0,Knee,Damarri Mathis
+00-0038107,1,0,0,3.0,Ankle,Micheal Clemons
+00-0038111,4,0,5,17.0,"Calf, Groin, Hamstring",Kyler Gordon
+00-0038112,2,0,1,7.0,"Concussion, Knee",
+00-0038115,0,1,0,2.0,Neck,Daniel Bellinger
+00-0038117,1,0,1,4.0,"Ankle, Rib",Wan'Dale Robinson
+00-0038118,0,0,0,0.0,,
+00-0038119,4,0,1,13.0,Achilles,Jalyn Armour-Davis
+00-0038120,1,0,1,4.0,Knee,Breece Hall
+00-0038121,0,0,1,1.0,Shoulder,Alontae Taylor
+00-0038123,0,0,0,0.0,,Dane Belton
+00-0038124,2,0,3,9.0,"Chest, Knee, Shoulder",Christian Watson
+00-0038125,0,0,0,0.0,,Roger McCreary
+00-0038126,2,0,1,7.0,Back,Perrion Winfrey
+00-0038127,0,0,1,1.0,Groin,Logan Hall
+00-0038128,0,0,3,3.0,Shoulder,Malik Willis
+00-0038129,0,1,0,2.0,Knee,Cade Otton
+00-0038131,1,0,2,5.0,"Abdomen, Knee",
+00-0038133,0,0,1,1.0,Toe,Boye Mafe
+00-0038134,0,0,1,1.0,Glute,Kenneth Walker III
+00-0038135,0,0,3,3.0,"Back, Illness, Shoulder",Jaquan Brisker
+00-0038136,1,1,0,5.0,Knee,Coby Bryant
+00-0038304,2,0,0,6.0,Hip,
+00-0038348,1,0,2,5.0,Knee,Josh Butler
+00-0038359,0,0,1,1.0,Concussion,Xavier Smith
+00-0038381,0,0,0,0.0,,Kyu Blu Kelly
+00-0038383,0,0,0,0.0,,
+00-0038386,4,0,2,14.0,"Heel, Hip, Shoulder",Jalen Carter
+00-0038387,0,0,0,0.0,,Colby Wooden
+00-0038390,3,0,0,9.0,"Concussion, Elbow",Noah Sewell
+00-0038392,4,0,0,12.0,Knee,Daniel Scott
+00-0038393,3,1,5,16.0,"Ankle, Calf, Concussion",Dontayvion Wicks
+00-0038394,1,0,0,3.0,Lung,Will Mallory
+00-0038396,0,0,1,1.0,Knee,Eric Gray
+00-0038398,1,0,1,4.0,Ankle,Karl Brooks
+00-0038400,1,0,2,5.0,Thumb,Tanner McKee
+00-0038407,2,0,0,6.0,Hamstring,Jaylon Jones
+00-0038412,0,0,0,0.0,,Moro Ojomo
+00-0038414,1,0,0,3.0,Ankle,Kendall Williamson
+00-0038416,0,0,0,0.0,,Tyson Bagent
+00-0038428,0,0,0,0.0,,Andre Szmyt
+00-0038440,1,0,1,4.0,"Ankle, Wrist",Zavier Scott
+00-0038454,0,0,0,0.0,,Keaton Mitchell
+00-0038463,2,0,2,8.0,Groin,Brenton Cox
+00-0038465,1,0,0,3.0,Not injury related - personal matter,Malik Heath
+00-0038488,0,0,0,0.0,,Brady Russell
+00-0038493,2,0,0,6.0,"Calf, Concussion",Claudin Cherelus
+00-0038496,1,0,0,3.0,Shoulder,Xavier Gipson
+00-0038505,1,0,1,4.0,Foot,Tavius Robinson
+00-0038506,0,0,0,0.0,,Jordon Riley
+00-0038513,2,1,1,9.0,Hip,Cam Jones
+00-0038519,1,0,1,4.0,"Knee, Shoulder",Nikko Remigio
+00-0038521,0,0,0,0.0,,Reese Taylor
+00-0038536,2,0,2,8.0,"Calf, Elbow, Knee",
+00-0038540,3,0,2,11.0,Knee,
+00-0038542,0,0,0,0.0,,Bijan Robinson
+00-0038543,0,0,1,1.0,Illness,Jaxon Smith-Njigba
+00-0038544,0,0,4,4.0,"Groin, Hamstring, Shin",Quentin Johnston
+00-0038545,0,0,1,1.0,Ankle,Mazi Smith
+00-0038549,0,0,2,2.0,"Hamstring, Illness",DJ Turner
+00-0038552,0,0,0,0.0,,Riley Moss
+00-0038553,0,0,2,2.0,Illness,Daiyan Henley
+00-0038554,1,0,0,3.0,Hamstring,Ji'Ayir Brown
+00-0038555,0,0,0,0.0,,Tank Bigsby
+00-0038556,4,0,0,12.0,"Concussion, Knee",DeMarvion Overshown
+00-0038557,1,0,0,3.0,Knee,Dorian Williams
+00-0038558,0,0,1,1.0,Concussion,Darnell Washington
+00-0038559,0,0,0,0.0,,Michael Wilson
+00-0038563,0,0,0,0.0,,Tre Tucker
+00-0038564,0,0,1,1.0,Neck,Cameron Latu
+00-0038565,0,0,0,0.0,,Mekhi Blackmon
+00-0038568,4,0,0,12.0,Triceps,Clark Phillips
+00-0038570,0,0,0,0.0,,Ventrell Miller
+00-0038571,0,0,0,0.0,,
+00-0038573,6,0,1,19.0,"Ankle, Knee",Derius Davis
+00-0038574,0,0,1,1.0,Knee,Isaiah McGuire
+00-0038576,3,0,2,11.0,"Achilles, Ankle, Ribs",Charlie Jones
+00-0038577,0,1,1,3.0,Hamstring,Nick Herbig
+00-0038578,0,0,0,0.0,,Jay Ward
+00-0038579,3,0,0,9.0,Wrist,Aidan O'Connell
+00-0038580,3,0,1,10.0,"Finger, Hamstring",Yasir Abdullah
+00-0038588,0,0,1,1.0,Oblique,Jordan Howden
+00-0038589,1,0,0,3.0,Concussion,Josh Whyle
+00-0038590,0,0,0,0.0,,Justin Shorter
+00-0038591,0,0,0,0.0,,Mike Morris
+00-0038594,0,0,0,0.0,,Darrell Luter
+00-0038596,0,0,0,0.0,,Antonio Johnson
+00-0038597,0,0,0,0.0,,Chase Brown
+00-0038600,0,0,1,1.0,Quadricep,Owen Pappoe
+00-0038601,2,0,0,6.0,Ankle,
+00-0038603,1,1,0,5.0,"Ankle, Concussion",Robert Beal
+00-0038605,0,0,1,1.0,Quadricep,JL Skinner
+00-0038606,0,0,2,2.0,Hip,Parker Washington
+00-0038608,2,0,2,8.0,"Concussion, Hamstring",Kayshon Boutte
+00-0038611,0,0,3,3.0,"Calf, Groin, Illness",Chris Rodriguez
+00-0038614,0,0,2,2.0,"Ankle, Chest",Scott Matlock
+00-0038616,0,0,0,0.0,,Christian Braswell
+00-0038621,0,0,1,1.0,Hamstring,Demario Douglas
+00-0038623,0,0,1,1.0,Heel,Dante Stills
+00-0038625,0,0,4,4.0,"Ankle, Knee",Dee Winters
+00-0038628,3,0,1,10.0,Hamstring,DeMarcco Hellams
+00-0038639,1,0,2,5.0,Hamstring,Cory Trice
+00-0038646,1,0,0,3.0,Wrist,Alex Austin
+00-0038649,0,0,1,1.0,Ankle,
+00-0038660,2,0,0,6.0,Elbow,Trevor Nowaske
+00-0038679,1,0,0,3.0,Knee,Tyrell Shavers
+00-0038684,1,1,1,6.0,Hamstring,Ethan Bonner
+00-0038685,0,0,1,1.0,Chest,Chris Brooks
+00-0038703,2,0,1,7.0,Concussion,Kendell Brooks
+00-0038705,4,0,1,13.0,Ankle,Emari Demercado
+00-0038710,0,0,0,0.0,,Blake Whiteheart
+00-0038711,0,0,0,0.0,,Mohamoud Diabate
+00-0038715,0,0,0,0.0,,Ronnie Hickman
+00-0038720,2,0,1,7.0,Ankle,Julian Hill
+00-0038724,1,0,2,5.0,Knee,Ali Gaye
+00-0038731,1,0,0,3.0,Knee,
+00-0038738,0,0,1,1.0,Concussion,Hunter Luepke
+00-0038752,3,0,0,9.0,"Achilles, Calf, Concussion",Jake Bobo
+00-0038765,0,0,1,1.0,Oblique,Ty Okada
+00-0038778,0,0,1,1.0,Hip,Jalen Redmond
+00-0038783,8,0,0,24.0,"Ankle, Knee",Nate Adkins
+00-0038788,1,0,2,5.0,"Hamstring, Illness",Art Green
+00-0038797,0,0,1,1.0,Illness,Emanuel Wilson
+00-0038818,2,0,1,7.0,Shoulder,
+00-0038820,3,0,2,11.0,"Oblique, Quadricep",Christian Izien
+00-0038840,0,0,1,1.0,Hip,Brycen Tremayne
+00-0038890,1,0,0,3.0,Fibula,Shaka Heyward
+00-0038896,1,0,1,4.0,Back,Jacob Saylors
+00-0038922,0,0,0,0.0,,Drake Thomas
+00-0038932,1,0,1,4.0,"Elbow, Illness",
+00-0038933,2,0,6,12.0,"Hamstring, Knee, Oblique",Dalton Kincaid
+00-0038934,2,0,0,6.0,Knee,
+00-0038935,1,0,1,4.0,Hip,Brenton Strange
+00-0038938,0,0,1,1.0,Illness,Jalin Hyatt
+00-0038951,0,0,0,0.0,,Sean Tucker
+00-0038958,2,0,1,7.0,Hand,Markees Watts
+00-0038966,0,0,1,1.0,Concussion,Natrone Brooks
+00-0038976,2,0,1,7.0,"Concussion, Hip",Marvin Mims
+00-0038978,0,0,0,0.0,,Byron Young
+00-0038979,0,0,1,1.0,"Concussion, Hamstring",Cedric Tillman
+00-0038980,2,0,2,8.0,Knee,Zach Harrison
+00-0038981,1,0,0,3.0,Knee,
+00-0038982,0,0,0,0.0,,Chamarri Conner
+00-0038984,1,0,0,3.0,Back,Kei'Trel Clark
+00-0038986,1,0,0,3.0,Shoulder,Nic Jones
+00-0038994,0,0,0,0.0,,Jordan Addison
+00-0038995,2,0,1,7.0,"Back, Knee",Bryan Bresee
+00-0038996,0,0,1,1.0,Knee,Tucker Kraft
+00-0038997,1,0,0,3.0,Concussion,Josh Downs
+00-0039000,0,0,1,1.0,Hip,Deonte Banks
+00-0039001,0,0,0,0.0,,
+00-0039003,2,0,0,6.0,Ankle,Drew Sanders
+00-0039007,0,0,2,2.0,"Ankle, Knee",Garrett Williams
+00-0039009,0,0,1,1.0,Knee,Dylan Horton
+00-0039013,0,0,1,1.0,Triceps,Nolan Smith
+00-0039014,0,0,0,0.0,,
+00-0039018,0,0,1,1.0,Ankle,Jack Campbell
+00-0039019,2,1,0,8.0,"Concussion, Finger, Shin",
+00-0039020,0,0,1,1.0,Back,
+00-0039021,3,0,1,10.0,"Back, Foot, Thumb",Roschon Johnson
+00-0039030,1,0,0,3.0,Ankle,
+00-0039032,0,0,1,1.0,Ankle,Tyjae Spears
+00-0039040,0,1,0,2.0,Shoulder,De'Von Achane
+00-0039041,0,0,1,1.0,Illness,Elijah Higgins
+00-0039047,2,0,0,6.0,Oblique,Derick Hall
+00-0039048,2,0,1,7.0,Ankle,
+00-0039049,1,0,0,3.0,Hip,SirVocea Dennis
+00-0039051,0,0,0,0.0,,Josh Hayes
+00-0039052,1,0,1,4.0,"Ankle, Hamstring",Trey Palmer
+00-0039054,0,0,3,3.0,"Hip, Neck",Marte Mapu
+00-0039058,0,2,0,4.0,Ankle,
+00-0039061,0,0,1,1.0,Illness,Desjuan Johnson
+00-0039062,0,0,3,3.0,Knee,Jonathan Mingo
+00-0039063,1,0,1,4.0,Pectoral,Calijah Kancey
+00-0039064,0,0,1,1.0,Shoulder,Zay Flowers
+00-0039065,1,0,0,3.0,Back,Sam LaPorta
+00-0039066,3,0,1,10.0,"Ankle, Concussion",Michael Mayer
+00-0039067,1,0,0,3.0,Concussion,Rashee Rice
+00-0039070,0,0,0,0.0,,Gervon Dexter
+00-0039071,3,0,0,9.0,"Hip, Shoulder",Tyrique Stevenson
+00-0039072,1,0,1,4.0,Pectoral,Jakorian Bennett
+00-0039074,0,0,0,0.0,,Davis Allen
+00-0039075,1,0,0,3.0,Ankle,Puka Nacua
+00-0039108,0,0,0,0.0,,Will Anderson
+00-0039109,1,0,0,3.0,Neck,
+00-0039110,0,0,0,0.0,,Keeanu Benton
+00-0039111,0,0,0,0.0,,Tuli Tuipulotu
+00-0039112,6,0,3,21.0,Foot,Lukas Van Ness
+00-0039137,0,0,1,1.0,Knee,Byron Young
+00-0039138,0,0,1,1.0,Back,Kobie Turner
+00-0039141,1,0,2,5.0,"Achilles, Ankle, Toe",Brian Branch
+00-0039142,1,0,2,5.0,"Knee, Quadricep",Will McDonald
+00-0039145,0,0,1,1.0,Hip,
+00-0039146,3,0,2,11.0,Foot,Jayden Reed
+00-0039147,3,0,2,11.0,Hamstring,Christian Gonzalez
+00-0039148,2,0,4,10.0,"Elbow, Groin, Illness",Keion White
+00-0039149,0,0,1,1.0,Hamstring,Quan Martin
+00-0039150,0,1,0,2.0,Ankle,Bryce Young
+00-0039151,0,0,0,0.0,,Emmanuel Forbes
+00-0039155,2,0,1,7.0,Knee,BJ Ojulari
+00-0039157,0,0,0,0.0,,
+00-0039163,3,0,0,9.0,Concussion,C.J. Stroud
+00-0039164,3,0,0,9.0,Eye,Anthony Richardson
+00-0039165,0,1,1,3.0,Foot,Zach Charbonnet
+00-0039167,2,0,1,7.0,Hamstring,Joey Porter Jr.
+00-0039169,1,3,1,10.0,Knee,Devon Witherspoon
+00-0039176,0,0,0,0.0,,CJ Okoye
+00-0039178,0,0,0,0.0,,Austin Ajiake
+00-0039229,0,0,1,1.0,Illness,Charlie Smyth
+00-0039232,0,0,0,0.0,,Nate Wiggins
+00-0039233,0,0,0,0.0,,
+00-0039234,0,0,0,0.0,,T.J. Tampa
+00-0039242,0,0,0,0.0,,
+00-0039272,1,0,0,3.0,Throat,
+00-0039284,0,0,1,1.0,Shoulder,Braiden McGregor
+00-0039291,1,0,0,3.0,Concussion,Eric Watts
+00-0039299,1,0,0,3.0,Hamstring,George Holani
+00-0039305,0,0,3,3.0,"Ankle, Hamstring, Illness",Jack Westover
+00-0039309,0,0,0,0.0,,Byron Murphy
+00-0039310,1,0,0,3.0,Neck,
+00-0039313,2,0,1,7.0,"Ankle, Hip",Swayze Bozeman
+00-0039324,2,0,0,6.0,Back,Chris Roland-Wallace
+00-0039332,0,0,2,2.0,"Ankle, Toe",C.J. Ravenell
+00-0039333,0,0,0,0.0,,Brandon Codrington
+00-0039337,0,0,0,0.0,,Malik Nabers
+00-0039338,1,1,2,7.0,Knee,Brock Bowers
+00-0039339,2,0,3,9.0,"Ankle, Knee",
+00-0039340,0,0,1,1.0,Hamstring,Laiatu Latu
+00-0039341,6,0,1,19.0,"Ankle, Concussion, Glute",
+00-0039342,1,0,1,4.0,Hamstring,Xavier Legette
+00-0039343,1,0,1,4.0,"Ankle, Foot",Kamari Lassiter
+00-0039345,2,0,3,9.0,"Ankle, Neck",Renardo Green
+00-0039347,4,0,1,13.0,Shoulder,Trevin Wallace
+00-0039348,0,0,2,2.0,Ankle,
+00-0039350,1,0,0,3.0,Back,
+00-0039351,0,0,0,0.0,,
+00-0039353,0,0,1,1.0,Quadricep,Jarrian Jones
+00-0039356,2,0,1,7.0,Ankle,Ja'Tavion Sanders
+00-0039357,0,0,2,2.0,Hamstring,Decamerion Richardson
+00-0039359,0,0,1,1.0,Foot,Cade Stover
+00-0039360,0,0,1,1.0,Knee,Malik Mustapha
+00-0039361,7,0,1,22.0,"Foot, Shoulder",Bucky Irving
+00-0039362,4,0,0,12.0,Knee,
+00-0039363,0,0,0,0.0,,Isaac Guerendo
+00-0039364,5,1,6,23.0,"Ankle, Groin, Hamstring, Thumb",Sione Vaki
+00-0039365,0,0,2,2.0,Hamstring,Jacob Cowing
+00-0039366,1,1,1,6.0,Knee,Tarheeb Still
+00-0039368,0,0,1,1.0,Knee,Jordan Magee
+00-0039369,0,0,1,1.0,Hip,Cam Hart
+00-0039370,0,0,0,0.0,,JD Bertrand
+00-0039372,2,1,1,9.0,"Ankle, Hip",Jarvis Brownlee
+00-0039375,1,0,1,4.0,Hamstring,Josh Newton
+00-0039376,0,0,1,1.0,Finger,Spencer Rattler
+00-0039377,2,0,0,6.0,Ankle,Jaylon Carlies
+00-0039379,1,0,0,3.0,Foot,Jamari Thrash
+00-0039380,1,0,1,4.0,Chest,Chau Smith-Wade
+00-0039382,2,0,1,7.0,Knee,
+00-0039384,1,1,0,5.0,Shoulder,Tyrone Tracy
+00-0039387,0,0,6,6.0,"Hamstring, Knee, Shoulder",Caelen Carson
+00-0039391,0,0,2,2.0,Neck,Kimani Vidal
+00-0039394,3,0,0,9.0,"Back, Concussion",Casey Washington
+00-0039395,5,0,0,15.0,"Calf, Hamstring, Wrist",Jamal Hill
+00-0039398,0,0,0,0.0,,Joe Milton
+00-0039401,0,0,0,0.0,,Khristian Boyd
+00-0039405,1,0,0,3.0,Ankle,Jawhar Jordan
+00-0039407,0,0,0,0.0,,Dylan Laube
+00-0039408,1,0,3,6.0,"Fibula, Illness",
+00-0039410,0,0,1,1.0,Knee,Ryan Flournoy
+00-0039414,1,0,0,3.0,Hamstring,Daijahn Anthony
+00-0039417,0,0,2,2.0,Shoulder,Myles Harden
+00-0039419,1,0,1,4.0,Hamstring,
+00-0039421,1,0,0,3.0,Neck,Levi Drake-Rodriguez
+00-0039422,0,0,0,0.0,,
+00-0039423,0,0,0,0.0,,Jonah Laulu
+00-0039424,0,0,2,2.0,Hip,Devaughn Vele
+00-0039426,2,1,1,9.0,Knee,
+00-0039430,0,0,2,2.0,Illness,James Williams
+00-0039435,3,0,1,10.0,"Ankle, Thigh",Tatum Bethune
+00-0039436,0,0,0,0.0,,Jaylen Harrell
+00-0039442,0,0,1,1.0,Knee,
+00-0039458,2,0,0,6.0,Ankle,Brenden Bates
+00-0039459,0,0,1,1.0,Quadricep,
+00-0039465,0,0,0,0.0,,Reddy Steward
+00-0039481,4,0,2,14.0,Ankle,Storm Duck
+00-0039483,1,0,1,4.0,Knee,Isaiah Johnson
+00-0039485,2,0,1,7.0,Triceps,
+00-0039491,0,0,2,2.0,Quadricep,Jalen Coker
+00-0039515,3,0,0,9.0,Back,Winston Reid
+00-0039521,1,0,3,6.0,"Ankle, Hamstring",Xavier Weaver
+00-0039530,0,0,0,0.0,,Brevyn Spann-Ford
+00-0039544,0,0,0,0.0,,
+00-0039568,0,0,0,0.0,,
+00-0039578,1,0,0,3.0,Shoulder,
+00-0039589,0,0,0,0.0,,Kameron Johnson
+00-0039596,3,0,0,9.0,Quadricep,Rashad Wisdom
+00-0039620,0,0,2,2.0,"Back, Groin",Rico Payton
+00-0039623,0,0,2,2.0,"Groin, Illness",Mason Tipton
+00-0039631,1,0,1,4.0,Chest,Cam Grandy
+00-0039632,0,1,1,3.0,Ankle,PJ Jules
+00-0039650,8,0,3,27.0,Knee,Bryce Oliver
+00-0039660,2,0,0,6.0,Concussion,Thomas Harper
+00-0039681,0,0,1,1.0,Hamstring,Tyler Owens
+00-0039686,3,0,0,9.0,"Ankle, Hamstring",Colson Yankoff
+00-0039714,0,0,1,1.0,Hip,Dwight McGlothern
+00-0039731,4,0,1,13.0,Hip,
+00-0039732,1,0,0,3.0,Ankle,Bo Nix
+00-0039733,0,0,1,1.0,Illness,Ruke Orhorhoro
+00-0039734,0,0,3,3.0,"Ankle, Oblique",Braden Fiske
+00-0039735,1,0,0,3.0,Concussion,
+00-0039736,1,0,0,3.0,Toe,
+00-0039737,1,0,1,4.0,Foot,Tip Reiman
+00-0039738,0,0,1,1.0,Ankle,Blake Corum
+00-0039740,0,0,0,0.0,,Jalyx Hunt
+00-0039744,1,0,0,3.0,Concussion,
+00-0039746,2,0,0,6.0,Oblique,Will Shipley
+00-0039751,1,0,1,4.0,"Back, Knee",Jordan Whittington
+00-0039752,1,0,0,3.0,Calf,Cedric Johnson
+00-0039754,0,0,0,0.0,,Devin Culp
+00-0039755,0,0,0,0.0,,
+00-0039757,2,0,2,8.0,"Concussion, Knee",Terrell Jennings
+00-0039770,1,0,4,7.0,"Foot, Groin, Knee",Charles Woods
+00-0039772,2,0,1,7.0,Ankle,Josh Wallace
+00-0039774,0,1,1,3.0,Ankle,Omar Speights
+00-0039776,0,0,0,0.0,,Jaylen McCollough
+00-0039784,0,0,0,0.0,,
+00-0039789,1,1,1,6.0,"Concussion, Hip, Knee",Qwan'tez Stiggers
+00-0039792,1,0,1,4.0,Oblique,Devontez Walker
+00-0039793,0,0,1,1.0,Calf,AJ Barner
+00-0039794,0,0,0,0.0,,Braelon Allen
+00-0039795,0,0,0,0.0,,Nehemiah Pritchett
+00-0039796,0,0,0,0.0,,Rasheen Ali
+00-0039798,1,0,0,3.0,Concussion,Isaiah Davis
+00-0039807,4,0,5,17.0,"Concussion, Hamstring, Heel, Knee",Max Melton
+00-0039809,4,0,0,12.0,"Hamstring, Ribs, Shoulder",Jonah Elliss
+00-0039810,3,0,0,9.0,"Ankle, Illness, Not injury related - other",Jermaine Burton
+00-0039811,3,0,0,9.0,Calf,MarShawn Lloyd
+00-0039813,0,0,2,2.0,Knee,Evan Williams
+00-0039815,1,0,0,3.0,Concussion,Tyrice Knight
+00-0039816,5,0,0,15.0,"Foot, Knee",Anthony Gould
+00-0039817,0,0,2,2.0,Hamstring,
+00-0039821,0,0,0,0.0,,Andru Phillips
+00-0039822,1,0,0,3.0,Elbow,
+00-0039824,0,0,0,0.0,,Jared Wiley
+00-0039825,0,0,0,0.0,,Jaden Hicks
+00-0039826,0,0,0,0.0,,Jeremiah Trotter Jr.
+00-0039829,2,0,1,7.0,"Ankle, Concussion",Darius Muasau
+00-0039831,0,0,0,0.0,,Kamal Hadden
+00-0039834,0,0,1,1.0,Shoulder,Kamren Kinchens
+00-0039835,0,0,0,0.0,,Justin Eboigbe
+00-0039836,0,0,0,0.0,,Brennan Jackson
+00-0039839,2,0,0,6.0,Pectoral,
+00-0039840,0,0,3,3.0,Knee,Austin Booker
+00-0039844,0,0,1,1.0,Concussion,
+00-0039846,0,1,0,2.0,Neck,Tykee Smith
+00-0039847,2,0,0,6.0,Illness,Theo Johnson
+00-0039849,4,0,3,15.0,"Heel, Illness",Marvin Harrison Jr.
+00-0039850,0,0,0,0.0,,Edgerrin Cooper
+00-0039851,0,0,0,0.0,,Drake Maye
+00-0039854,2,0,3,9.0,"Groin, Pectoral",Darius Robinson
+00-0039855,1,0,1,4.0,Neck,Jalen McMillan
+00-0039857,0,0,0,0.0,,
+00-0039858,1,0,0,3.0,Concussion,Cedric Gray
+00-0039859,2,0,3,9.0,"Groin, Hamstring, Illness, Oblique",Brandon Dorlus
+00-0039861,1,1,2,7.0,"Groin, Neck",Tyler Nubin
+00-0039864,5,0,1,16.0,Ankle,Dadrion Taylor-Demerson
+00-0039867,0,0,3,3.0,"Ankle, Concussion, Knee",Javon Bullard
+00-0039868,0,0,1,1.0,Hamstring,Troy Franklin
+00-0039871,0,0,0,0.0,,
+00-0039872,0,0,0,0.0,,Cole Bishop
+00-0039873,0,0,0,0.0,,DeWayne Carter
+00-0039874,1,1,0,5.0,Knee,Jaylen Wright
+00-0039875,0,0,0,0.0,,Ray Davis
+00-0039880,0,0,0,0.0,,Malik Washington
+00-0039882,0,0,1,1.0,Concussion,
+00-0039886,2,0,1,7.0,Ankle,T'Vondre Sweat
+00-0039888,0,0,0,0.0,,Quinyon Mitchell
+00-0039893,2,0,1,7.0,Ankle,Brian Thomas Jr.
+00-0039894,1,1,2,7.0,"Ankle, Illness, Shoulder",Xavier Worthy
+00-0039895,6,0,3,21.0,"Illness, Knee",Michael Hall Jr.
+00-0039896,0,0,1,1.0,Calf,
+00-0039897,2,1,1,9.0,Ankle,
+00-0039898,0,0,0,0.0,,Mike Sainristil
+00-0039900,0,0,4,4.0,Ankle,Marshawn Kneeland
+00-0039901,0,0,0,0.0,,Keon Coleman
+00-0039902,0,0,0,0.0,,Chris Braswell
+00-0039903,4,0,1,13.0,"Concussion, Shoulder",Terrion Arnold
+00-0039904,0,0,0,0.0,,
+00-0039905,0,0,0,0.0,,
+00-0039906,0,0,2,2.0,"Ankle, Illness",Jer'Zhan Newton
+00-0039908,0,0,0,0.0,,Kris Jenkins
+00-0039910,10,0,0,30.0,"Elbow, Hamstring, Knee",Jayden Daniels
+00-0039911,1,0,2,5.0,"Concussion, Knee",Chop Robinson
+00-0039912,1,0,0,3.0,Ankle,Ben Sinnott
+00-0039913,0,0,1,1.0,Knee,
+00-0039915,0,0,0,0.0,,Ladd McConkey
+00-0039916,7,0,5,26.0,Knee,Ricky Pearsall
+00-0039917,0,0,1,1.0,Knee,Michael Penix Jr.
+00-0039919,3,0,3,12.0,Foot,Rome Odunze
+00-0039920,0,0,1,1.0,Concussion,Malachi Corley
+00-0039921,3,0,0,9.0,Knee,Trey Benson
+00-0039923,5,0,2,17.0,"Ankle, Concussion, Hand",J.J. McCarthy
+00-0039924,0,0,0,0.0,,Dallas Turner
+00-0039925,0,0,0,0.0,,
+00-0039926,1,0,1,4.0,Knee,
+00-0040007,3,0,1,10.0,Ankle,
+00-0040008,3,0,0,9.0,"Concussion, Knee",Shavon Revel
+00-0040009,3,0,6,15.0,"Foot, Hamstring",Savion Williams
+00-0040010,0,0,1,1.0,Knee,Barryn Sorrell
+00-0040012,3,0,0,9.0,Hamstring,Collin Oliver
+00-0040015,1,0,2,5.0,Back,
+00-0040016,0,0,2,2.0,"Foot, Hamstring",Warren Brinson
+00-0040017,0,0,5,5.0,Knee,
+00-0040020,0,0,1,1.0,Illness,Micah Robinson
+00-0040021,1,0,2,5.0,Shoulder,Phil Mafah
+00-0040023,3,0,0,9.0,Back,
+00-0040024,0,0,1,1.0,Shoulder,Darius Cooper
+00-0040045,1,0,1,4.0,Ribs,Alijah Clark
+00-0040059,0,1,0,2.0,Knee,
+00-0040068,2,0,0,6.0,Shoulder,
+00-0040069,1,0,0,3.0,Knee,Teddye Buchanan
+00-0040072,0,0,0,0.0,,Jeffrey Bassa
+00-0040078,0,0,0,0.0,,Brashard Smith
+00-0040081,3,0,0,9.0,Hamstring,Jake Briningstool
+00-0040092,1,0,0,3.0,Ankle,
+00-0040100,2,0,1,7.0,Knee,Jay Higgins
+00-0040104,0,0,0,0.0,,Keondre Jackson
+00-0040116,3,0,1,10.0,Not injury related - personal matter,
+00-0040124,0,0,3,3.0,"Calf, Hamstring, Illness",Tetairoa McMillan
+00-0040126,0,0,2,2.0,Hip,Colston Loveland
+00-0040127,0,0,0,0.0,,Kenneth Grant
+00-0040128,0,0,2,2.0,"Illness, Toe",Tyler Warren
+00-0040129,0,0,2,2.0,"Hamstring, Hip",Emeka Egbuka
+00-0040133,2,0,0,6.0,"Concussion, Shoulder",Azareye'h Thomas
+00-0040134,2,0,0,6.0,"Concussion, Hamstring",Pat Bryant
+00-0040135,1,0,0,3.0,Concussion,Nick Martin
+00-0040136,1,0,0,3.0,Ankle,Princely Umanmielen
+00-0040140,0,0,1,1.0,Knee,
+00-0040141,0,4,1,9.0,Hamstring,Kevin Winston
+00-0040143,0,0,0,0.0,,Jacob Parrish
+00-0040144,0,0,1,1.0,Illness,Jamaree Caldwell
+00-0040146,4,0,1,13.0,Knee,
+00-0040147,4,0,0,12.0,"Ankle, Concussion",
+00-0040148,0,0,0,0.0,,Xavier Watts
+00-0040149,1,0,1,4.0,Hamstring,Jaylin Smith
+00-0040150,0,0,0,0.0,,
+00-0040152,0,0,3,3.0,"Ankle, Concussion, Shoulder",Upton Stout
+00-0040156,4,0,2,14.0,"Achilles, Hamstring, Knee, Shoulder",Billy Bowman
+00-0040159,1,0,0,3.0,Hand,Lathan Ransom
+00-0040161,0,0,0,0.0,,Kyle Kennard
+00-0040162,2,0,2,8.0,"Calf, Hand",Dylan Sampson
+00-0040163,0,0,0,0.0,,
+00-0040164,0,0,0,0.0,,Jaylin Lane
+00-0040167,2,0,0,6.0,Shoulder,Ruben Hyppolite
+00-0040170,1,0,1,4.0,Hamstring,Elic Ayomanor
+00-0040171,2,0,1,7.0,"Ankle, Hamstring",Joshua Farmer
+00-0040172,4,1,0,14.0,"Ankle, Calf",Jordan Watkins
+00-0040173,0,0,1,1.0,Hip,Tyrion Ingram-Dawkins
+00-0040174,0,0,1,1.0,Knee,Cam Jackson
+00-0040175,0,0,0,0.0,,Jordan Phillips
+00-0040177,0,1,0,2.0,Finger,Jordan James
+00-0040178,2,0,1,7.0,Hamstring,Jason Marshall
+00-0040180,0,0,0,0.0,,
+00-0040182,0,0,0,0.0,,Dante Trader
+00-0040184,1,0,1,4.0,Hamstring,KeAndre Lambert-Smith
+00-0040186,3,0,1,10.0,"Concussion, Neck",Francisco Mauigoa
+00-0040188,0,0,0,0.0,,Yahya Black
+00-0040189,0,0,0,0.0,,Oronde Gadsden
+00-0040192,0,0,1,1.0,Shoulder,Jordan Hancock
+00-0040193,3,0,1,10.0,Knee,
+00-0040194,0,0,0,0.0,,Jackson Hawes
+00-0040195,0,0,1,1.0,Knee,Denzel Burke
+00-0040197,1,0,0,3.0,Neck,Dorian Strong
+00-0040198,0,0,1,1.0,Ankle,Ollie Gordon
+00-0040199,0,0,0,0.0,,JJ Pegues
+00-0040201,2,0,1,7.0,"Calf, Knee",Marcus Harris
+00-0040202,0,0,0,0.0,,Devin Neal
+00-0040203,0,0,3,3.0,Hand,Will Howard
+00-0040204,2,0,2,8.0,"Forearm, Knee",Jaylen Reed
+00-0040205,1,1,3,8.0,Ankle,Kalel Mullings
+00-0040206,0,0,0,0.0,,Riley Leonard
+00-0040208,1,0,0,3.0,Concussion,Tahj Brooks
+00-0040209,3,0,0,9.0,Ankle,Jalen McLeod
+00-0040210,1,0,1,4.0,Foot,
+00-0040215,3,0,0,9.0,Back,Gavin Bartholomew
+00-0040217,1,0,0,3.0,Knee,
+00-0040218,0,0,0,0.0,,Jimmy Horn
+00-0040219,2,0,1,7.0,Knee,
+00-0040221,2,0,1,7.0,Shoulder,R.J. Mickens
+00-0040224,2,0,0,6.0,Calf,
+00-0040225,1,0,0,3.0,Foot,Thomas Fidone
+00-0040228,0,0,0,0.0,,Cody Lindenberg
+00-0040230,0,0,3,3.0,"Ankle, Hamstring",Kitan Crawford
+00-0040232,0,0,0,0.0,,Donte Kent
+00-0040236,0,0,0,0.0,,Kyle Monangai
+00-0040242,0,0,1,1.0,Knee,Jacory Croskey-Merritt
+00-0040243,0,0,1,1.0,Biceps,Korie Black
+00-0040245,0,0,2,2.0,Groin,
+00-0040251,0,0,0,0.0,,Trikweze Bridges
+00-0040255,3,0,1,10.0,"Concussion, Quadricep",Adin Huntington
+00-0040259,0,0,1,1.0,Concussion,Gage Larvadain
+00-0040261,0,0,0,0.0,,Easton Mascarenas-Arnold
+00-0040277,2,1,0,8.0,"Ankle, Concussion",Jahdae Walker
+00-0040318,1,0,0,3.0,Concussion,Ale Kaho
+00-0040329,0,0,0,0.0,,B.J. Green
+00-0040342,2,0,0,6.0,Ankle,Danny Striggow
+00-0040347,0,0,0,0.0,,Johnathan Edwards
+00-0040371,1,0,0,3.0,Knee,Eric Gregory
+00-0040379,0,0,0,0.0,,
+00-0040398,0,0,0,0.0,,Brady Cook
+00-0040408,1,0,1,4.0,Groin,Ja'Markis Weston
+00-0040409,0,0,0,0.0,,
+00-0040411,3,0,0,9.0,Knee,Alijah Huzzie
+00-0040429,2,0,0,6.0,Concussion,Josh Williams
+00-0040432,4,0,0,12.0,"Concussion, Neck",Beaux Collins
+00-0040449,3,0,0,9.0,Hamstring,Karene Reid
+00-0040466,0,0,0,0.0,,Raheim Sanders
+00-0040471,1,0,0,3.0,Hamstring,Nikko Reed
+00-0040492,0,0,2,2.0,Knee,Tyler Batty
+00-0040501,0,0,2,2.0,Groin,Austin Keys
+00-0040503,0,0,1,1.0,Back,
+00-0040506,1,0,0,3.0,Ankle,Myles Price
+00-0040509,1,0,1,4.0,Knee,Ben Yurosek
+00-0040534,0,0,0,0.0,,Ke'Shawn Williams
+00-0040547,1,0,0,3.0,Hamstring,Nathan Carter
+00-0040554,3,0,0,9.0,Shoulder,
+00-0040563,0,0,0,0.0,,Efton Chism
+00-0040566,0,0,0,0.0,,CJ Dippre
+00-0040574,0,0,0,0.0,,Elijah Ponder
+00-0040577,2,0,2,8.0,"Groin, Quadricep",Jalon Walker
+00-0040578,0,0,3,3.0,"Back, Foot, Groin",James Pearce
+00-0040579,1,0,1,4.0,Ankle,Carson Schwesinger
+00-0040580,0,0,0,0.0,,Josaiah Stewart
+00-0040581,1,0,0,3.0,Concussion,Dont'e Thornton
+00-0040583,0,0,1,1.0,Ankle,Woody Marks
+00-0040584,1,0,1,4.0,Toe,Gunnar Helm
+00-0040589,3,0,0,9.0,Knee,Kurtis Rourke
+00-0040590,0,0,0,0.0,,Konata Mumpfield
+00-0040624,1,0,0,3.0,Hamstring,Elijah Williams
+00-0040631,0,0,3,3.0,Knee,
+00-0040636,1,0,0,3.0,Rib,
+00-0040639,0,0,1,1.0,Knee,
+00-0040640,0,0,1,1.0,Elbow,Ashton Gillotte
+00-0040643,0,0,0,0.0,,Jonas Sanker
+00-0040645,1,0,3,6.0,"Concussion, Illness, Knee",Cody Simon
+00-0040646,2,0,1,7.0,Knee,Jalen Royals
+00-0040647,2,0,1,7.0,Knee,Rylie Mills
+00-0040648,2,1,0,8.0,"Groin, Shin",Tory Horton
+00-0040649,0,0,3,3.0,"Elbow, Neck",Robbie Ouzts
+00-0040650,0,0,0,0.0,,
+00-0040660,1,0,0,3.0,Knee,Mykel Williams
+00-0040661,3,0,1,10.0,"Ankle, Wrist",
+00-0040663,1,0,2,5.0,"Groin, Hamstring",Harold Fannin
+00-0040666,2,0,2,8.0,Ankle,Omarion Hampton
+00-0040667,0,0,6,6.0,"Hip, Shoulder, Wrist",Matthew Golden
+00-0040668,0,0,1,1.0,Back,Shedeur Sanders
+00-0040669,0,0,3,3.0,"Hand, Oblique",Isaac TeSlaa
+00-0040676,0,0,0,0.0,,Cam Ward
+00-0040677,0,0,1,1.0,Hamstring,Abdul Carter
+00-0040678,4,0,2,14.0,Knee,Derrick Harmon
+00-0040685,0,0,3,3.0,"Knee, Rib, Ribs",Mason Graham
+00-0040687,1,0,3,6.0,Shoulder,
+00-0040688,0,0,0,0.0,,Malaki Starks
+00-0040691,2,0,0,6.0,Concussion,Jaxson Dart
+00-0040699,0,0,1,1.0,Ankle,
+00-0040704,1,0,1,4.0,"Concussion, Shoulder",Dillon Gabriel
+00-0040705,0,0,0,0.0,,Chimere Dike
+00-0040706,3,0,3,12.0,"Calf, Knee",Walter Nolen
+00-0040708,0,0,0,0.0,,Jihaad Campbell
+00-0040709,2,0,1,7.0,"Ankle, Knee",Maxwell Hairston
+00-0040710,0,0,1,1.0,Illness,Deone Walker
+00-0040711,1,0,1,4.0,Thumb,CJ West
+00-0040715,0,0,0,0.0,,Cam Skattebo
+00-0040716,0,0,0,0.0,,Craig Woodson
+00-0040718,1,0,0,3.0,Knee,Travis Hunter
+00-0040719,1,0,1,4.0,Finger,Bhayshul Tuten
+00-0040721,0,0,2,2.0,"Hip, Knee",Alfred Collins
+00-0040722,0,0,1,1.0,Ankle,Mike Green
+00-0040723,0,0,0,0.0,,Jack Kiser
+00-0040724,1,0,2,5.0,Knee,T.J. Sanders
+00-0040726,2,0,1,7.0,Ankle,
+00-0040727,0,0,0,0.0,,Tre Harris
+00-0040728,0,0,2,2.0,Knee,
+00-0040729,0,0,1,1.0,Back,Jack Bech
+00-0040730,0,0,0,0.0,,RJ Harvey
+00-0040731,0,0,0,0.0,,Trey Amos
+00-0040733,1,2,0,7.0,Ankle,Nick Emmanwori
+00-0040734,0,0,0,0.0,,TreVeyon Henderson
+00-0040735,2,0,0,6.0,"Ankle, Concussion",Luther Burden
+00-0040736,4,0,2,14.0,"Ankle, Neck, Quadricep",Mason Taylor
+00-0040737,0,1,1,3.0,Hamstring,Terrance Ferguson
+00-0040739,2,0,0,6.0,Knee,Elijah Arroyo
+00-0040740,0,0,1,1.0,Knee,
+00-0040742,0,0,0,0.0,,
+00-0040743,0,0,0,0.0,,Tyler Shough
+00-0040744,1,0,0,3.0,Oblique,JT Tuimoloau
+00-0040745,0,0,1,1.0,Thumb,
+00-0040747,4,0,3,15.0,"Hamstring, Quadricep",Benjamin Morrison
+00-0040748,0,0,2,2.0,"Ankle, Shoulder",Omarr Norman-Lott
+00-0040749,0,0,0,0.0,,Andrew Mukuba
+00-0040751,2,2,4,14.0,"Back, Groin, Thumb",Will Johnson
+00-0040752,3,0,0,9.0,Fibula,Oluwafemi Oladejo
+00-0040756,5,1,0,17.0,"Ankle, Knee",Shemar Stewart
+00-0040770,3,0,1,10.0,Hamstring,
+00-0040782,1,0,0,3.0,Foot,Isaiah Bond
+00-0040784,0,0,1,1.0,Not injury related - personal matter,Quinshon Judkins

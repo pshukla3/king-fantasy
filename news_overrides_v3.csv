@@ -1,0 +1,179 @@
+player,team,pos,status,inj,weeks_out,games_mult,points_mult,timeline,desc
+Patrick Mahomes,KC,QB,QUESTIONABLE,Knee,1.0,0.941,0.717,1 wk expected out,"median of 149 past cases; next-season scoring ratio, n=149"
+Michael Penix Jr.,ATL,QB,QUESTIONABLE,Knee,1.0,0.941,0.935,1 wk expected out,"median of 149 past cases; first-4-games-back ratio 0.74, n=149"
+Daniel Jones,IND,QB,QUESTIONABLE,Achilles,1.0,0.941,0.66,1 wk expected out,"median of 5 past cases; next-season scoring ratio, n=5"
+Ashton Jeanty,LV,RB,QUESTIONABLE,Ankle,1.0,0.941,0.965,1 wk expected out,"median of 159 past cases; first-4-games-back ratio 0.86, n=159"
+Jeremiyah Love,ARI,RB,QUESTIONABLE,Ankle,1.0,0.941,0.965,1 wk expected out,"median of 159 past cases; first-4-games-back ratio 0.86, n=159"
+Breece Hall,NYJ,RB,OUT,Groin,3.0,0.824,0.974,3 wks expected out,"reported timeline; first-4-games-back ratio 0.91, n=35"
+Chuba Hubbard,CAR,RB,QUESTIONABLE,Hamstring,1.0,0.941,0.98,1 wk expected out,"median of 120 past cases; first-4-games-back ratio 0.92, n=120"
+Kyle Monangai,CHI,RB,QUESTIONABLE,Knee,3.0,0.824,0.926,3 wks expected out,"reported timeline; first-4-games-back ratio 0.74, n=149"
+Zach Charbonnet,SEA,RB,PUP,Knee,2.0,0.882,0.931,2 wks expected out,"p75 of 149 past cases (CHOSEN not measured); first-4-games-back ratio 0.74, n=149"
+LeQuint Allen Jr.,JAX,RB,QUESTIONABLE,Undisclosed,0.0,1.0,1.0,no games expected missed,no measured comparable
+Isaac Guerendo,SF,RB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Kenny McIntosh,SEA,RB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Christopher Brooks,GB,RB,NFI,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Kejon Owens,MIN,RB,NFI,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Terrell Jennings,NE,RB,NFI,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Ricky Pearsall,SF,WR,OUT_SEASON,Knee,17.0,0.0,0.0,out for the season,season-ending
+Jayden Higgins,HOU,WR,OUT_SEASON,Knee,17.0,0.0,0.0,out for the season,season-ending
+Chris Brazzell,CAR,WR,OUT_SEASON,Knee,17.0,0.0,0.0,out for the season,season-ending
+Jordyn Tyson,NO,WR,OUT,Hamstring,8.0,0.529,0.965,8 wks expected out,"reported timeline; first-4-games-back ratio 0.92, n=120"
+Puka Nacua,LA,WR,QUESTIONABLE,Groin,1.0,0.941,0.978,1 wk expected out,"median of 35 past cases; first-4-games-back ratio 0.91, n=35"
+Emeka Egbuka,TB,WR,QUESTIONABLE,Toe,1.0,0.941,0.952,1 wk expected out,"median of 26 past cases; first-4-games-back ratio 0.81, n=26"
+Luther Burden III,CHI,WR,QUESTIONABLE,Groin,1.0,0.941,0.978,1 wk expected out,"median of 35 past cases; first-4-games-back ratio 0.91, n=35"
+Malik Nabers,NYG,WR,QUESTIONABLE,Knee,1.0,0.941,0.935,1 wk expected out,"median of 149 past cases; first-4-games-back ratio 0.74, n=149"
+Alec Pierce,IND,WR,QUESTIONABLE,Ankle,1.0,0.941,0.965,1 wk expected out,"median of 159 past cases; first-4-games-back ratio 0.86, n=159"
+Tank Dell,HOU,WR,QUESTIONABLE,Knee,1.0,0.941,0.717,1 wk expected out,"median of 149 past cases; next-season scoring ratio, n=149"
+Christian Kirk,SF,WR,QUESTIONABLE,Calf,1.0,0.941,0.916,1 wk expected out,"median of 32 past cases; first-4-games-back ratio 0.66, n=32"
+Mike Evans,SF,WR,QUESTIONABLE,Groin,1.0,0.941,0.978,1 wk expected out,"median of 35 past cases; first-4-games-back ratio 0.91, n=35"
+Tyrell Shavers,BUF,WR,PUP,Knee,2.0,0.882,0.931,2 wks expected out,"p75 of 149 past cases (CHOSEN not measured); first-4-games-back ratio 0.74, n=149"
+Mason Tipton,NO,WR,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Corey Rucker,LV,WR,IR,Undisclosed,17.0,0.0,0.0,out for the season,season-ending
+Gunner Olszewski,NYG,WR,IR,Undisclosed,17.0,0.0,0.0,out for the season,season-ending
+Kendrick Law,DET,WR,IR,Undisclosed,17.0,0.0,0.0,out for the season,season-ending
+Chris Bell,MIA,WR,NFI,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+George Kittle,SF,TE,QUESTIONABLE,Achilles,1.0,0.941,0.66,1 wk expected out,"median of 5 past cases; next-season scoring ratio, n=5"
+Tucker Kraft,GB,TE,QUESTIONABLE,Knee,1.0,0.941,0.717,1 wk expected out,"median of 149 past cases; next-season scoring ratio, n=149"
+Tyler Warren,IND,TE,QUESTIONABLE,Groin,1.0,0.941,0.978,1 wk expected out,"median of 35 past cases; first-4-games-back ratio 0.91, n=35"
+Sam LaPorta,DET,TE,QUESTIONABLE,Hip,1.0,0.941,1.014,1 wk expected out,"reported timeline; first-4-games-back ratio 1.06, n=20"
+Tyler Conklin,DET,TE,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Tip Reiman,ARI,TE,PUP,Ankle,2.0,0.882,0.962,2 wks expected out,"p75 of 159 past cases (CHOSEN not measured); first-4-games-back ratio 0.86, n=159"
+Luke Musgrave,GB,TE,PUP,Neck,2.25,0.868,0.752,2 wks expected out,"p75 of 16 past cases (CHOSEN not measured); first-4-games-back ratio 0.08, n=16"
+John Michael Gyllenborg,KC,TE,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+CJ Dippre,NE,TE,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Julian Hill,NE,TE,IR,Undisclosed,17.0,0.0,0.0,out for the season,season-ending
+Justin Shorter,LV,TE,IR,Undisclosed,17.0,0.0,0.0,out for the season,season-ending
+Josh Kattus,CIN,TE,NFI,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Josh Sweat,ARI,DL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Garrett Williams,ARI,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Kaleb Proctor,ARI,DL,IR,Undisclosed,17.0,0.0,0.0,out for the season,season-ending
+Troy Andersen,ATL,LB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Billy Bowman Jr.,ATL,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+DeAngelo Malone,ATL,LB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Storm Norton,ATL,OL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Jawaan Taylor,ATL,OL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Zach Harrison,ATL,DL,NFI,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Anterio Thompson,ATL,DL,NFI,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Travis Jones,BAL,DL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+John Jenkins,BAL,DL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Teddye Buchanan,BAL,LB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Adisa Isaac,BAL,LB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Bilhal Kone,BAL,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Ikem Ekwonu,CAR,OL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Tershawn Wharton,CAR,DL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Bobby Brown III,CAR,DL,NFI,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Taylor Moton,CAR,OL,NFI,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Keyshaun Elliott,CHI,LB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Kyler Gordon,CHI,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Elijah Hicks,CHI,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Noah Sewell,CHI,LB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Ozzy Trapilo,CHI,OL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Shemar Turner,CHI,DL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+T.J. Edwards,CHI,LB,NFI,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+B.J. Hill,CIN,DL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Maliek Collins,CLE,DL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Matt Hennessy,DAL,OL,IR,Undisclosed,17.0,0.0,0.0,out for the season,season-ending
+Brian Branch,DET,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Kerby Joseph,DET,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Aaron Banks,GB,OL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Javon Hargrave,GB,DL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Micah Parsons,GB,LB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Brant Banks,GB,OL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Kamal Hadden,GB,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Jordon Riley,GB,DL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Nazir Stackhouse,GB,DL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+E.J. Speed,HOU,LB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+M.J. Stewart,HOU,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+CJ Allen,IND,LB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Omarr Norman-Lott,KC,DL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Al'zillion Hamilton,LA,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Justin Dedich,LA,OL,NFI,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Eddie Walls III,LA,LB,IR,Undisclosed,17.0,0.0,0.0,out for the season,season-ending
+Darrell Baker Jr.,MIA,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Storm Duck,MIA,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Carter Warren,MIA,OL,IR,Undisclosed,17.0,0.0,0.0,out for the season,season-ending
+Harold Landry III,NE,LB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Gabe Jacas,NE,LB,NFI,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Brenden Schooler,NE,DB,NFI,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Keeshawn Silver,NO,DL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Roy Robertson-Harris,NYG,DL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Thaddeus Dixon,NYG,DB,IR,Undisclosed,17.0,0.0,0.0,out for the season,season-ending
+Rico Payton,NYG,DB,IR,Undisclosed,17.0,0.0,0.0,out for the season,season-ending
+Tyler Baron,NYJ,LB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Joseph Ossai,NYJ,LB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+T'Vondre Sweat,NYJ,DL,NFI,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Kobe King,NYJ,LB,IR,Undisclosed,17.0,0.0,0.0,out for the season,season-ending
+Jonathan Greenard,PHI,LB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Donte Kent,PIT,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Joey Porter Jr.,PIT,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Jalen Ramsey,PIT,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Daequan Hardy,PIT,DB,IR,Undisclosed,17.0,0.0,0.0,out for the season,season-ending
+Mykel Williams,SF,DL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Alfred Collins,SF,DL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Darrick Forrest,SF,DB,IR,Undisclosed,17.0,0.0,0.0,out for the season,season-ending
+Tyrone Broden,SEA,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Deven Eastern,SEA,DL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Nick Emmanwori,SEA,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Chase Lucas,TB,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Armani Hooker,TEN,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+JC Latham,TEN,OL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Trey Amos,WAS,DB,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Deatrich Wise Jr.,WAS,DL,PUP,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Fred Davis II,WAS,DB,NFI,Undisclosed,3.0,0.824,1.0,3 wks expected out,PUP default (INVENTED - no injury named)
+Christian McCaffrey,SF,RB,QUESTIONABLE,Undisclosed,0.0,1.0,1.0,no games expected missed,no measured comparable
+Jonathon Brooks,CAR,RB,QUESTIONABLE,Knee,1.0,0.941,0.717,1 wk expected out,"median of 149 past cases; next-season scoring ratio, n=149"
+Ja'Marr Chase,CIN,WR,QUESTIONABLE,Knee,1.0,0.941,0.935,1 wk expected out,"median of 149 past cases; first-4-games-back ratio 0.74, n=149"
+Trey Benson,ARI,RB,IR,Knee,17.0,0.0,0.0,out for the season,season-ending
+James Conner,ARI,RB,QUESTIONABLE,Foot,1.0,0.941,0.948,1 wk expected out,"median of 45 past cases; first-4-games-back ratio 0.79, n=45"
+Xavier Weaver,ARI,WR,IR,Hamstring,17.0,0.0,0.0,out for the season,season-ending
+Elijah Higgins,ARI,TE,QUESTIONABLE,Concussion,1.0,0.941,0.981,1 wk expected out,"median of 131 past cases; first-4-games-back ratio 0.93, n=131"
+Carson Beck,ARI,QB,QUESTIONABLE,Ribs,1.0,0.941,1.087,1 wk expected out,"median of 19 past cases; first-4-games-back ratio 1.35, n=19"
+Trey Sermon,ATL,RB,IR,Undisclosed,17.0,0.0,0.0,out for the season,season-ending
+Ty Johnson,BUF,RB,QUESTIONABLE,Lower Leg,0.0,1.0,1.0,no games expected missed,no measured comparable
+Keon Coleman,BUF,WR,QUESTIONABLE,Foot,1.0,0.941,0.948,1 wk expected out,"median of 45 past cases; first-4-games-back ratio 0.79, n=45"
+Khalil Shakir,BUF,WR,QUESTIONABLE,Undisclosed,0.0,1.0,1.0,no games expected missed,no measured comparable
+Xavier Legette,CAR,WR,QUESTIONABLE,Ankle,1.0,0.941,0.965,1 wk expected out,"median of 159 past cases; first-4-games-back ratio 0.86, n=159"
+Haynes King,CAR,QB,QUESTIONABLE,Hamstring,1.0,0.941,0.98,1 wk expected out,"median of 120 past cases; first-4-games-back ratio 0.92, n=120"
+Nikola Kalinic,CHI,TE,IR,Knee,17.0,0.0,0.0,out for the season,season-ending
+Cedric Tillman,CLE,WR,QUESTIONABLE,Undisclosed,0.0,1.0,1.0,no games expected missed,no measured comparable
+Jamari Thrash,CLE,WR,IR,Undisclosed,17.0,0.0,0.0,out for the season,season-ending
+Jack Stoll,CLE,TE,IR,Undisclosed,17.0,0.0,0.0,out for the season,season-ending
+DJ Rogers,DAL,TE,QUESTIONABLE,Knee,1.0,0.941,0.935,1 wk expected out,"median of 149 past cases; first-4-games-back ratio 0.74, n=149"
+Michael Trigg,DAL,TE,QUESTIONABLE,Toe,1.0,0.941,0.952,1 wk expected out,"median of 26 past cases; first-4-games-back ratio 0.81, n=26"
+Princeton Fant,DAL,TE,IR,Knee,17.0,0.0,0.0,out for the season,season-ending
+Caleb Lohner,DEN,TE,QUESTIONABLE,Undisclosed,0.0,1.0,1.0,no games expected missed,no measured comparable
+Cedrick Wilson Jr.,DET,WR,IR,Knee,17.0,0.0,0.0,out for the season,season-ending
+Isiah Pacheco,DET,RB,QUESTIONABLE,Knee,1.0,0.941,0.935,1 wk expected out,"median of 149 past cases; first-4-games-back ratio 0.74, n=149"
+Sione Vaki,DET,RB,QUESTIONABLE,Back,1.0,0.941,1.089,1 wk expected out,"median of 18 past cases; first-4-games-back ratio 1.36, n=18"
+Jabari Small,DET,RB,QUESTIONABLE,Concussion,1.0,0.941,0.981,1 wk expected out,"median of 131 past cases; first-4-games-back ratio 0.93, n=131"
+Josh Jacobs,GB,RB,QUESTIONABLE,Groin,1.0,0.941,0.978,1 wk expected out,"median of 35 past cases; first-4-games-back ratio 0.91, n=35"
+J. Michael Sturdivant,GB,WR,QUESTIONABLE,Concussion,1.0,0.941,0.981,1 wk expected out,"median of 131 past cases; first-4-games-back ratio 0.93, n=131"
+Noah Whittington,HOU,RB,QUESTIONABLE,Ankle,1.0,0.941,0.965,1 wk expected out,"median of 159 past cases; first-4-games-back ratio 0.86, n=159"
+Jawhar Jordan,HOU,RB,QUESTIONABLE,Hip,1.0,0.941,1.014,1 wk expected out,"median of 20 past cases; first-4-games-back ratio 1.06, n=20"
+Brevin Jordan,HOU,TE,QUESTIONABLE,Knee,1.0,0.941,0.935,1 wk expected out,"median of 149 past cases; first-4-games-back ratio 0.74, n=149"
+Josh Downs,IND,WR,QUESTIONABLE,Undisclosed,0.0,1.0,1.0,no games expected missed,no measured comparable
+Brian Thomas Jr.,JAX,WR,QUESTIONABLE,Shoulder,1.0,0.941,0.979,1 wk expected out,"median of 70 past cases; first-4-games-back ratio 0.92, n=70"
+Kenneth Walker III,KC,RB,QUESTIONABLE,Foot,1.0,0.941,0.948,1 wk expected out,"median of 45 past cases; first-4-games-back ratio 0.79, n=45"
+Jeff Caldwell,KC,WR,IR,Knee,17.0,0.0,0.0,out for the season,season-ending
+Keaton Mitchell,LAC,RB,QUESTIONABLE,Undisclosed,0.0,1.0,1.0,no games expected missed,no measured comparable
+Terrance Ferguson,LA,TE,QUESTIONABLE,Undisclosed,0.0,1.0,1.0,no games expected missed,no measured comparable
+TreVeyon Henderson,NE,RB,QUESTIONABLE,Ankle,1.0,0.941,0.965,1 wk expected out,"median of 159 past cases; first-4-games-back ratio 0.86, n=159"
+Lan Larison,NE,RB,QUESTIONABLE,Undisclosed,0.0,1.0,1.0,no games expected missed,no measured comparable
+Chris Olave,NO,WR,QUESTIONABLE,Undisclosed,0.0,1.0,1.0,no games expected missed,no measured comparable
+Ty Chandler,NO,RB,IR,Knee,17.0,0.0,0.0,out for the season,season-ending
+Moliki Matavao,NO,TE,IR,Knee,17.0,0.0,0.0,out for the season,season-ending
+Oscar Delp,NO,TE,QUESTIONABLE,Hamstring,1.0,0.941,0.98,1 wk expected out,"median of 120 past cases; first-4-games-back ratio 0.92, n=120"
+Calvin Austin III,NYG,WR,QUESTIONABLE,Knee,1.0,0.941,0.935,1 wk expected out,"median of 149 past cases; first-4-games-back ratio 0.74, n=149"
+Theo Johnson,NYG,TE,QUESTIONABLE,Undisclosed,0.0,1.0,1.0,no games expected missed,no measured comparable
+Caullin Lacy,NYJ,WR,IR,Undisclosed,17.0,0.0,0.0,out for the season,season-ending
+Ja'Quinden Jackson,PHI,RB,IR,Undisclosed,17.0,0.0,0.0,out for the season,season-ending
+Eli Stowers,PHI,TE,QUESTIONABLE,Hamstring,1.0,0.941,0.98,1 wk expected out,"median of 120 past cases; first-4-games-back ratio 0.92, n=120"
+Emanuel Wilson,SEA,RB,QUESTIONABLE,Hamstring,1.0,0.941,0.98,1 wk expected out,"median of 120 past cases; first-4-games-back ratio 0.92, n=120"
+Tory Horton,SEA,WR,QUESTIONABLE,Undisclosed,0.0,1.0,1.0,no games expected missed,no measured comparable
+Jacob Cowing,SF,WR,QUESTIONABLE,Groin,1.0,0.941,0.978,1 wk expected out,"median of 35 past cases; first-4-games-back ratio 0.91, n=35"
+Kurtis Rourke,SF,QB,QUESTIONABLE,Ribs,1.0,0.941,1.087,1 wk expected out,"median of 19 past cases; first-4-games-back ratio 1.35, n=19"
+Kalel Mullings,TEN,RB,QUESTIONABLE,Hip,1.0,0.941,1.014,1 wk expected out,"median of 20 past cases; first-4-games-back ratio 1.06, n=20"
+Mitchell Trubisky,TEN,QB,QUESTIONABLE,Undisclosed,0.0,1.0,1.0,no games expected missed,no measured comparable
+Rachaad White,WAS,RB,QUESTIONABLE,Hamstring,1.0,0.941,0.98,1 wk expected out,"median of 120 past cases; first-4-games-back ratio 0.92, n=120"
+Jacory Croskey-Merritt,WAS,RB,QUESTIONABLE,Undisclosed,0.0,1.0,1.0,no games expected missed,no measured comparable
+Ben Sinnott,WAS,TE,QUESTIONABLE,Undisclosed,0.0,1.0,1.0,no games expected missed,no measured comparable
