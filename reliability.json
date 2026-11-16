@@ -1,0 +1,31 @@
+{
+ "WR": {
+  "tgt_share": 0.6574,
+  "catch_rate": 0.0726,
+  "ypc": 0.0939,
+  "td_per_tgt": 0.0073
+ },
+ "TE": {
+  "tgt_share": 0.6039,
+  "catch_rate": 0.0055,
+  "ypc": 0.051,
+  "td_per_tgt": 0.0138
+ },
+ "RB": {
+  "car_share": 0.7825,
+  "ypcar": 0.0765,
+  "td_per_car": 0.0253,
+  "tgt_share": 0.4787,
+  "catch_rate": 0.0165,
+  "ypc": 0.0028
+ },
+ "QB": {
+  "qb_att": 0.3944,
+  "cmp_pct": 0.0066,
+  "ypa": 0.0776,
+  "td_per_att": 0.0613,
+  "int_per_att": 0.0088,
+  "qb_car": 0.4629,
+  "qb_rush_ypc": 0.1398
+ }
+}

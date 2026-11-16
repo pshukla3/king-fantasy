@@ -40,13 +40,21 @@ for p, (a, b) in FIT.items():
           % (p, n, b, s))
 print("  total %d scaled, %d left alone" % (hit, skip))
 
-v = B["value"].notna()
+v = B["value"].notna() & (B["points"].fillna(0) > 0.01)
+_z = ~v
 B["model_rank"] = np.nan
 B.loc[v, "model_rank"] = B.loc[v, "value"].rank(
     ascending=False, method="min")
+_nl = int(v.sum())
+if _z.any():
+    B.loc[_z, "model_rank"] = _nl + B.loc[_z, "value"].rank(
+        ascending=False, method="min").fillna(1.0)
+    print("pushed %d zero-projection players below the "
+          "%d live players" % (int(_z.sum()), _nl))
 mr = B["model_rank"]
 mk = pd.to_numeric(B["market_rank"], errors="coerce")
 nb = np.where(mk.notna(), (mr + mk) / 2.0, mr)
+nb = np.where(_z.values, mr.values, nb)
 B["blend"] = np.where(mr.notna(), nb, b0)
 print("rows keeping their old blend: %d" % int(mr.isna().sum()))
 B["blend"] = B["blend"].fillna(b0.max() + 1)

@@ -1,0 +1,5 @@
+cd ~/nfl-engine
+pbpaste > ranks/raw10.txt
+wc -l ranks/raw10.txt
+head -4 ranks/raw10.txt
+tail -2 ranks/raw10.txt

@@ -1,0 +1,109 @@
+<!doctype html><html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>KING Fantasy</title>
+<style>
+:root{
+ --bg:#08090b; --panel:#131519; --panel2:#1b1e24;
+ --line:#262a33; --text:#dfe4ec; --dim:#8b95a5;
+ --sky:#56c2ff; --sky2:#8fd8ff;
+}
+#cardov{display:none;position:fixed;top:0;left:0;
+right:0;bottom:0;background:#000000cc;z-index:100;
+align-items:center;justify-content:center;padding:20px}
+#cardbx{background:var(--bg);width:100%;max-width:1180px;
+height:90vh;border:1px solid var(--line);border-radius:14px;
+overflow:hidden;position:relative}
+#cardfr{width:100%;height:100%;border:0}
+#cardx{position:absolute;top:10px;right:12px;z-index:2;
+background:var(--panel2);color:var(--text);
+border:1px solid var(--line);border-radius:8px;
+padding:6px 12px;cursor:pointer;font-size:13px}
+.pn{color:var(--sky);cursor:pointer;text-decoration:none;
+border-bottom:1px dotted var(--line)}
+.pn:hover{border-bottom-color:var(--sky)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);
+ font:14px/1.5 -apple-system,BlinkMacSystemFont,
+ "Segoe UI",Roboto,sans-serif}
+.wrap{max-width:1180px;margin:0 auto;padding:0 18px}
+header{background:var(--panel);
+ border-bottom:1px solid var(--line);position:sticky;
+ top:0;z-index:20}
+.bar{display:flex;align-items:center;gap:16px;
+ padding:14px 0;flex-wrap:wrap}
+.brand{font-size:20px;font-weight:800;letter-spacing:1px;display:inline-flex;align-items:center;gap:8px}
+.brand em{margin-left:4px}
+.crown{color:var(--sky);font-size:24px;line-height:1}
+.brand em{color:var(--sky);font-style:normal}
+.sub{color:var(--dim);font-size:12px}
+nav{margin-left:auto;display:flex;gap:6px;flex-wrap:wrap}
+nav button{background:transparent;border:1px solid var(--line);
+ color:var(--dim);border-radius:7px;padding:7px 13px;
+ cursor:pointer;font-size:13px;font-weight:600}
+nav button:hover{color:var(--text);border-color:var(--sky)}
+nav button.on{background:var(--sky);color:#06222f;
+ border-color:var(--sky)}
+section{display:none;padding:22px 0 60px}
+section.on{display:block}
+h2{font-size:17px;margin:0 0 14px;font-weight:700}
+h3.sec{font-size:14px;margin:26px 0 10px;
+ color:var(--sky);font-weight:700;
+ text-transform:uppercase;letter-spacing:.6px}
+.cards{display:grid;gap:12px;
+ grid-template-columns:repeat(auto-fill,minmax(210px,1fr))}
+.card{background:var(--panel);border:1px solid var(--line);
+ border-radius:10px;padding:14px}
+.card:hover{border-color:var(--sky)}
+.kpi{font-size:26px;font-weight:800;color:var(--sky)}
+.kpi-l{color:var(--dim);font-size:11px;
+ text-transform:uppercase;letter-spacing:.7px}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{text-align:left;color:var(--dim);font-weight:600;
+ font-size:11px;text-transform:uppercase;
+ letter-spacing:.5px;padding:8px 9px;
+ border-bottom:1px solid var(--line)}
+td{padding:8px 9px;border-bottom:1px solid var(--panel2)}
+tr:hover td{background:var(--panel)}
+.hurt{color:#ff8f8f}
+.tag{display:inline-block;background:var(--panel2);
+ color:var(--sky2);border-radius:4px;padding:1px 6px;
+ font-size:11px;margin-left:6px}
+.bar2{display:flex;gap:10px;margin-bottom:14px;
+ flex-wrap:wrap}
+input,select{background:var(--panel);color:var(--text);
+ border:1px solid var(--line);border-radius:7px;
+ padding:8px 10px;font-size:13px}
+input:focus,select:focus{outline:none;border-color:var(--sky)}
+.tm{display:flex;align-items:center;gap:9px;
+ margin-bottom:8px}
+.tm img{width:26px;height:26px}
+a{color:var(--sky);text-decoration:none}
+a:hover{text-decoration:underline}
+.note{color:var(--dim);font-size:12px;line-height:1.65;
+ margin-top:14px}
+.err{color:#ff8f8f;font-size:12px}
+</style></head><body>
+<header><div class="wrap"><div class="bar">
+<span class="brand"><span class="crown">&#9812;</span>KING<em>Fantasy</em></span>
+<span class="sub">2026 Season</span>
+<nav>
+<button class="on" data-t="home">Home</button>
+<button data-t="rosters">Rosters</button>
+<button data-t="board">Rankings</button>
+<button data-t="news">News</button>
+<button data-t="trades">Trades</button>
+<button data-t="calc">My Team</button>
+<button data-t="league">League</button>
+</nav></div></div></header>
+<div class="wrap">
+<section class="on" id="home"></section>
+<section id="rosters"></section>
+<section id="board"></section>
+<section id="news"></section>
+<section id="trades"><iframe src="trade.html" style="width:100%;height:1700px;border:0"></iframe></section>
+<section id="calc"></section>
+<section id="league"><iframe src="league.html" style="width:100%;height:2200px;border:0;background:transparent"></iframe></section>
+</div>
+<script>var D=__DATA__;</script>
+<script>

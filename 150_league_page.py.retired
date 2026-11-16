@@ -1,0 +1,201 @@
+import json
+import os
+
+D = json.load(open("league_data.json"))
+CSS = """.pn{color:#00e07a;cursor:pointer;border-bottom:1px dotted #2a2e36}
+
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#12151f;color:#dfe4ec;
+font-family:-apple-system,Segoe UI,Roboto,sans-serif;
+padding:24px}
+.wrap{max-width:1680px;margin:0 auto}
+h1{font-size:30px;margin-bottom:2px}
+.sub{color:#6e7783;font-size:15px;margin-bottom:22px}
+.grid{display:grid;grid-template-columns:1fr 420px;
+gap:22px;align-items:start}
+.card{background:#131519;border-radius:16px;padding:20px;
+margin-bottom:18px}
+.hd{display:flex;justify-content:space-between;
+align-items:center;margin-bottom:16px}
+.hd h2{font-size:21px}
+select{background:#262c3d;color:#dfe4ec;border:none;
+padding:10px 16px;border-radius:10px;font-size:15px}
+.mu{background:#1b1e24;border-radius:14px;padding:16px;
+margin-bottom:12px;cursor:pointer;
+border:1px solid transparent;transition:.15s}
+.mu:hover{border-color:#00e07a;background:#273049}
+.row{display:flex;justify-content:space-between;
+align-items:center}
+.tm{flex:1}
+.tm.r{text-align:right}
+.nm{font-weight:600;font-size:16px}
+.ow{color:#6e7783;font-size:12px}
+.pts{font-size:19px;font-weight:700}
+.vs{color:#5a6478;font-size:13px;padding:0 16px;
+font-weight:700}
+.bar{height:4px;background:#262a33;border-radius:3px;
+margin-top:9px;overflow:hidden}
+.fill{height:100%;background:#00e07a}
+.fill.lo{background:#f4739a}
+.st{display:flex;justify-content:space-between;
+padding:11px 12px;border-radius:9px}
+.st:nth-child(odd){background:#1b1e24}
+.st.me{background:#12283a;border-left:3px solid #00e07a}
+.sd{color:#6e7783;font-size:13px;width:26px}
+.wv{width:100%;border-collapse:collapse;font-size:14px}
+.wv th{text-align:left;color:#6e7783;font-size:12px;
+text-transform:uppercase;padding:9px 10px;
+border-bottom:1px solid #262a33}
+.wv td{padding:11px 10px;border-bottom:1px solid #262a33}
+.wv tr:hover td{background:#1b1e24}
+.pos{display:inline-block;padding:3px 9px;
+border-radius:6px;font-size:11px;font-weight:700}
+.QB{background:#f4739a33;color:#f4739a}
+.RB{background:#00e07a26;color:#00e07a}
+.WR{background:#00b4d826;color:#00b4d8}
+.TE{background:#fbbf2433;color:#fbbf24}
+.K{background:#a78bfa33;color:#a78bfa}
+.DEF{background:#94a3b833;color:#94a3b8}
+.g{color:#00e07a}.r2{color:#f4739a}
+.back{cursor:pointer;color:#00e07a;font-size:14px;
+margin-bottom:14px;display:inline-block}
+#detail{display:none}
+canvas{max-height:260px}
+
+.RB{background:#00e07a26;color:#00e07a}
+.QB{background:#f4739a33;color:#f4739a}
+.WR{background:#5cffb026;color:#5cffb0}
+.TE{background:#fbbf2433;color:#fbbf24}
+.K{background:#a78bfa33;color:#a78bfa}
+.DEF{background:#94a3b833;color:#94a3b8}
+.DST{background:#94a3b833;color:#94a3b8}
+"""
+open("site/_league.css", "w").write(CSS)
+print("css %d bytes" % len(CSS))
+
+TPL = """<!doctype html><html><head><meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<title>__LNAME__</title><style>__CSS__</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/
+Chart.js/4.4.0/chart.umd.min.js"></script></head><body>
+<div class=wrap>
+<h1>__LNAME__</h1>
+<div class=sub>__SEASON__ &middot; __TEAMS__-Team &middot; __SCOR__</div>
+<div id=main>
+<div class=grid>
+<div>
+<div class=card>
+<div class=hd><h2>Matchups</h2>
+<select id=wk onchange=render()></select></div>
+<div id=mus></div></div></div>
+<div>
+<div class=card><div class=hd><h2>Projected Standings</h2></div>
+<div id=stand></div></div></div>
+</div>
+<div class=card><div class=hd><h2>Waiver Wire</h2>
+<span class=sub>ranked by what they add to YOUR lineup</span>
+</div>
+<table class=wv><thead><tr><th>#</th><th>Player</th>
+<th>Pos</th><th>Team</th><th>PPG</th><th>VORP</th>
+<th>Lineup Gain</th></tr></thead>
+<tbody id=wv></tbody></table></div>
+</div>
+<div id=detail><span class=back onclick=back()>&larr; Back
+</span><div id=dwrap></div></div>
+</div>
+<script>
+const D=__DATA__;
+const T={};D.teams.forEach(t=>T[t.roster_id]=t);
+const sel=document.getElementById('wk');
+Object.keys(D.weeks).sort((a,b)=>a-b).forEach(w=>{
+ const o=document.createElement('option');
+ o.value=w;o.textContent='Wk. '+w;sel.appendChild(o);});
+function oc(id){
+ if(!id)return;
+ try{if(window.top&&window.top.openCard){
+  window.top.openCard(id);return;}}catch(e){}
+ window.open('player.html#id='+encodeURIComponent(id),
+  '_blank');}
+function render(){
+ const w=sel.value,g=D.weeks[w]||[];
+ document.getElementById('mus').innerHTML=g.map((m,i)=>{
+  const a=T[m.a]||{},b=T[m.b]||{};
+  const tot=(m.pa+m.pb)||1;
+  const pa=Math.round(m.pa/tot*100);
+  return `<div class=mu onclick="detail('${w}',${i})">
+  <div class=row><div class=tm>
+  <div class=nm>${a.name||'?'}</div>
+  <div class=ow>@${a.owner||''}</div></div>
+  <div class=pts>${m.pa.toFixed(1)}</div>
+  <div class=vs>VS</div>
+  <div class=pts>${m.pb.toFixed(1)}</div>
+  <div class="tm r"><div class=nm>${b.name||'?'}</div>
+  <div class=ow>@${b.owner||''}</div></div></div>
+  <div class=bar><div class="fill ${pa<50?'lo':''}"
+  style="width:${pa}%"></div></div>
+  <div class=row style="margin-top:6px">
+  <span class=ow>${pa}%</span>
+  <span class=ow>${100-pa}%</span></div></div>`;}).join('');
+ document.getElementById('stand').innerHTML=
+  D.teams.map(t=>`<div class="st ${t.roster_id==
+  D.my_roster_id?'me':''}"><div><span class=sd>${t.seed}
+  </span><b>${t.name}</b><div class=ow style="margin-left:26px">
+  @${t.owner}</div></div><div class=pts>${t.proj.toFixed(1)}
+  </div></div>`).join('');
+ document.getElementById('wv').innerHTML=
+  D.waivers.map((p,i)=>`<tr><td>${i+1}</td>
+  <td><b class=pn onclick="oc('${p.pid||''}')">${p.name}</b></td>
+  <td><span class="pos ${p.pos}">${p.pos}</span></td>
+  <td>${p.nfl}</td><td>${p.ppg.toFixed(2)}</td>
+  <td class="${p.vorp>0?'g':'r2'}">${p.vorp>0?'+':''}
+  ${p.vorp.toFixed(2)}</td>
+  <td class="${p.fit>0?'g':''}"><b>${p.fit>0?'+':''}
+  ${p.fit.toFixed(2)}</b></td></tr>`).join('');}
+function detail(w,i){
+ const m=D.weeks[w][i],a=T[m.a],b=T[m.b];
+ document.getElementById('main').style.display='none';
+ document.getElementById('detail').style.display='block';
+ let h=`<div class=card><div class=hd><h2>${a.name}
+ ${m.pa.toFixed(1)} &mdash; ${m.pb.toFixed(1)} ${b.name}
+ </h2><span class=sub>Week ${w}</span></div>
+ <canvas id=ch></canvas></div><div class=grid>`;
+ [a,b].forEach(t=>{h+=`<div class=card><div class=hd>
+ <h2>${t.name}</h2><div class=pts>${t.proj.toFixed(1)}</div>
+ </div>`+t.starters.map(s=>`<div class=st>
+ <div><span class=sd>${s.slot}</span><b class=pn onclick="oc('${s.pid||''}')">${s.name}</b>
+ <span class=ow> ${s.nfl||''}</span></div>
+ <div class=pts>${s.ppg.toFixed(2)}</div></div>`).join('')
+ +`</div>`;});
+ h+='</div>';
+ document.getElementById('dwrap').innerHTML=h;
+ const L=a.starters.map(s=>s.slot);
+ new Chart(document.getElementById('ch'),{type:'bar',
+  data:{labels:L,datasets:[
+  {label:a.name,data:a.starters.map(s=>s.ppg),
+   backgroundColor:'#00e07a'},
+  {label:b.name,data:b.starters.map(s=>s.ppg),
+   backgroundColor:'#f4739a'}]},
+  options:{plugins:{legend:{labels:{color:'#dfe4ec'}}},
+  scales:{x:{ticks:{color:'#6e7783'},grid:{display:false}},
+  y:{ticks:{color:'#6e7783'},
+  grid:{color:'#262a33'}}}}});}
+function back(){
+ document.getElementById('detail').style.display='none';
+ document.getElementById('main').style.display='block';}
+render();
+</script></body></html>"""
+
+css = open("site/_league.css").read()
+h = (TPL.replace("__CSS__", css)
+     .replace("__DATA__", json.dumps(D))
+     .replace("__LNAME__", D["league"]["name"])
+     .replace("__SEASON__", D["league"]["season"])
+     .replace("__TEAMS__", str(D["league"]["teams"]))
+     .replace("__SCOR__", D["league"]["scoring"]))
+h = h.replace("cdnjs.cloudflare.com/ajax/libs/\nChart.js",
+              "cdnjs.cloudflare.com/ajax/libs/Chart.js")
+open("site/league.html", "w").write(h)
+print("wrote site/league.html  %d KB" % (len(h) // 1024))
+print("teams %d | weeks %d | waivers %d"
+      % (len(D["teams"]), len(D["weeks"]),
+         len(D["waivers"])))

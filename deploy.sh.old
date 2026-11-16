@@ -1,0 +1,39 @@
+#!/bin/bash
+set -e
+set -o pipefail
+cd ~/nfl-engine
+source venv/bin/activate
+
+echo "--- data ---"
+python3 98_news.py        | tail -2
+python3 79_injuries.py    | tail -2
+python3 92_board_fix.py   | tail -2
+python3 93_finalize.py    | tail -2
+python3 115_roster_fix.py | tail -2
+python3 128_team_fix.py   | tail -3
+
+echo "--- board repairs (93 wipes all of these) ---"
+python3 119_movers.py     | tail -5
+python3 120_wr_board.py   | tail -2
+python3 126_kdst_fill.py  | tail -4
+python3 125_calibrate.py  | tail -6
+python3 156_depth_fix.py   | tail -3
+python3 147_qb_v4.py       | tail -3
+python3 165_qb_scale_final.py | tail -8
+python3 148_league_data.py | tail -3
+python3 152_rosters.py     | tail -2
+python3 150_league_page.py | tail -2
+python3 158_trade_page.py  | tail -2
+python3 166_id_fix.py      | tail -4
+python3 168_card_data.py   | tail -6
+python3 169_card_page.py   | tail -4
+
+echo "--- ui (order: 112, 113, 114) ---"
+python3 112_ui_v4.py      | tail -2
+python3 113_home.py       | tail -8
+python3 114_theme.py      | tail -7
+
+echo "--- ship ---"
+cp vaporai.html site/index.html
+python3 177_gate.py
+netlify deploy --dir=site --prod

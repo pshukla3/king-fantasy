@@ -1,0 +1,161 @@
+roster_id,owner,team_name,name,pos,nfl,pid,ppg,bye
+1,BabyShukla,JSN is my daddy,Tre Tucker,WR,LV,00-0038563,8.469763240871968,0
+1,BabyShukla,JSN is my daddy,Caleb Williams,QB,CHI,00-0039918,17.32922729684885,0
+1,BabyShukla,JSN is my daddy,Drake Maye,QB,NE,00-0039851,18.69745360920061,0
+1,BabyShukla,JSN is my daddy,Bhayshul Tuten,RB,JAX,00-0040719,6.380908401909,0
+1,BabyShukla,JSN is my daddy,Ollie Gordon,RB,MIA,00-0040198,4.907576427267999,0
+1,BabyShukla,JSN is my daddy,TreVeyon Henderson,RB,NE,00-0040734,10.525384427874595,0
+1,BabyShukla,JSN is my daddy,Keenan Allen,WR,IND,,0.0,0
+1,BabyShukla,JSN is my daddy,Chris Boswell,K,PIT,,0.0,0
+1,BabyShukla,JSN is my daddy,Hunter Henry,TE,NE,00-0033090,8.49529030024095,0
+1,BabyShukla,JSN is my daddy,Saquon Barkley,RB,PHI,00-0034844,13.310006137632357,0
+1,BabyShukla,JSN is my daddy,Chase McLaughlin,K,TB,,0.0,0
+1,BabyShukla,JSN is my daddy,Tee Higgins,WR,CIN,00-0036410,12.253303950760934,0
+1,BabyShukla,JSN is my daddy,George Pickens,WR,DAL,00-0037247,13.5994244919355,0
+1,BabyShukla,JSN is my daddy,Jaxon Smith-Njigba,WR,SEA,00-0038543,15.567346926893336,0
+1,BabyShukla,JSN is my daddy,Minnesota Vikings,DEF,MIN,DST_MIN,7.42,0
+2,Kitsu75,Raachit’s Buttplug,Jayden Daniels,QB,WAS,00-0039910,19.7548990191882,0
+2,Kitsu75,Raachit’s Buttplug,Jonathon Brooks,RB,CAR,,0.0,0
+2,Kitsu75,Raachit’s Buttplug,Woody Marks,RB,HOU,00-0040583,8.927174839703635,0
+2,Kitsu75,Raachit’s Buttplug,Jordyn Tyson,WR,NO,00-0041029,9.991088350580757,0
+2,Kitsu75,Raachit’s Buttplug,Jadarian Price,RB,SEA,00-0041512,10.45536678062678,0
+2,Kitsu75,Raachit’s Buttplug,Travis Kelce,TE,KC,00-0030506,10.050366859361349,0
+2,Kitsu75,Raachit’s Buttplug,Mike Evans,WR,SF,00-0031408,10.845095487397868,0
+2,Kitsu75,Raachit’s Buttplug,Derrick Henry,RB,BAL,00-0032764,11.790716879770796,0
+2,Kitsu75,Raachit’s Buttplug,Ka'imi Fairbairn,K,HOU,KD_Ka'imi_Fairbairn,10.04,0
+2,Kitsu75,Raachit’s Buttplug,Jaylen Waddle,WR,DEN,00-0036613,10.548563828538388,0
+2,Kitsu75,Raachit’s Buttplug,Nico Collins,WR,HOU,00-0036554,13.7505462475521,0
+2,Kitsu75,Raachit’s Buttplug,Tyler Allgeier,RB,ARI,00-0037263,7.114927106916218,0
+2,Kitsu75,Raachit’s Buttplug,Khalil Shakir,WR,BUF,00-0037261,9.821067855239496,0
+2,Kitsu75,Raachit’s Buttplug,Garrett Wilson,WR,NYJ,00-0037740,12.544271943689484,0
+2,Kitsu75,Raachit’s Buttplug,Jahmyr Gibbs,RB,DET,00-0039139,17.038363268921167,0
+2,Kitsu75,Raachit’s Buttplug,Los Angeles Rams,DEF,LAR,DST_LA,7.35,0
+3,Benjeett,Quinshon and friends ,Brandon Aubrey,K,DAL,KD_Brandon_Aubrey,9.92,0
+3,Benjeett,Quinshon and friends ,Brock Bowers,TE,LV,00-0039338,13.467734861194227,0
+3,Benjeett,Quinshon and friends ,RJ Harvey,RB,DEN,00-0040730,10.019130798542294,0
+3,Benjeett,Quinshon and friends ,Omarion Hampton,RB,LAC,00-0040666,13.845935834528255,0
+3,Benjeett,Quinshon and friends ,Quinshon Judkins,RB,CLE,00-0040784,11.612333521997256,0
+3,Benjeett,Quinshon and friends ,Emeka Egbuka,WR,TB,00-0040129,11.337463108529157,0
+3,Benjeett,Quinshon and friends ,Tetairoa McMillan,WR,CAR,00-0040124,12.697750326405604,0
+3,Benjeett,Quinshon and friends ,Tyler Shough,QB,NO,00-0040743,16.633405983491112,0
+3,Benjeett,Quinshon and friends ,Caleb Douglas,WR,MIA,00-0041523,6.0540565082516355,0
+3,Benjeett,Quinshon and friends ,De'Zhaun Stribling,WR,SF,00-0041035,8.169109684581759,0
+3,Benjeett,Quinshon and friends ,James Conner,RB,ARI,00-0033553,10.977585199015865,0
+3,Benjeett,Quinshon and friends ,Jordan Love,QB,GB,00-0036264,15.67610995152953,0
+3,Benjeett,Quinshon and friends ,Rico Dowdle,RB,PIT,00-0036139,9.554623312310492,0
+3,Benjeett,Quinshon and friends ,Drake London,WR,ATL,00-0037238,14.035937184669706,0
+3,Benjeett,Quinshon and friends ,Isaiah Likely,TE,NYG,00-0037838,6.652042194598647,0
+3,Benjeett,Quinshon and friends ,Christian Watson,WR,GB,00-0038124,9.979799653098889,0
+3,Benjeett,Quinshon and friends ,Bijan Robinson,RB,ATL,00-0038542,16.798073075579243,0
+3,Benjeett,Quinshon and friends ,New York Giants,DEF,NYG,DST_NYG,6.37,0
+4,dihraoka,dihraoka,Rashee Rice,WR,KC,00-0039067,13.885532693914811,0
+4,dihraoka,dihraoka,Blake Corum,RB,LAR,00-0039738,6.095345941690227,0
+4,dihraoka,dihraoka,Jalen Coker,WR,CAR,00-0039491,8.540682096052873,0
+4,dihraoka,dihraoka,Matthew Golden,WR,GB,00-0040667,7.145934733561838,0
+4,dihraoka,dihraoka,Colston Loveland,TE,CHI,00-0040126,9.853361219145675,0
+4,dihraoka,dihraoka,Luther Burden,WR,CHI,00-0040735,9.375307327215468,0
+4,dihraoka,dihraoka,Jason Myers,K,SEA,KD_Jason_Myers,8.93,0
+4,dihraoka,dihraoka,Christian McCaffrey,RB,SF,00-0033280,17.178870579084382,0
+4,dihraoka,dihraoka,Trevor Lawrence,QB,JAX,00-0036971,18.549675024960628,0
+4,dihraoka,dihraoka,Chuba Hubbard,RB,CAR,00-0036555,9.729290553368648,0
+4,dihraoka,dihraoka,Rachaad White,RB,WAS,00-0037256,9.514900817667296,0
+4,dihraoka,dihraoka,Chase Brown,RB,CIN,00-0038597,12.1354486840975,0
+4,dihraoka,dihraoka,Bryce Young,QB,CAR,00-0039150,15.06687245197539,0
+4,dihraoka,dihraoka,Brenton Strange,TE,JAX,00-0038935,7.475513075350726,0
+4,dihraoka,dihraoka,Kansas City Chiefs,DEF,KC,DST_KC,6.78,0
+5,RAASWETPUH,RAASWETPUH,Harold Fannin,TE,CLE,00-0040663,10.209887371649568,0
+5,RAASWETPUH,RAASWETPUH,Carnell Tate,WR,TEN,00-0041438,10.264236632726174,0
+5,RAASWETPUH,RAASWETPUH,KC Concepcion,WR,CLE,00-0041547,9.6710823002567,0
+5,RAASWETPUH,RAASWETPUH,Denzel Boston,WR,CLE,00-0041037,8.169109684581759,0
+5,RAASWETPUH,RAASWETPUH,Dak Prescott,QB,DAL,00-0033077,17.537318832168438,0
+5,RAASWETPUH,RAASWETPUH,DK Metcalf,WR,PIT,00-0035640,11.219701174111524,0
+5,RAASWETPUH,RAASWETPUH,Justice Hill,RB,BAL,00-0034975,6.849378754144022,0
+5,RAASWETPUH,RAASWETPUH,Matt Gay,K,LV,,0.0,0
+5,RAASWETPUH,RAASWETPUH,Travis Etienne,RB,NO,00-0036973,10.742456786696652,0
+5,RAASWETPUH,RAASWETPUH,Ja'Marr Chase,WR,CIN,00-0036900,16.16687931747509,0
+5,RAASWETPUH,RAASWETPUH,Javonte Williams,RB,DAL,00-0036997,10.932922119534048,0
+5,RAASWETPUH,RAASWETPUH,Chris Olave,WR,NO,00-0037239,13.2426472467369,0
+5,RAASWETPUH,RAASWETPUH,Kenneth Walker,RB,KC,00-0038134,11.319492814168443,0
+5,RAASWETPUH,RAASWETPUH,C.J. Stroud,QB,HOU,00-0039163,15.679293642693333,0
+5,RAASWETPUH,RAASWETPUH,Indianapolis Colts,DEF,IND,DST_IND,6.92,0
+6,aliuser,aliuser,Tyler Warren,TE,IND,00-0040128,11.36768240192519,0
+6,aliuser,aliuser,Germie Bernard,WR,PIT,00-0041489,8.169109684581759,0
+6,aliuser,aliuser,Makai Lemon,WR,PHI,00-0040867,9.6710823002567,0
+6,aliuser,aliuser,Antonio Williams,WR,WAS,00-0041040,6.0540565082516355,0
+6,aliuser,aliuser,Emmett Johnson,RB,KC,00-0041013,4.237050263152825,0
+6,aliuser,aliuser,Jonah Coleman,RB,DEN,00-0041496,6.1732189189976685,0
+6,aliuser,aliuser,Stefon Diggs,WR,WAS,,0.0,0
+6,aliuser,aliuser,Jared Goff,QB,DET,00-0033106,16.98696116212663,0
+6,aliuser,aliuser,Justin Jefferson,WR,MIN,00-0036322,14.22232779552144,0
+6,aliuser,aliuser,Jonathan Taylor,RB,IND,00-0036223,14.47982292785908,0
+6,aliuser,aliuser,Tyler Bass,K,BUF,,0.0,0
+6,aliuser,aliuser,Breece Hall,RB,NYJ,00-0038120,11.921300816370064,0
+6,aliuser,aliuser,Jaylen Warren,RB,PIT,00-0037228,9.77205084219309,0
+6,aliuser,aliuser,Quentin Johnston,WR,LAC,00-0038544,10.122441901118163,0
+6,aliuser,aliuser,Seattle Seahawks,DEF,SEA,DST_SEA,8.21,0
+7,CL1715,CL1715,Dalton Kincaid,TE,BUF,00-0038933,8.167506651686573,0
+7,CL1715,CL1715,Braelon Allen,RB,NYJ,00-0039794,6.025662457163908,0
+7,CL1715,CL1715,Bucky Irving,RB,TB,00-0039361,12.999486719823697,0
+7,CL1715,CL1715,Ladd McConkey,WR,LAC,00-0039915,11.915888607706837,0
+7,CL1715,CL1715,Kirk Cousins,QB,LV,00-0029604,3.4814115813759283,0
+7,CL1715,CL1715,Jeremiyah Love,RB,ARI,00-0041027,14.521069569230768,0
+7,CL1715,CL1715,Davante Adams,WR,LAR,00-0031381,12.206816207569185,0
+7,CL1715,CL1715,Josh Allen,QB,BUF,00-0034857,22.900116664818224,0
+7,CL1715,CL1715,Deebo Samuel,WR,SF,MANUAL_deebo,9.92,0
+7,CL1715,CL1715,DeVonta Smith,WR,PHI,00-0036912,11.47175532497948,0
+7,CL1715,CL1715,Evan McPherson,K,CIN,KD_Evan_McPherson,7.36,0
+7,CL1715,CL1715,Jordan Mason,RB,MIN,00-0037525,7.375208901835384,0
+7,CL1715,CL1715,Tucker Kraft,TE,GB,00-0038996,6.532460432829297,0
+7,CL1715,CL1715,Parker Washington,WR,JAX,00-0038606,9.453165806570038,0
+7,CL1715,CL1715,Josh Downs,WR,IND,00-0038997,9.877225251174378,0
+7,CL1715,CL1715,Tank Dell,WR,HOU,00-0038977,8.498629827038542,0
+7,CL1715,CL1715,Houston Texans,DEF,HOU,DST_HOU,8.11,0
+8,Nabs33,Nemai Anand Anand,Audric Estime,RB,NO,,0.0,0
+8,Nabs33,Nemai Anand Anand,Malik Washington,WR,MIA,00-0039880,6.771205440868847,0
+8,Nabs33,Nemai Anand Anand,Adonai Mitchell,WR,NYJ,00-0039890,6.619900499075333,0
+8,Nabs33,Nemai Anand Anand,Will Reichard,K,MIN,,0.0,0
+8,Nabs33,Nemai Anand Anand,Terrance Ferguson,TE,LAR,00-0040737,5.946606326052654,0
+8,Nabs33,Nemai Anand Anand,Corey Kiner,RB,NE,00-0040556,4.159774709060837,0
+8,Nabs33,Nemai Anand Anand,Kaleb Johnson,RB,PIT,00-0040142,3.206944133769819,0
+8,Nabs33,Nemai Anand Anand,Tony Pollard,RB,TEN,00-0035261,10.330515541578391,0
+8,Nabs33,Nemai Anand Anand,CeeDee Lamb,WR,DAL,00-0036358,16.07819796959525,0
+8,Nabs33,Nemai Anand Anand,D'Andre Swift,RB,CHI,00-0036275,10.928881880423486,0
+8,Nabs33,Nemai Anand Anand,Rhamondre Stevenson,RB,NE,00-0036875,9.794267440183472,0
+8,Nabs33,Nemai Anand Anand,Trey McBride,TE,ARI,00-0037744,13.130920842735598,0
+8,Nabs33,Nemai Anand Anand,Alec Pierce,WR,IND,00-0037664,9.472619305718965,0
+8,Nabs33,Nemai Anand Anand,Brock Purdy,QB,SF,00-0037834,18.779522110696767,0
+8,Nabs33,Nemai Anand Anand,De'Von Achane,RB,MIA,00-0039040,14.991521805725805,0
+8,Nabs33,Nemai Anand Anand,Zach Charbonnet,RB,SEA,00-0039165,8.738815875976304,0
+8,Nabs33,Nemai Anand Anand,Zay Flowers,WR,BAL,00-0039064,12.270037132112948,0
+8,Nabs33,Nemai Anand Anand,Baltimore Ravens,DEF,BAL,DST_BAL,6.95,0
+9,raaaaaaaaaaaa,poop on a stick,Marvin Harrison,WR,ARI,00-0039849,11.528510132752643,0
+9,raaaaaaaaaaaa,poop on a stick,Spencer Shrader,K,IND,,0.0,0
+9,raaaaaaaaaaaa,poop on a stick,Omar Cooper,WR,NYJ,00-0041511,9.6710823002567,0
+9,raaaaaaaaaaaa,poop on a stick,Patrick Mahomes,QB,KC,00-0033873,19.00064776307484,0
+9,raaaaaaaaaaaa,poop on a stick,George Kittle,TE,SF,00-0033288,8.097123914815798,0
+9,raaaaaaaaaaaa,poop on a stick,Josh Jacobs,RB,GB,00-0035700,12.153153493584355,0
+9,raaaaaaaaaaaa,poop on a stick,A.J. Brown,WR,NE,00-0035676,12.838592770976494,0
+9,raaaaaaaaaaaa,poop on a stick,David Montgomery,RB,HOU,00-0035685,10.592309327473746,0
+9,raaaaaaaaaaaa,poop on a stick,Joe Burrow,QB,CIN,00-0036442,18.14555045093736,0
+9,raaaaaaaaaaaa,poop on a stick,Amon-Ra St. Brown,WR,DET,00-0036963,15.688653486849123,0
+9,raaaaaaaaaaaa,poop on a stick,James Cook,RB,BUF,00-0037248,12.502057237818322,0
+9,raaaaaaaaaaaa,poop on a stick,Jameson Williams,WR,DET,00-0037240,11.42222655841934,0
+9,raaaaaaaaaaaa,poop on a stick,Kyren Williams,RB,LAR,00-0037840,13.782022506476151,0
+9,raaaaaaaaaaaa,poop on a stick,Jordan Addison,WR,MIN,00-0038994,11.946168815931587,0
+9,raaaaaaaaaaaa,poop on a stick,Jacksonville Jaguars,DEF,JAX,DST_JAX,7.53,0
+10,abishekxrithika,BrysonTheOneChangedItAll,Sam LaPorta,TE,DET,00-0039065,11.168766182864648,0
+10,abishekxrithika,BrysonTheOneChangedItAll,Rome Odunze,WR,CHI,00-0039919,11.268600478296763,0
+10,abishekxrithika,BrysonTheOneChangedItAll,Malik Nabers,WR,NYG,00-0039337,15.934363225097904,0
+10,abishekxrithika,BrysonTheOneChangedItAll,Cam Skattebo,RB,NYG,00-0040715,14.062348437040177,0
+10,abishekxrithika,BrysonTheOneChangedItAll,Ashton Jeanty,RB,LV,00-0040122,12.456934979074436,0
+10,abishekxrithika,BrysonTheOneChangedItAll,Kyle Monangai,RB,CHI,00-0040236,8.423697882408188,0
+10,abishekxrithika,BrysonTheOneChangedItAll,Cairo Santos,K,CHI,KD_Cairo_Santos,7.58,0
+10,abishekxrithika,BrysonTheOneChangedItAll,Carson Wentz,QB,MIN,00-0032950,2.3398783378663297,0
+10,abishekxrithika,BrysonTheOneChangedItAll,Aaron Jones,RB,MIN,00-0033293,9.777651138582426,0
+10,abishekxrithika,BrysonTheOneChangedItAll,Lamar Jackson,QB,BAL,00-0034796,1.9966791671334851,0
+10,abishekxrithika,BrysonTheOneChangedItAll,DJ Moore,WR,BUF,00-0034827,10.758949469996471,0
+10,abishekxrithika,BrysonTheOneChangedItAll,T.J. Hockenson,TE,MIN,00-0035229,8.35081444838254,0
+10,abishekxrithika,BrysonTheOneChangedItAll,Wan'Dale Robinson,WR,TEN,00-0038117,11.423551988967985,0
+10,abishekxrithika,BrysonTheOneChangedItAll,Puka Nacua,WR,LAR,00-0039075,17.856806001721857,0
+10,abishekxrithika,BrysonTheOneChangedItAll,Aaron Rodgers,QB,PIT,00-0023459,14.926053068407812,0
+10,abishekxrithika,BrysonTheOneChangedItAll,Carolina Panthers,DEF,CAR,DST_CAR,7.07,0

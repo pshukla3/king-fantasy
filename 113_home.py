@@ -184,11 +184,11 @@ print("news items: %d" % len(NEWS))
 
 CSS = """
 <style>
-.scorebar{background:#0e1117;border-bottom:1px solid var(--line);
+.scorebar{background:#101011;border-bottom:1px solid var(--line);
  position:sticky;top:0;z-index:60}
 .sbin{display:flex;overflow-x:auto;scrollbar-width:thin}
 .sbin::-webkit-scrollbar{height:5px}
-.sbin::-webkit-scrollbar-thumb{background:#2b3240}
+.sbin::-webkit-scrollbar-thumb{background:#303134}
 .sbc{flex:0 0 176px;padding:8px 12px;
  border-right:1px solid var(--line)}
 .sbrow{display:flex;align-items:center;gap:8px;
@@ -199,27 +199,27 @@ CSS = """
 .sbrow span.win{color:var(--sky)}
 .sbmeta{margin-top:6px;font-size:10px;letter-spacing:.07em;
  color:var(--dim);text-transform:uppercase}
-.welc{background:linear-gradient(100deg,#123',#0b0d10);
- border:1px solid var(--line);border-radius:12px;
+.welc{background:linear-gradient(100deg,#1e1f21',#090a0a);
+ border:1px solid var(--line);border-radius:3px;
  padding:24px 26px;margin:4px 0 20px}
-.welc h1{margin:0 0 6px;font-size:27px;color:#fff;
+.welc h1{margin:0 0 6px;font-size:27px;color:#f7feff;
  letter-spacing:-.01em}
 .welc h1 em{font-style:normal;color:var(--sky)}
 .welc p{margin:0;color:var(--dim);font-size:14px;max-width:640px;
  line-height:1.55}
-.hero{position:relative;border-radius:12px;overflow:hidden;
+.hero{position:relative;border-radius:3px;overflow:hidden;
  margin-bottom:20px;border:1px solid var(--line)}
 .hero img{width:100%;height:340px;object-fit:cover;display:block}
 .hgrad{position:absolute;inset:0;background:linear-gradient(
  to top,rgba(6,8,11,.97) 10%,rgba(6,8,11,.5) 50%,
  rgba(6,8,11,0) 82%)}
 .htx{position:absolute;left:0;right:0;bottom:0;padding:22px 24px}
-.htag{display:inline-block;background:var(--sky);color:#06090d;
+.htag{display:inline-block;background:var(--sky);color:#080809;
  font-size:10px;font-weight:800;letter-spacing:.09em;
  padding:3px 8px;border-radius:3px;text-transform:uppercase}
 .htx h2{margin:10px 0 6px;font-size:29px;line-height:1.18;
- color:#fff;max-width:740px}
-.htx p{margin:0;color:#b7c0cc;font-size:14px;max-width:660px}
+ color:#f7feff;max-width:740px}
+.htx p{margin:0;color:#b9becc;font-size:14px;max-width:660px}
 .hgrid{display:grid;grid-template-columns:1.55fr 1fr;gap:22px}
 @media(max-width:900px){.hgrid{grid-template-columns:1fr}
  .hero img{height:210px}.htx h2{font-size:20px}}
@@ -229,12 +229,12 @@ CSS = """
 .nrow{display:flex;gap:11px;padding:10px 0;
  border-bottom:1px solid var(--line)}
 .nrow img{width:88px;height:58px;object-fit:cover;
- border-radius:6px;flex:0 0 88px;background:#1c2028}
+ border-radius:3px;flex:0 0 88px;background:#141416}
 .nrow a{color:var(--text);text-decoration:none;font-weight:600;
  font-size:13.5px;line-height:1.35;display:block}
 .nrow a:hover{color:var(--sky)}
 .nmeta{font-size:11px;color:var(--dim);margin-top:5px}
-.brk{color:#ff8b6b;font-weight:800}
+.brk{color:#9ca1ac;font-weight:800}
 .dvh{font-size:10.5px;letter-spacing:.09em;color:var(--sky);
  text-transform:uppercase;font-weight:800;padding-top:14px}
 table.st{width:100%;border-collapse:collapse;font-size:13px}
@@ -250,7 +250,7 @@ table.st td.tm b{font-weight:600;vertical-align:middle}
  margin-top:12px}
 </style>
 </head>"""
-CSS = CSS.replace("#123',", "#101a26,")
+CSS = CSS.replace("#1e1f21',", "#17181a,")
 
 def card(g):
     ar = REC.get(g["away"], "")
@@ -279,7 +279,7 @@ BAR = ('<div class="scorebar"><div class="sbin">'
        + "".join(card(g) for g in GAMES) + '</div></div>')
 print("scorebar html: %d chars" % len(BAR))
 
-W = ('<div class="welc"><h1>Welcome to <em>VaporAI</em></h1>'
+W = ('<div class="welc"><h1>Welcome to <em>King Fantasy</em></h1>'
      '<p>A persistence-tested fantasy football engine. Every '
      'weight in it was measured against year-over-year data, '
      'not chosen &mdash; signals that did not repeat were '
@@ -289,11 +289,13 @@ W = ('<div class="welc"><h1>Welcome to <em>VaporAI</em></h1>'
 
 HR = ""
 if hero:
-    HR = ('<div class="hero"><img src="%s" alt="">'
+    HR = ('<a class="hero" href="%s" target="_blank" '
+          'rel="noopener"><img src="%s" alt="">'
           '<div class="hgrad"></div><div class="htx">'
           '<span class="htag">Top Story</span><h2>%s</h2>'
-          '<p>%s</p></div></div>'
-          % (esc(hero["img"]), esc(hero["hd"]),
+          '<p>%s</p></div></a>'
+          % (esc(hero.get("url") or "#"), esc(hero["img"]),
+             esc(hero["hd"]),
              esc(strip(hero.get("dk"))[:210])))
 
 NL = '<h3 class="hsec">Around the NFL</h3>'
@@ -301,8 +303,7 @@ for n in NEWS:
     im = ''
     if n.get("img"):
         im = '<img src="%s" alt="">' % esc(n["img"])
-    tag = '<span class="brk">BREAKING</span> &middot; ' \
-        if n.get("ins") else ''
+    tag = ''
     NL += ('<div class="nrow">%s<div>'
            '<a href="%s" target="_blank" rel="noopener">%s</a>'
            '<div class="nmeta">%s%s</div></div></div>'
@@ -324,29 +325,11 @@ for s in STAND:
               s["w"], s["l"], round(s["pf"]), round(s["pa"])))
 SD += '</table>'
 
-BX = '<h3 class="hsec" style="margin-top:26px">Team Box Lines</h3>'
-if BOX:
-    BX += ('<table class="st"><tr><th class="tm">Team</th>'
-           '<th>Plays</th><th>Yds</th><th>Pass</th><th>Rush</th>'
-           '<th>1st</th><th>TO</th></tr>')
-    for b in BOX:
-        BX += ('<tr><td class="tm"><img src="%s" alt="">'
-               '<b>%s</b></td><td>%d</td><td>%d</td><td>%d</td>'
-               '<td>%d</td><td>%d</td><td>%d</td></tr>'
-               % (logo(b["tm"]), esc(b["tm"]), b["plays"],
-                  b["yds"], b["pas"], b["rus"], b["fd"], b["to"]))
-    BX += '</table>'
-else:
-    BX += ('<p class="hnote">No 2026 regular-season games have '
-           'been played yet, so there is nothing to box. These '
-           'fill automatically from play-by-play within a day of '
-           'each game &mdash; plays, scrimmage yards, pass and '
-           'rush splits, first downs and turnovers per team. '
-           'nflreadpy publishes after games end, not during '
-           'them, so this is post-game, not live.</p>')
+BX = ""  # Team Box Lines removed
+
 
 HOME = ('<section class="on" id="home">' + W + HR
-        + '<div class="hgrid"><div>' + BX
+        + '<div class="hgrid"><div>' + ""
         + '</div><div>' + NL + '<div style="height:26px"></div>'
         + SD + '<p class="hnote">Records count completed 2026 '
         'regular-season games only, so every team reads 0-0 '
@@ -354,23 +337,64 @@ HOME = ('<section class="on" id="home">' + W + HR
         + '.</p></div></div></section>')
 
 H = open("vaporai.html").read()
-A1 = '<section class="on" id="home"></section>'
-A2 = "</head>"
-A3 = "<body>"
-A4 = "</script></body></html>"
-for a in (A1, A2, A3, A4):
-    assert a in H, "MISSING ANCHOR: %r" % a
+_n0 = len(H)
 
-H = H.replace(A2, CSS, 1)
-H = H.replace(A3, A3 + BAR, 1)
-H = H.replace(A1, HOME, 1)
-H = H.replace(A4, "\n" + "function drawHome(){}" + "\n" + A4, 1)
+def _span(t, i):
+    tag = re.match(r"<(\w+)", t[i:]).group(1)
+    rx = re.compile(r"</?%s\b" % tag, re.I)
+    d, k = 0, i
+    while True:
+        m = rx.search(t, k)
+        if m is None:
+            return -1
+        if t[m.start():m.start() + 2] == "</":
+            d -= 1
+            if d == 0:
+                return t.index(">", m.start()) + 1
+        else:
+            d += 1
+        k = m.end()
+
+m = re.search(r'<section[^>]*id="home"[^>]*>', H)
+assert m, "no <section id=home> in shell"
+_e = _span(H, m.start())
+assert _e > m.start(), "unbalanced home section"
+H = H[:m.start()] + HOME + H[_e:]
+print("home section replaced (%d bytes)" % len(HOME))
+
+m = re.search(r'<div class="scorebar"', H)
+if m:
+    _e = _span(H, m.start())
+    if _e > m.start():
+        H = H[:m.start()] + H[_e:]
+        print("old scorebar removed")
+assert "<body>" in H, "no <body>"
+H = H.replace("<body>", "<body>" + BAR, 1)
+
+SENT = "<!--HOMECSS-->"
+if SENT in H:
+    i = H.index(SENT)
+    j = H.index("</head>", i) + 7
+    H = H[:i] + SENT + CSS + H[j:]
+    print("css block replaced")
+else:
+    assert "</head>" in H, "no </head>"
+    H = H.replace("</head>", SENT + CSS, 1)
+    print("css block inserted")
+
+if "function drawHome(){}" not in H:
+    A4 = "</script></body></html>"
+    assert A4 in H, "no tail anchor"
+    H = H.replace(A4, "\nfunction drawHome(){}\n" + A4, 1)
+
+assert len(H) > _n0 * 0.85, "size dropped >15%, abort"
 open("vaporai.html", "w").write(H)
+print("vaporai.html %d -> %d bytes" % (_n0, len(H)))
 
 print("\n=== VERIFY ===")
 V = open("vaporai.html").read()
 for k, lbl in [('class="scorebar"', "top scorebar"),
-               ("Welcome to <em>VaporAI</em>", "welcome banner"),
+               ("Welcome to <em>King Fantasy</em>", "welcome banner"),
                ('class="hero"', "news hero"),
                ("Around the NFL", "news rail"),
                ("2026 Standings", "standings"),

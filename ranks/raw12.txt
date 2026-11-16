@@ -1,0 +1,2 @@
+bash newrank.sh 12     # pauses, you copy your list, press Return
+bash deploy.sh         # ~15 min, everything updates

@@ -1,0 +1,19 @@
+{
+ "Out": {
+  "any": 0.0,
+  "Full": 0.0,
+  "Limited": 0.0,
+  "DNP": 0.0
+ },
+ "Doubtful": {
+  "any": 0.0065,
+  "Limited": 0.0217,
+  "DNP": 0.0
+ },
+ "Questionable": {
+  "any": 0.5487,
+  "Full": 0.6289,
+  "Limited": 0.5539,
+  "DNP": 0.393
+ }
+}

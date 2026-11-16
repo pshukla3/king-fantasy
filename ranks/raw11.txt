@@ -1,0 +1,3643 @@
+S
+TIER
+Expert Average
+
+FPTS
+
+Team
+
+Played
+
+SNAP%
+
+POS Finish
+
+OVR Finish
+1
+Jahmyr Gibbs
+RB 1
+26.15
+DET
+8
+77.35
+1
+2
+2
+Jaxon Smith-Njigba
+WR 1
+25.78
+SEA
+9
+84.01
+1
+1
+3
+Kenneth Walker
+RB 2
+24.55
+KC
+8
+74.31
+2
+4
+AA
+TIER
+Expert Average
+
+FPTS
+
+Team
+
+Played
+
+SNAP%
+
+POS Finish
+
+OVR Finish
+4
+Ja'Marr Chase
+WR 2
+19.96
+CIN
+8
+80.63
+5
+12
+5
+Bijan Robinson
+RB 3
+20
+ATL
+9
+73.21
+4
+5
+6
+
++2
+CeeDee Lamb
+WR 3
+22.42
+DAL
+9
+80.77
+3
+3
+7
+Amon-Ra St. Brown
+WR 4
+19.70
+DET
+8
+83.43
+6
+16
+8
+Christian McCaffrey
+RB 4
+20.84
+SF
+8
+68.88
+3
+8
+9
+James Cook
+RB 5
+18.55
+BUF
+8
+64.61
+5
+20
+BB
+TIER
+Expert Average
+
+FPTS
+
+Team
+
+Played
+
+SNAP%
+
+POS Finish
+
+OVR Finish
+10
+Brock Bowers
+TE 1
+20.86
+LV
+7
+85.03
+1
+22
+11
+Malik Nabers
+WR 5
+15.24
+NYG
+9
+77.01
+15
+27
+12
+
++8
+Christian Watson
+WR 6
+19.66
+GB
+9
+76.65
+7
+6
+13
+
++12
+Matthew Golden
+WR 7
+18.21
+GB
+9
+82.74
+8
+9
+14
+
++4
+Tee Higgins
+WR 8
+19.98
+CIN
+8
+78.46
+4
+11
+CC
+TIER
+Expert Average
+
+FPTS
+
+Team
+
+Played
+
+SNAP%
+
+POS Finish
+
+OVR Finish
+15
+
++7
+Bucky Irving
+RB 6
+17.68
+TB
+9
+63.34
+8
+14
+16
+Javonte Williams
+RB 7
+17.73
+DAL
+9
+74.20
+7
+13
+17
+
++9
+Justin Jefferson
+WR 9
+13.60
+MIN
+7
+82.31
+21
+52
+18
+Chris Olave
+WR 10
+17.68
+NO
+8
+81.26
+9
+24
+19
+Chuba Hubbard
+RB 8
+18.33
+CAR
+8
+80.89
+6
+21
+20
+
+-3
+Trey McBride
+TE 2
+18.09
+ARI
+9
+90.75
+2
+10
+21
+
+-5
+Kyren Williams
+RB 9
+17.68
+LAR
+9
+67.51
+8
+14
+22
+Drake London
+WR 11
+13.51
+ATL
+9
+89.82
+22
+32
+23
+Zay Flowers
+WR 12
+15.94
+BAL
+8
+66.80
+12
+29
+24
+Bhayshul Tuten
+RB 10
+15.90
+JAX
+8
+53.05
+13
+30
+25
+D'Andre Swift
+RB 11
+17.09
+CHI
+9
+63.33
+11
+18
+26
+
+-9
+Jonathan Taylor
+RB 12
+17.07
+IND
+9
+76.90
+12
+19
+27
+Derrick Henry
+RB 13
+15.81
+BAL
+9
+55.44
+14
+23
+DD
+TIER
+Expert Average
+
+FPTS
+
+Team
+
+Played
+
+SNAP%
+
+POS Finish
+
+OVR Finish
+28
+Nico Collins
+WR 13
+15.27
+HOU
+6
+71.07
+14
+57
+29
+
++7
+Luther Burden
+WR 14
+15.14
+CHI
+9
+59.39
+16
+28
+30
+Josh Allen
+QB 1
+25.09
+BUF
+8
+98.73
+1
+1
+31
+Jaylen Warren
+RB 14
+17.60
+PIT
+8
+72.42
+10
+25
+32
+
++14
+Jonah Coleman
+RB 15
+12.58
+DEN
+5
+50.48
+21
+138
+33
+Parker Washington
+WR 15
+13.70
+JAX
+8
+74.59
+20
+39
+34
+Garrett Wilson
+WR 16
+14.21
+NYJ
+8
+88.46
+18
+36
+35
+Chase Brown
+RB 16
+12.68
+CIN
+8
+69.96
+19
+47
+36
+Tetairoa McMillan
+WR 17
+15.56
+CAR
+8
+83.04
+13
+31
+37
+Ashton Jeanty
+RB 17
+15.48
+LV
+9
+66.22
+15
+26
+38
+George Pickens
+WR 18
+13.04
+DAL
+8
+78.17
+25
+43
+EE
+TIER
+Expert Average
+
+FPTS
+
+Team
+
+Played
+
+SNAP%
+
+POS Finish
+
+OVR Finish
+39
+George Kittle
+TE 3
+14.29
+SF
+8
+77.91
+4
+35
+40
+Breece Hall
+RB 18
+13.55
+NYJ
+4
+54.07
+18
+172
+41
+Rashee Rice
+WR 19
+11.03
+KC
+6
+61.36
+36
+132
+42
+Isaiah Likely
+TE 4
+17.39
+NYG
+9
+76.69
+3
+17
+43
+Jameson Williams
+WR 20
+13.21
+DET
+8
+87.66
+24
+41
+44
+DJ Moore
+WR 21
+9.92
+BUF
+6
+55.61
+39
+152
+45
+
++8
+Joe Burrow
+QB 2
+24.89
+CIN
+8
+99.41
+2
+2
+46
+
+-13
+Josh Jacobs
+RB 19
+14.60
+GB
+3
+46.53
+INJ
+INJ
+47
+Colston Loveland
+TE 5
+9.26
+CHI
+9
+86.52
+17
+75
+FF
+TIER
+Expert Average
+
+FPTS
+
+Team
+
+Played
+
+SNAP%
+
+POS Finish
+
+OVR Finish
+48
+Jalen Coker
+WR 22
+12.29
+CAR
+7
+71.75
+27
+66
+49
+Saquon Barkley
+RB 20
+8.39
+PHI
+7
+36.69
+40
+155
+50
+
++6
+Carnell Tate
+WR 23
+11.04
+TEN
+7
+82.46
+35
+93
+51
+Cam Skattebo
+RB 21
+12.20
+NYG
+8
+58.56
+22
+50
+52
+Drake Maye
+QB 3
+19.91
+NE
+9
+95.90
+6
+4
+53
+
+-42
+Puka Nacua
+WR 24
+24.80
+LAR
+7
+87.24
+2
+7
+54
+Stefon Diggs
+WR 25
+13.83
+WAS
+8
+61.09
+19
+38
+55
+Ollie Gordon II
+RB 22
+9.95
+MIA
+8
+60.21
+30
+84
+56
+Rhamondre Stevenson
+RB 23
+12.63
+NE
+9
+64.62
+20
+36
+57
+
++8
+Tony Pollard
+RB 24
+14.56
+TEN
+8
+62.18
+17
+34
+58
+Mike Evans
+WR 26
+14.83
+SF
+6
+54.87
+17
+61
+59
+Brock Purdy
+QB 4
+21.41
+SF
+8
+97.19
+3
+6
+GG
+TIER
+Expert Average
+
+FPTS
+
+Team
+
+Played
+
+SNAP%
+
+POS Finish
+
+OVR Finish
+60
+
++10
+KC Concepcion
+WR 27
+9.82
+CLE
+9
+74.23
+41
+65
+61
+Caleb Williams
+QB 5
+18.39
+CHI
+6
+97.65
+12
+21
+62
+
++11
+Blake Corum
+RB 25
+10.51
+LAR
+9
+30.60
+27
+53
+63
+
+-9
+Quinshon Judkins
+RB 26
+11.51
+CLE
+8
+52.48
+24
+55
+64
+Emeka Egbuka
+WR 28
+11.14
+TB
+7
+84.22
+34
+89
+65
+
++14
+Rome Odunze
+WR 29
+9.87
+CHI
+9
+85.30
+40
+64
+66
+Sam LaPorta
+TE 6
+11.64
+DET
+8
+89.69
+7
+54
+67
+
+-8
+A.J. Brown
+WR 30
+6.37
+NE
+3
+68.39
+INJ
+INJ
+68
+DK Metcalf
+WR 31
+9.74
+PIT
+8
+94.56
+42
+92
+69
+
+-9
+DeVonta Smith
+WR 32
+17.25
+PHI
+4
+86.12
+10
+120
+70
+
++10
+Jordyn Tyson
+WR 33
+5
+NO
+1
+24
+INJ
+INJ
+71
+Tucker Kraft
+TE 7
+10.04
+GB
+9
+82.40
+12
+59
+72
+
++16
+Zach Charbonnet
+RB 27
+7.75
+SEA
+2
+46.92
+INJ
+INJ
+HH
+TIER
+Expert Average
+
+FPTS
+
+Team
+
+Played
+
+SNAP%
+
+POS Finish
+
+OVR Finish
+73
+
++23
+Deebo Samuel
+WR 34
+12.08
+SF
+5
+56.90
+30
+151
+74
+Travis Etienne
+RB 28
+10.30
+NO
+3
+50.86
+INJ
+INJ
+75
+Kyle Monangai
+RB 29
+14.83
+CHI
+4
+41.08
+16
+153
+76
+Trevor Lawrence
+QB 6
+18.40
+JAX
+8
+95.93
+11
+10
+77
+
++19
+Josh Downs
+WR 35
+8.34
+KC
+9
+80.78
+61
+101
+78
+Denzel Boston
+WR 36
+11.41
+CLE
+9
+90.61
+31
+44
+79
+Tyler Warren
+TE 8
+12.01
+IND
+7
+87.39
+6
+70
+80
+
++18
+Jordan Love
+QB 7
+20.56
+GB
+9
+98.31
+4
+3
+81
+
+-10
+Jaylen Waddle
+WR 37
+9.11
+DEN
+9
+57.52
+54
+77
+82
+
+-10
+Germie Bernard
+WR 38
+8.35
+PIT
+8
+63.98
+59
+128
+83
+Jadarian Price
+RB 30
+6.30
+SEA
+5
+38.17
+52
+261
+84
+
+-10
+Jared Goff
+QB 8
+18.42
+DET
+8
+99.45
+10
+9
+85
+Harold Fannin
+TE 9
+11.37
+CLE
+9
+86.52
+8
+45
+86
+
++22
+C.J. Stroud
+QB 9
+20.51
+HOU
+8
+98.48
+5
+8
+87
+Makai Lemon
+WR 39
+8.19
+PHI
+9
+79.41
+63
+109
+88
+Omar Cooper Jr.
+WR 40
+12.52
+NYJ
+5
+62.86
+26
+141
+II
+TIER
+Expert Average
+
+FPTS
+
+Team
+
+Played
+
+SNAP%
+
+POS Finish
+
+OVR Finish
+89
+
++33
+Keenan Allen
+WR 41
+10.14
+SF
+8
+58.82
+38
+80
+90
+Rico Dowdle
+RB 31
+8.92
+PIT
+5
+39.53
+35
+210
+91
+
+-10
+Jayden Daniels
+QB 10
+19.42
+WAS
+7
+93.06
+7
+15
+92
+Dak Prescott
+QB 11
+18.60
+DAL
+9
+100
+9
+7
+93
+Rachaad White
+RB 32
+9.49
+WAS
+8
+52.45
+31
+98
+94
+Braelon Allen
+RB 33
+11.67
+NYJ
+9
+65.35
+23
+42
+95
+Jordan Mason
+RB 34
+6.73
+MIN
+4
+46.67
+47
+277
+96
+Travis Kelce
+TE 10
+12.41
+KC
+8
+76.86
+5
+48
+97
+
+-25
+Ladd McConkey
+WR 42
+8.60
+LAC
+6
+52.55
+58
+184
+98
+Omarion Hampton
+RB 35
+8.53
+LAC
+8
+43.31
+39
+122
+99
+
++20
+Caleb Douglas
+WR 43
+12.12
+MIA
+5
+80.79
+29
+150
+100
+Dalton Kincaid
+TE 11
+10.61
+BUF
+8
+63.70
+10
+69
+101
+Patrick Mahomes
+QB 12
+17.75
+KC
+8
+99.22
+15
+14
+102
+Tyler Allgeier
+RB 36
+10.08
+ARI
+9
+55.17
+29
+58
+103
+
++18
+Jordan Addison
+WR 44
+7.70
+MIN
+7
+91.79
+68
+175
+104
+Jeremiyah Love
+RB 37
+8.90
+ARI
+6
+43.75
+36
+176
+105
+Woody Marks
+RB 38
+8.86
+HOU
+8
+61.93
+37
+118
+106
+Antonio Williams
+WR 45
+8.07
+WAS
+9
+64.14
+65
+112
+107
+Aaron Jones
+RB 39
+10.36
+MIN
+8
+60
+28
+76
+108
+
++52
+Davante Adams
+WR 46
+17
+LAR
+6
+75.52
+11
+46
+109
+Tre Tucker
+WR 47
+12.14
+LV
+9
+66.55
+28
+40
+110
+David Montgomery
+RB 40
+9.10
+HOU
+5
+46.41
+33
+205
+JJ
+TIER
+Expert Average
+
+FPTS
+
+Team
+
+Played
+
+SNAP%
+
+POS Finish
+
+OVR Finish
+111
+Tyler Shough
+QB 13
+18.20
+NO
+8
+99.64
+14
+12
+112
+
++78
+Tank Dell
+WR 48
+13
+HOU
+2
+35.88
+INJ
+INJ
+113
+
++16
+Adonai Mitchell
+WR 49
+9.70
+NYJ
+5
+69.72
+43
+194
+114
+Dallas Goedert
+TE 12
+10.57
+PHI
+7
+70.56
+11
+106
+115
+
++15
+Kenneth Gainwell
+RB 41
+7.07
+TB
+9
+37.16
+43
+134
+116
+
+-11
+Jakobi Meyers
+WR 50
+9.45
+JAX
+8
+75.41
+51
+100
+117
+Bryce Young
+QB 14
+18.32
+CAR
+8
+95.71
+13
+11
+118
+
++49
+Dylan Sampson
+RB 42
+7.85
+CLE
+4
+44.70
+41
+262
+119
+
+-10
+Mike Washington Jr.
+RB 43
+4.18
+LV
+9
+26.18
+64
+236
+120
+T.J. Hockenson
+TE 13
+10.73
+MIN
+8
+66.80
+9
+68
+121
+Wan'Dale Robinson
+WR 51
+9.66
+TEN
+8
+70.17
+46
+93
+122
+Kyle Pitts
+TE 14
+7.89
+ATL
+9
+58.93
+22
+117
+123
+Matthew Stafford
+QB 15
+15.87
+LAR
+9
+98.42
+17
+13
+KK
+TIER
+Expert Average
+
+FPTS
+
+Team
+
+Played
+
+SNAP%
+
+POS Finish
+
+OVR Finish
+124
+Kaelon Black
+RB 44
+4.71
+SF
+8
+28.92
+58
+235
+125
+Khalil Shakir
+WR 52
+9.53
+BUF
+8
+62.07
+48
+96
+126
+Corey Kiner
+RB 45
+3.56
+NE
+9
+13.16
+69
+256
+127
+Emmett Johnson
+RB 46
+7.60
+KC
+8
+26.27
+42
+149
+128
+Aaron Rodgers
+QB 16
+14.64
+PIT
+8
+98.50
+20
+19
+129
+Kirk Cousins
+QB 17
+19.14
+MIN
+9
+98.31
+8
+5
+130
+Brenton Strange
+TE 15
+8.95
+JAX
+8
+75.81
+19
+114
+131
+Chig Okonkwo
+TE 16
+7.33
+WAS
+7
+66.96
+24
+185
+132
+
+-21
+Xavier Worthy
+WR 53
+8.35
+KC
+8
+82.55
+59
+128
+133
+Alvin Kamara
+RB 47
+10.53
+NO
+7
+36.99
+26
+109
+134
+Chris Rodriguez
+RB 48
+6.80
+JAX
+8
+26.63
+45
+171
+135
+Malik Washington
+WR 54
+9.48
+MIA
+8
+81.67
+50
+99
+136
+
++99
+Audric Estime
+RB 49
+10.17
+NO
+3
+25.55
+INJ
+INJ
+137
+
+-12
+Alec Pierce
+WR 55
+6.10
+IND
+2
+41.18
+INJ
+INJ
+138
+Devaughn Vele
+WR 56
+11.19
+NO
+8
+91.53
+33
+60
+139
+Ja'Kobi Lane
+WR 57
+3.58
+BAL
+5
+56.52
+108
+306
+140
+
++26
+Ryan Flournoy
+WR 58
+9.31
+DAL
+9
+76.76
+52
+74
+141
+Bo Nix
+QB 18
+14.53
+DEN
+9
+100
+21
+16
+142
+Courtland Sutton
+WR 59
+7.07
+DEN
+9
+78.41
+70
+134
+143
+
+-19
+TreVeyon Henderson
+RB 50
+5.63
+NE
+6
+31.97
+54
+246
+144
+
+-23
+Marvin Harrison
+WR 60
+5.18
+HOU
+11
+55.72
+83
+162
+145
+
++10
+DeMario Douglas
+WR 61
+10.71
+NE
+9
+57.44
+37
+51
+146
+Chris Godwin
+WR 62
+6.43
+TB
+9
+83.11
+76
+160
+147
+RJ Harvey
+RB 51
+11.23
+DEN
+6
+38.80
+25
+126
+148
+Pat Freiermuth
+TE 17
+9.88
+PIT
+8
+65.48
+14
+85
+149
+Michael Pittman
+WR 63
+5.30
+PIT
+3
+77.61
+INJ
+INJ
+150
+
++10
+Romeo Doubs
+WR 64
+9.68
+NE
+6
+57.84
+45
+158
+151
+Juwan Johnson
+TE 18
+9.86
+NO
+8
+64.68
+15
+88
+152
+
+-22
+Seth McGowan
+RB 52
+3.63
+IND
+9
+22.43
+68
+253
+153
+Keon Coleman
+WR 65
+8.93
+BUF
+8
+68.42
+56
+115
+154
+Devin Singletary
+RB 53
+6.62
+NYG
+6
+39.05
+48
+226
+155
+Hunter Henry
+TE 19
+8.90
+NE
+9
+64.44
+21
+82
+156
+Efton Chism
+WR 66
+6.36
+NE
+8
+54.09
+79
+188
+157
+Elijah Mitchell
+RB 54
+6.57
+PHI
+3
+40
+INJ
+INJ
+158
+
++17
+J.J. McCarthy
+QB 19
+10.22
+NYG
+5
+57.69
+30
+33
+159
+Jacory Croskey-Merritt
+RB 55
+8.98
+WAS
+5
+44.64
+34
+206
+160
+Michael Penix
+QB 20
+13.75
+ATL
+7
+99.07
+24
+24
+161
+Sam Darnold
+QB 21
+13.19
+SEA
+7
+90.15
+25
+25
+162
+Kyler Murray
+QB 22
+12.26
+MIN
+6
+85.97
+28
+30
+163
+Brian Thomas
+WR 67
+4.21
+JAX
+8
+43.09
+93
+248
+164
+Michael Mayer
+TE 20
+9.09
+LV
+9
+80.74
+18
+79
+165
+Geno Smith
+QB 23
+14.50
+NYJ
+9
+100
+22
+17
+166
+Dalton Schultz
+TE 21
+8.93
+HOU
+8
+55.87
+20
+115
+167
+Mike Gesicki
+TE 22
+10.03
+CIN
+8
+48.22
+13
+81
+168
+
+-14
+J.K. Dobbins
+RB 56
+6.94
+DEN
+9
+35.04
+44
+142
+LL
+TIER
+Expert Average
+
+FPTS
+
+Team
+
+Played
+
+SNAP%
+
+POS Finish
+
+OVR Finish
+169
+
++42
+Pat Bryant
+WR 68
+9.50
+DEN
+5
+60.31
+49
+199
+170
+Treylon Burks
+WR 69
+7.43
+WAS
+7
+53.68
+69
+181
+171
+Travis Hunter
+WR 70
+4.16
+JAX
+8
+6.75
+96
+249
+172
+
+-10
+Quentin Johnston
+WR 71
+6.54
+LAC
+7
+81.25
+74
+204
+173
+Chris Bell
+WR 72
+3.65
+MIA
+8
+61.67
+107
+269
+174
+Baker Mayfield
+QB 24
+8.48
+TB
+6
+97.38
+34
+34
+175
+
++21
+Austin Ekeler
+RB 57
+5.05
+WAS
+6
+28.13
+57
+264
+176
+Terrance Ferguson
+TE 23
+6.43
+LAR
+3
+42.58
+INJ
+INJ
+177
+Kenyon Sadiq
+TE 24
+6.09
+NYJ
+9
+42.91
+32
+169
+178
+Eli Raridon
+TE 25
+6.31
+NE
+8
+56.51
+31
+189
+179
+Keaton Mitchell
+RB 58
+6.26
+LAC
+8
+30.70
+53
+190
+180
+Mark Andrews
+TE 26
+6.52
+BAL
+9
+63.28
+29
+155
+181
+MarShawn Lloyd
+RB 59
+6.48
+GB
+8
+35.43
+50
+183
+182
+
++47
+Tyler Goodson
+RB 60
+3.23
+DAL
+7
+18.59
+74
+292
+183
+Tyler Higbee
+TE 27
+6.52
+LAR
+9
+63.88
+29
+155
+184
+Cam Ward
+QB 25
+12.57
+TEN
+8
+100
+27
+23
+MM
+TIER
+Expert Average
+
+FPTS
+
+Team
+
+Played
+
+SNAP%
+
+POS Finish
+
+OVR Finish
+185
+Tre Harris
+WR 73
+6.74
+LAC
+7
+69.98
+73
+200
+186
+
+-14
+Malik Willis
+QB 26
+13.13
+MIA
+8
+100
+26
+22
+187
+Rashid Shaheed
+WR 74
+6.03
+SEA
+7
+49.35
+82
+218
+188
+
+-26
+Brian Robinson
+RB 61
+8.85
+ATL
+6
+30.59
+38
+178
+189
+
++22
+Kaleb Johnson
+RB 62
+3.31
+GB
+7
+21.10
+73
+288
+190
+
+-11
+Dontayvion Wicks
+WR 75
+8.90
+PHI
+6
+78.53
+57
+176
+191
+Jake Ferguson
+TE 28
+6.07
+DAL
+9
+55.13
+33
+170
+192
+Malachi Fields
+WR 76
+7
+NYG
+9
+77.81
+72
+137
+193
+Samaje Perine
+RB 63
+5.61
+CIN
+8
+35.77
+55
+206
+194
+De'Zhaun Stribling
+WR 77
+0
+SF
+1
+32.31
+INJ
+INJ
+195
+AJ Barner
+TE 29
+6.98
+SEA
+9
+87.04
+26
+140
+196
+
+-21
+Kendre Miller
+RB 64
+6.43
+DAL
+6
+30.83
+51
+232
+197
+Kalif Raymond
+WR 78
+7.86
+CHI
+9
+62.73
+67
+119
+198
+Deshaun Watson
+QB 27
+14.74
+CLE
+8
+-
+19
+18
+199
+Jonathon Brooks
+RB 65
+4.65
+CAR
+2
+24.63
+INJ
+INJ
+200
+
+-20
+Emanuel Wilson
+RB 66
+9.35
+SEA
+8
+35.86
+32
+105
+201
+Zonovan Knight
+RB 67
+3.14
+ARI
+8
+17.95
+75
+284
+202
+Tyjae Spears
+RB 68
+4.52
+TEN
+6
+41.67
+61
+275
+203
+Ted Hurst
+WR 79
+3.76
+TB
+9
+50.51
+103
+246
+204
+Rashod Bateman
+WR 80
+6.16
+BAL
+9
+70.23
+81
+167
+205
+
+-14
+Kimani Vidal
+RB 69
+5.48
+LAC
+8
+30.51
+56
+214
+206
+Darren Waller
+TE 30
+9.61
+CAR
+8
+48.75
+16
+95
+207
+Kayshon Boutte
+WR 81
+7.86
+HOU
+8
+51.52
+66
+138
+208
+Roman Wilson
+WR 82
+8.96
+PIT
+5
+47.73
+55
+209
+209
+Brevyn Spann-Ford
+TE 31
+3.11
+DAL
+9
+48.88
+52
+272
+210
+Kyle Williams
+WR 83
+-
+-
+-
+-
+-
+-
+211
+Justin Herbert
+QB 28
+10.08
+LAC
+8
+97.18
+31
+27
+212
+Greg Dulcich
+TE 32
+6.63
+MIA
+8
+67.29
+28
+179
+213
+Oronde Gadsden
+TE 33
+5.30
+LAC
+8
+47.46
+35
+217
+214
+Konata Mumpfield
+WR 84
+3.69
+LAR
+9
+42.43
+105
+251
+215
+Jaylen Wright
+RB 70
+0.68
+MIA
+6
+12.57
+95
+403
+216
+Jalen McMillan
+WR 85
+0
+TB
+2
+6.72
+INJ
+INJ
+217
+Mack Hollins
+WR 86
+9.70
+NE
+5
+64.33
+43
+194
+218
+
+-15
+Dameon Pierce
+RB 71
+10
+-
+3
+78.65
+INJ
+INJ
+219
+Jalen Nailor
+WR 87
+4.03
+LV
+8
+55.83
+98
+255
+220
+Daniel Jones
+QB 29
+9.05
+IND
+9
+-
+33
+26
+NN
+TIER
+Expert Average
+
+FPTS
+
+Team
+
+Played
+
+SNAP%
+
+POS Finish
+
+OVR Finish
+221
+Jawhar Jordan
+RB 72
+12
+HOU
+1
+22.22
+INJ
+INJ
+222
+Elic Ayomanor
+WR 88
+5.01
+TEN
+8
+64.92
+85
+222
+223
+
++16
+Fernando Mendoza
+QB 30
+2.22
+LV
+1
+16.67
+INJ
+INJ
+224
+
++17
+Brandon Aiyuk
+WR 89
+0
+SF
+0
+-
+INJ
+INJ
+225
+Tyreek Hill
+WR 90
+-
+-
+-
+-
+-
+-
+226
+Darnell Mooney
+WR 91
+3.81
+NYG
+9
+56.43
+101
+245
+227
+Troy Franklin
+WR 92
+2.17
+DEN
+9
+45.49
+124
+301
+228
+Cyrus Allen
+WR 93
+1.44
+KC
+8
+16.67
+137
+344
+229
+Zachariah Branch
+WR 94
+1.90
+ATL
+8
+23.49
+129
+326
+230
+Gunnar Helm
+TE 34
+4.63
+TEN
+8
+75.42
+39
+238
+231
+Jauan Jennings
+WR 95
+1.90
+MIN
+6
+68.31
+129
+346
+232
+Pierre Strong
+RB 73
+4.40
+GB
+5
+33.43
+62
+294
+233
+Khalil Herbert
+RB 74
+3.07
+ATL
+3
+17.39
+INJ
+INJ
+234
+Tyrone Tracy
+RB 75
+4.56
+NYG
+7
+14.69
+59
+258
+235
+Isaac TeSlaa
+WR 96
+3.95
+DET
+8
+56.35
+99
+260
+236
+Mason Taylor
+TE 35
+6.67
+NYJ
+7
+58.61
+27
+201
+237
+Calvin Ridley
+WR 97
+2.16
+TEN
+7
+52.78
+125
+327
+238
+Jerry Jeudy
+WR 98
+4.31
+CLE
+9
+60.58
+91
+231
+239
+Jacoby Brissett
+QB 31
+13.90
+BAL
+8
+94.19
+23
+20
+240
+Cade Otton
+TE 36
+4.90
+TB
+9
+94.59
+38
+212
+241
+
+-12
+Tanner McKee
+QB 32
+10.04
+PHI
+3
+100
+INJ
+INJ
+242
+Elijah Sarratt
+WR 99
+2.30
+BAL
+1
+35.94
+INJ
+INJ
+243
+Will Shipley
+RB 76
+3.96
+PHI
+5
+34.21
+67
+299
+244
+
++12
+Sione Vaki
+RB 77
+3.36
+DET
+8
+25.05
+72
+277
+245
+Calvin Austin
+WR 100
+-
+NYG
+-
+-
+-
+-
+246
+Luke McCaffrey
+WR 101
+0.27
+WAS
+6
+8.74
+167
+430
+247
+Ray Davis
+RB 78
+1.43
+BUF
+8
+12.89
+83
+346
+248
+
+-15
+Najee Harris
+RB 79
+2.28
+-
+5
+17.18
+79
+346
+249
+Isaac Guerendo
+RB 80
+-
+SF
+-
+-
+-
+-
+250
+Darnell Washington
+TE 37
+7.80
+PIT
+8
+64.73
+23
+143
+251
+Nicholas Singleton
+RB 81
+0.30
+TEN
+4
+5.51
+99
+438
+252
+
+-13
+Tank Bigsby
+RB 82
+4.28
+PHI
+4
+26.03
+63
+312
+253
+Sean Tucker
+RB 83
+2.86
+TB
+7
+4.34
+77
+298
+254
+Evan Hull
+RB 84
+0
+ARI
+3
+0.97
+INJ
+INJ
+255
+Charlie Kolar
+TE 38
+4.03
+LAC
+6
+64.71
+44
+287
+256
+Evan Engram
+TE 39
+4.43
+DEN
+9
+53.27
+41
+225
+257
+Tory Horton
+WR 102
+3.69
+SEA
+8
+38.97
+106
+267
+258
+Colby Parkinson
+TE 40
+5.09
+LAR
+7
+64.92
+36
+242
+259
+
++10
+Justice Hill
+RB 85
+6.79
+BAL
+9
+44.03
+46
+147
+260
+Cooper Kupp
+WR 103
+6.42
+SEA
+9
+71.21
+77
+161
+261
+Max Klare
+TE 41
+0
+LAR
+6
+6.21
+103
+444
+262
+Christian Kirk
+WR 104
+0
+SF
+1
+30.30
+INJ
+INJ
+263
+Carson Wentz
+QB 33
+7.59
+MIN
+3
+88.48
+INJ
+INJ
+264
+Skyler Bell
+WR 105
+0
+BUF
+2
+52.27
+INJ
+INJ
+265
+George Holani
+RB 86
+4.06
+SEA
+9
+33.67
+65
+239
+266
+Jack Bech
+WR 106
+3.54
+LV
+5
+36.31
+109
+308
+267
+Bryce Lance
+WR 107
+2.85
+NO
+8
+66.67
+116
+290
+268
+Eli Stowers
+TE 42
+2.77
+PHI
+3
+15.61
+INJ
+INJ
+269
+Cedric Tillman
+WR 108
+0
+NO
+3
+3.45
+INJ
+INJ
+270
+Andrei Iosivas
+WR 109
+2.45
+CIN
+2
+57.26
+INJ
+INJ
+271
+Tez Johnson
+WR 110
+4.93
+TB
+9
+43.24
+86
+211
+272
+
++17
+Shedeur Sanders
+QB 34
+7.59
+CLE
+3
+36.62
+INJ
+INJ
+273
+Joe Milton
+QB 35
+13.16
+PHI
+1
+100
+INJ
+INJ
+274
+Chris Brooks
+RB 87
+3.10
+GB
+4
+40.32
+76
+339
+275
+Roschon Johnson
+RB 88
+3.54
+CHI
+9
+14.09
+70
+258
+276
+Brashard Smith
+RB 89
+0.28
+KC
+5
+1.86
+100
+433
+277
+Jordan James
+RB 90
+0.88
+SF
+6
+4.90
+93
+390
+278
+Chimere Dike
+WR 111
+3.18
+TEN
+8
+24.16
+112
+283
+279
+Demond Claiborne
+RB 91
+1.02
+MIN
+4
+6.92
+92
+403
+280
+Jameis Winston
+QB 36
+9.16
+NYG
+8
+60.76
+32
+31
+281
+Xavier Legette
+WR 112
+4.20
+CAR
+2
+51.49
+INJ
+INJ
+282
+David Njoku
+TE 43
+6.35
+LAC
+2
+33.33
+INJ
+INJ
+283
+Jaydon Blue
+RB 92
+0.95
+-
+2
+5.76
+INJ
+INJ
+284
+Isaiah Williams
+WR 113
+4.82
+NYJ
+9
+54.40
+87
+215
+285
+Anthony Richardson
+QB 37
+0.72
+IND
+1
+21.31
+INJ
+INJ
+286
+Ty Johnson
+RB 93
+6.52
+BUF
+6
+23.15
+49
+230
+287
+Elijah Arroyo
+TE 44
+0.45
+SEA
+6
+22.28
+95
+419
+288
+Adam Randall
+RB 94
+-
+BAL
+-
+-
+-
+-
+289
+Isaiah Davis
+RB 95
+1.80
+NYJ
+9
+7.90
+80
+320
+290
+Theo Johnson
+TE 45
+2.47
+NYG
+7
+32.15
+54
+310
+291
+Kaytron Allen
+RB 96
+1.25
+MIA
+11
+6.72
+90
+331
+292
+Isiah Pacheco
+RB 97
+-
+DET
+-
+-
+-
+-
+293
+Carson Beck
+QB 38
+0
+ARI
+0
+-
+INJ
+INJ
+294
+Dawson Knox
+TE 46
+3.36
+BUF
+8
+69.69
+48
+277
+295
+DeeJay Dallas
+RB 98
+1.25
+MIN
+8
+14.64
+89
+356
+296
+Kyle Williams
+WR 114
+4.22
+NE
+9
+40.34
+92
+234
+297
+Darius Slayton
+WR 115
+0
+-
+0
+-
+INJ
+INJ
+298
+Jake Tonges
+TE 47
+0
+SF
+1
+12.31
+INJ
+INJ
+299
+Darius Cooper
+WR 116
+6.33
+PHI
+9
+66.84
+80
+162
+300
+James Conner
+RB 99
+-
+ARI
+-
+-
+-
+-
+301
+Tua Tagovailoa
+QB 39
+-0.64
+ATL
+1
+4.69
+INJ
+INJ
+302
+Ja'Tavion Sanders
+TE 48
+0
+CAR
+2
+0
+INJ
+INJ
+303
+Trey Benson
+RB 100
+-
+ARI
+-
+-
+-
+-
+304
+Zavion Thomas
+WR 117
+1.50
+CHI
+9
+10.15
+136
+334
+305
+Hollywood Brown
+WR 118
+3.13
+-
+4
+42.70
+113
+338
+306
+Noah Gray
+TE 49
+4.93
+KC
+8
+58.24
+37
+228
+307
+Tutu Atwell
+WR 119
+2.41
+LAR
+7
+29.18
+121
+314
+308
+Joshua Palmer
+WR 120
+4.62
+BUF
+6
+30.96
+88
+274
+309
+Olamide Zaccheaus
+WR 121
+1.08
+ATL
+8
+41.34
+143
+361
+310
+Jahan Dotson
+WR 122
+7.03
+ATL
+9
+69.64
+71
+136
+311
+Jaylin Lane
+WR 123
+1.13
+WAS
+4
+12.77
+141
+401
+312
+
+-14
+Drew Lock
+QB 40
+15.59
+SEA
+3
+97.33
+INJ
+INJ
+313
+Dont'e Thornton Jr.
+WR 124
+0
+LV
+0
+-
+INJ
+INJ
+314
+Isaiah Bond
+WR 125
+1.51
+CLE
+9
+16.21
+135
+332
+315
+DJ Giddens
+RB 101
+4.30
+IND
+1
+13.11
+INJ
+INJ
+316
+Jalen Tolbert
+WR 126
+1.25
+MIA
+4
+16.05
+139
+396
+317
+Demarcus Robinson
+WR 127
+8.20
+SF
+3
+49.47
+INJ
+INJ
+318
+Jaleel McLaughlin
+RB 102
+2.66
+CLE
+7
+14.72
+78
+305
+319
+LeQuint Allen
+RB 103
+0.38
+JAX
+8
+12.40
+97
+417
+320
+Emari Demercado
+RB 104
+1.28
+HOU
+5
+16.39
+88
+381
+321
+Oscar Delp
+TE 50
+0.86
+NO
+7
+28.60
+82
+384
+322
+Noah Fant
+TE 51
+5.66
+NO
+7
+50.31
+34
+227
+323
+Justin Joly
+TE 52
+0
+MIA
+1
+0
+INJ
+INJ
+324
+Marvin Mims
+WR 128
+2.89
+DEN
+7
+24.77
+115
+297
+325
+Mac Jones
+QB 41
+-0.25
+SF
+2
+11.20
+INJ
+INJ
+326
+Raheim Sanders
+RB 105
+4.54
+CLE
+5
+32.48
+60
+291
+327
+Marcus Mariota
+QB 42
+11.50
+WAS
+3
+54.41
+INJ
+INJ
+328
+Devin Neal
+RB 106
+-
+WAS
+-
+-
+-
+-
+OO
+TIER
+Expert Average
+
+FPTS
+
+Team
+
+Played
+
+SNAP%
+
+POS Finish
+
+OVR Finish
+329
+Trevor Etienne
+RB 107
+1.30
+CAR
+4
+11.68
+86
+393
+330
+Luke Schoonmaker
+TE 53
+0.86
+DAL
+7
+16.14
+82
+384
+331
+Cade Klubnik
+QB 43
+0
+NYJ
+0
+-
+INJ
+INJ
+332
+Kendrick Bourne
+WR 129
+6.54
+ARI
+8
+54.19
+75
+180
+333
+Zach Ertz
+TE 54
+1.73
+PHI
+3
+22.54
+INJ
+INJ
+334
+Drew Allar
+QB 44
+0
+PIT
+0
+-
+INJ
+INJ
+335
+
++19
+Justin Fields
+QB 45
+-1.05
+KC
+2
+4.44
+INJ
+INJ
+336
+Jordan Whittington
+WR 130
+0.40
+LAR
+8
+22.73
+162
+413
+337
+Ty Simpson
+QB 46
+0
+LAR
+0
+-
+INJ
+INJ
+338
+
+-10
+Jarquez Hunter
+RB 108
+-
+-
+-
+-
+-
+-
+339
+Jerome Ford
+RB 109
+0
+ARI
+0
+-
+INJ
+INJ
+340
+Brenen Thompson
+WR 131
+1.15
+LAC
+2
+17.89
+INJ
+INJ
+341
+Savion Williams
+WR 132
+8.07
+GB
+4
+54.15
+64
+254
+342
+Xavier Hutchinson
+WR 133
+8.29
+HOU
+8
+58.14
+62
+131
+343
+Kevin Coleman Jr.
+WR 134
+3.73
+MIA
+8
+39.17
+104
+266
+344
+KaVontae Turpin
+WR 135
+2.15
+DAL
+6
+14.14
+126
+337
+345
+Nick Westbrook-Ikhine
+WR 136
+0
+IND
+3
+9.13
+INJ
+INJ
+346
+Ashton Dulin
+WR 137
+3.80
+IND
+5
+22.11
+102
+303
+347
+Tahj Brooks
+RB 110
+0.08
+CIN
+8
+1.19
+106
+441
+348
+Devontez Walker
+WR 138
+2.19
+BAL
+8
+41.18
+123
+309
+349
+Luke Musgrave
+TE 55
+-
+GB
+-
+-
+-
+-
+350
+Dyami Brown
+WR 139
+2.34
+WAS
+7
+44.06
+122
+318
+351
+Greg Dortch
+WR 140
+0
+BUF
+8
+4.17
+171
+444
+352
+Theo Wease Jr.
+WR 141
+3.35
+LAC
+2
+55.56
+INJ
+INJ
+353
+DeAndre Hopkins
+WR 142
+-
+-
+-
+-
+-
+-
+354
+Mo Alie-Cox
+TE 56
+1.46
+IND
+9
+38.28
+67
+335
+355
+Joe Flacco
+QB 47
+0
+CIN
+1
+5.66
+INJ
+INJ
+356
+JuJu Smith-Schuster
+WR 143
+-
+-
+-
+-
+-
+-
+357
+Kareem Hunt
+RB 111
+-
+-
+-
+-
+-
+-
+358
+Eli Heidenreich
+RB 112
+0
+PIT
+2
+2.19
+INJ
+INJ
+359
+Taysom Hill
+TE 57
+-
+-
+-
+-
+-
+-
+360
+Riley Leonard
+QB 48
+0
+IND
+1
+0
+INJ
+INJ
+361
+Tyrod Taylor
+QB 49
+-0.10
+GB
+2
+7.87
+INJ
+INJ

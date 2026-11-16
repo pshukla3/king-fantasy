@@ -1,0 +1,6 @@
+source,tier,url,n
+Yahoo Sports NFL,2,https://sports.yahoo.com/nfl/rss.xml,50
+CBS Sports NFL,2,https://www.cbssports.com/rss/headlines/nfl/,36
+ProFootballTalk,2,https://profootballtalk.nbcsports.com/feed/,30
+Sporting News NFL,2,https://www.sportingnews.com/us/rss,20
+Rotowire NFL,3,https://www.rotowire.com/rss/news.php?sport=nfl,5

@@ -150,12 +150,47 @@ function depthCard(t){
    var im=m.img?'<img src="'+RE(m.img)+'" alt="">':
     '<img alt="">';
    var fl=hurt[m.id]?' <em>&#9873; '+RE(hurt[m.id])+'</em>':'';
-   h+='<div class="dp"><i>'+(m.rank||"")+'</i>'+im+
+   var oc=m.id?' onclick="openCard(\''+m.id+'\')"':'';
+   h+='<div class="dp'+(m.id?' clk':'')+'"'+oc+'><i>'+
+    (m.rank||"")+'</i>'+im+
     '<span>'+RE(m.name)+fl+'</span></div>';
   });
   h+='</div>';
  });
- h+='</div><p class="dnote">Depth order is the latest '+
+ h+='</div>';
+ var DEFO=["DE","LDE","RDE","EDGE","DT","LDT","RDT","NT",
+  "OLB","LOLB","ROLB","ILB","LILB","RILB","MLB","WLB","SLB",
+  "LB","CB","LCB","RCB","NB","FS","SS","S","DB",
+  "K","P","LS","KR","PR"];
+ [["defense","Defense"],["special","Special teams"]]
+  .forEach(function(gp){
+  var G=(T.depth&&T.depth[gp[0]])||{};
+  var ks=Object.keys(G);
+  if(!ks.length){return;}
+  ks.sort(function(a,b){
+   var i=DEFO.indexOf(a),j=DEFO.indexOf(b);
+   if(i<0){i=99;}
+   if(j<0){j=99;}
+   return i-j||(a<b?-1:1);});
+  h+='<h4 class="dsub">'+RE(gp[1])+'</h4><div class="dgrid">';
+  ks.forEach(function(p){
+   var L=G[p];
+   if(!L||!L.length){return;}
+   h+='<div class="dpos"><h5>'+RE(p)+'</h5>';
+   L.slice(0,4).forEach(function(m){
+    var im=m.img?'<img src="'+RE(m.img)+'" alt="">':
+     '<img alt="">';
+    var fl=hurt[m.id]?' <em>&#9873; '+RE(hurt[m.id])+'</em>':'';
+    var oc=m.id?' onclick="openCard(\''+m.id+'\')"':'';
+    h+='<div class="dp'+(m.id?' clk':'')+'"'+oc+'><i>'+
+     (m.rank||"")+'</i>'+im+
+     '<span>'+RE(m.name)+fl+'</span></div>';
+   });
+   h+='</div>';
+  });
+  h+='</div>';
+ });
+ h+='<p class="dnote">Depth order is the latest '+
   'published chart, not a projection. Injury flags come from '+
   'the tracked list; a flagged starter is the single biggest '+
   'reason a projection moves.</p></div>';
@@ -190,9 +225,24 @@ A4 = "</script></body></html>"
 for a in (A2, A4):
     assert a in H, "MISSING ANCHOR: %r" % a
 
-H = H.replace(A2, CSS, 1)
-H = H.replace(A4, "\n" + JS + "\nsafe(drawRosters,'rosters');\n"
-              + A4, 1)
+import re as _re
+H = _re.sub(r"<!--THEMECSS-->.*?</style>", "", H,
+            flags=_re.S)
+H = _re.sub(r'<script id="themejs">.*?</script>', "", H,
+            flags=_re.S)
+H = _re.sub(r"/\*THEMEJS\*/.*?/\*ENDTHEMEJS\*/", "", H,
+            flags=_re.S)
+H = H.replace(A2, "<!--THEMECSS-->" + CSS, 1)
+# Own a dedicated inline tag. Inserting before the
+# tail </script> put this code inside a src'd tag,
+# where browsers ignore it entirely.
+H = H.replace(A4, "</script>"
+              + '<script id="themejs">\n/*THEMEJS*/\n'
+              + JS
+              + "\nsafe(drawRosters,'rosters');\n"
+              + "/*ENDTHEMEJS*/\n</script>"
+              + "</body></html>", 1)
+assert H.count("</script></body></html>") == 1
 open("vaporai.html", "w").write(H)
 
 print("\n=== VERIFY ===")
