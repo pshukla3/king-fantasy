@@ -1,7 +1,7 @@
 # King Fantasy
 
 NFL fantasy football projections, built from measured signal rather than
-tuned by feel. Live at **https://accuracy.report**
+tuned by feel. Live at **https://kingfantasyfootball.com**
 
 Every weight in the model was tested for year-over-year persistence before
 being used. Signals that did not repeat were dropped and are documented
